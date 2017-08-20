@@ -1,0 +1,57 @@
+First announcement and 
+
+CALL FOR PAPERS
+The 15th International Conference on
+DISCRETE GEOMETRY for COMPUTER IMAGERY (DGCI 09)
+September 30th - October 2nd 2009
+Montreal (QUE) Canada
+http://dgci2009.lacim.uqam.ca/
+
+
+Discrete geometry is emerging as a theory from ground work in automated representation and processing of digitized objects. From image synthesis to image processing, new concepts have improved the technics leading not only to a better understanding of the mathematical structure of discrete objects but also in faster and more reliable implementations. It covers a wide range of scientific domains of applications, and it mainly deals with topological and geometric descriptions of digitized objects providing both a theoretical and computational framework for computer imaging.
+
+This is the fifteenth conference in the series initiated in 1991 in Strasbourg (France), and it follows the successful 2008 edition held in Lyon, France. DGCI 2009 is organized by the Laboratoire de Combinatoire et d'Informatique Mathématique (LaCIM) Université du Québec à Montréal.
+
+The main topics of interest include (but are not limited to):
+
+    * Models for Discrete Geometry (grids, discrete objects, discrete model properties, digitization schemes, metrics,...)
+    * Discrete and Combinatorial Topology
+    * Geometric Transforms (image mappings, distance transformation, skeletons and medial axis,...)
+    * Discrete Shape Representation, Recognition and Analysis
+    * Discrete Tomography
+    * Morphological Analysis
+    * Discrete Modelling and Graphics
+    * Discrete and Combinatorial Tools for Image Segmentation and Analysis
+
+
+The proceedings of the conference will be published by Springer Verlag in Lecture Notes in Computer Science series (upon Springer approval). Submissions must be in electronic form (PDF or PS) and should be uploaded through the DGCI 2009 Web site. A precise guideline is available on the DGCI 2009 web site. Submissions will be peer-reviewed by at least 2 qualified reviewers. As for the former editions, the selection criteria include: relevance, significance, impact, originality, technical soundness, and quality of presentation.
+
+
+Invited Speakers
+Valérie Berthé, Montpellier (France)
+Anders Kock, Aahrus (Denmark)
+To be announced, Montreal (Canada)
+
+Organizing Committee
+Srecko Brlek (General chair)
+Christophe Reutenauer (General co-chair)
+Xavier Provençal (Publicity)
+Ariane Garon (Local arrangements)
+Lise Tourigny (Secretary)
+Jérôme Tremblay (Webmaster)
+
+Steering Committee
+Eric Andres (France)
+Gunilla Borgefors (Sweden)
+Achille Braquelaire (France)
+Jean-Marc Chassery (France)
+David Coeurjolly (France)
+Annick Montanvert (France)
+Kálmán Palágyi (Hungary)
+Gabriella Sanniti di Baja (Italy)
+
+
+Contact & Further Information
+dgci2009@uqam.ca
+http://dgci2009.lacim.uqam.ca/
+
