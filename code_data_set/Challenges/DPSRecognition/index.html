@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>	
+  <head>	
+    <title>IAPR-TC18 webpage</title>
+    <style type="text/css" media="all"> @import "../../../tc18.css";</style>
+  </head>
+  
+  <body bgcolor="#FFFFFF" TOPMARGIN="10" LEFTMARGIN="10" MARGINWIDTH="10" MARGINHEIGHT="10">
+    
+<object data="../../../head2.html" height=270 width=100%></object>
+<p align="right">
+    <table BGCOLOR= "#FFFF9C" class=listing>
+      <tr>
+	<td><font size=-1><a href="../../../index.html">Home</a></font></td>
+	<td><font	    size=-1><a  href="../../../org.html">Organisation</a></font></td>
+	<td><font   size=-1><a
+	      href="../../../educational.html">Educational</a></font></td>
+      </tr>
+    </table>
+  </p>
+	      <h2>Challenge "Comparative    Evaluation   of  Digital  Plane  Segment  Recognition
+		Algorithms"</h2>
+
+
+<h3> Objective</h3>
+
+<p>In  discrete geometry  various  definitions and  properties  of linear
+structures --  such as straight  lines, planes, or hyperplanes -- have
+been  proposed.  On  this   basis,  computational efficient   analytic
+characterizations of   these objects  have   been  obtained.  In  many
+applications one considers a reverse problem: given a set of pixels or
+(hyper)voxels, decide    if it is   a portion  of   a discrete line or
+(hyper)plane.  For this, a recognition algorithm is needed.</p>
+
+<p>In dimension two, the  arithmetic structure of discrete straight lines
+(DSL) has been exploited to design efficient algorithms, as both their
+asymptotic  computational cost   and  practical efficiency  have  been
+studied.  In  higher  dimension, similar arithmetic  structures  still
+exist   in digital planes    and  hyperplanes.  However,  to   solve a
+recognition  problem,  one  usually   adapts algorithms   from  linear
+programming (LP) or computational geometry (CG). As  a rule,
+there is a gap between the theoretical time complexity bounds obtained
+for linear  programming or   computational geometry problems  and  the
+practical efficiency of   these algorithms  when applied to   discrete
+objects.   Indeed, one can  observe  that the existing time complexity
+bounds are not tight when experimental analysis is performed.</p>
+
+<p>The objective of the challenge  is to provide  both DPS generators and
+frameworks   to compare the existing  recognition  algorithms.</p>
+
+<h3>Members</h3>
+<ul>
+<li> Contact: David Coeurjolly (david.coeurjolly_AT_liris.cnrs.fr)
+<li> Members: 
+	<ul>
+	  <li> David Coeurjolly, LIRIS, Lyon, France
+	    <li> Fabien Feschet, LLAIC, Clermont-Ferrand, France
+            <li> Yan Gerard, LLAIC, Clermont-Ferrand, France
+            <li> Laurent Provot, ADAGIo, LORIA, France
+	   <li> Isabelle Sivignon, LIRIS, Lyon,Lyon France
+	    </ul>
+</ul>
+<b>Important</b>: if  you  want to join a  challenge,  please send  an
+email to the contact person.	    
+
+<h3>Materials</h3>
+
+<p>We  have created  a <a href="http://subversion.tigris.org/">subversion</a>
+repository to track the source files.  To download the code (read-only
+access, send an email to David Coeurjolly to  obtain a write-access if
+you wish):</p>
+
+<pre>svn checkout https://svn.liris.cnrs.fr/dcoeurjo/DigitalPlaneRecognition/trunk/</pre>
+
+
+<h4>DPS Generators and evaluation framework</h4>
+
+<p>Implemented generators:</p>
+<ul>
+<li> Simple random DPS generator
+<li> random DPS generator with rectangular bases
+<li> random DPS generator with <i>rounded</i> bases (see the README file for details)
+<li> ...
+</ul>
+
+<h4>DPS recognition references and codes</h4>
+
+<p>Two main recognition softwares:</p>
+<ul>
+<li> Yan Gerard's <a
+	  href="http://www.tc18.org/code_data_set/code.html#objects">fast DPS recognition algorithm </a>
+        
+        <li> Laurent Provot's Blurred DPS Recognition
+        <li> Simple linear programming backend in order to be able to use a
+	classical linear programming software (<a
+          href="http://cgm.cs.mcgill.ca/~avis/C/lrs.html">lrs</a>, <a href="http://www.ifor.math.ethz.ch/~fukuda/cdd_home/">cdd</a>,...)
+
+</ul>
+
+<h3>Results</h3>
+
+
+<hr>
+<address>Responsible for this page: <a href="mailto:tc18@tc18.org">tc18@tc18.org</a></address>
+<br>
+<!-- Created: Thu Jul 18 17:11:54 MEST 2002 --><!-- hhmts start -->
+Last modified: March 30 2009
+<!-- hhmts end -->
+</body>
+</html>
