@@ -1,5 +1,3 @@
-
-
 <?php include("http://www.tc18.org/header.html") ?>
 
 
