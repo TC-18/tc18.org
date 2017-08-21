@@ -1,3 +1,6 @@
-<?PHP `/usr/bin/git pull`;  ?>
+<?PHP
+     echo `/usr/bin/git pull`;
+
+?>
 
 
