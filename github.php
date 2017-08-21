@@ -1,1 +1,1 @@
-<?PHP `git pull`;  ?>
+<?PHP `/usr/bin/git pull`;  ?>
