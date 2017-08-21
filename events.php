@@ -1,7 +1,9 @@
 
 <?php include("header.html") ?>
     
-    <div id="site_content">
+
+<div id="site_content">
+
 
 
 
@@ -17,6 +19,7 @@ Computer Imagery</a> </li>
 <h3><a name="newsletter">TC18 newsletters</a></h3>
 <a name="newsletter"> </a>
 <ul>
+
   <a name="newsletter">
   </a>
 <li> <a href="newsletters/newsletterDecember2016.html">Number 21 2016</a>
