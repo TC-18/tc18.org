@@ -1,0 +1,18 @@
+# Use this only if necessary
+
+# prevent access to .svn folders (useful if SVN direct deployment)
+#RewriteEngine on
+#RewriteRule .*\.svn - [F]
+
+# make index.php default for this dir
+#DirectoryIndex index.php
+
+# increase upload_max_filesize
+#php_value upload_max_filesize 30M
+
+# Password protection
+AuthType Basic
+AuthName "Restricted Files"
+AuthUserFile /dusers/tc18/.htpasswd
+require user tc18
+require user dgci_sc
