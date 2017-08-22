@@ -442,6 +442,13 @@ active role:
 	<td><a href="http://grupo.us.es/cimagroup">Applied Mathematics (I) Department, University of Seville</a></td>
 	<td>Seville, Spain</td>
       </tr>
+      
+       <tr>
+	<td><a href="https://ajinkyakadu125.github.io">Ajinkya Kadu</a></td>
+	<td>Mathematical Institute, Utrecht University, Utrecht, The Netherlands</td>
+	<td>Kharagpur/Kolkata INDIA </td>
+      </tr>
+
       <tr>
 	<td>Amitava Karak</td>
 	<td><a href="http://www.dmu.ac.uk/research/research-faculties-and-institutes/technology/cci/centre-of-computational-intelligence.aspx/">De Montfort University Leicester Center Of Computational Intelligence</a></td>
