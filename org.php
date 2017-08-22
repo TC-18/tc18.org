@@ -454,7 +454,7 @@ active role:
 	<td>Noisy-le-Grand, France</td>
       </tr>
       <tr>
-	<td>Bertrand Kerautret</a></td>
+	<td><a href="https://members.loria.fr/BKerautret">Bertrand Kerautret</a></td>
 	<td><a href="http://www.loria.fr/equipes/adage/">LORIA, ADAGIo Team, Université de Lorraine,</a></td>
 	<td> Nancy, France</td>
       </tr>
