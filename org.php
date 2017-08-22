@@ -445,8 +445,8 @@ active role:
       
        <tr>
 	<td><a href="https://ajinkyakadu125.github.io">Ajinkya Kadu</a></td>
-	<td>Mathematical Institute, Utrecht University, Utrecht, The Netherlands</td>
-	<td>Kharagpur/Kolkata INDIA </td>
+	<td>Mathematical Institute, Utrecht University</td>
+	<td> Utrecht, The Netherlands </td>
       </tr>
 
       <tr>
