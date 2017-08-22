@@ -571,6 +571,12 @@ active role:
 	<td>Grenoble, France</td>
       </tr>
       <tr>
+	<td><a href="http://icube-miv.unistra.fr/fr/index.php/Benoît_Naegel">Benoît Naegel</a></td>
+	<td><a href="http://icube.unistra.fr">ICUBE, Université de Strasbourg</a></td>
+	<td>Strasbourg, France</td>
+      </tr>
+
+      <tr>
 	<td><a href="http://brahms.emu.edu.tr/benedeknagy/">Benedek Nagy</a></td>
 	<td><a href="http://fas.emu.edu.tr/en">Department of Mathematics, Faculty of Arts and Sciences</a></td>
 	<td>North Cyprus</td>
