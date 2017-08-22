@@ -599,6 +599,12 @@ active role:
         <td>Nancy, France</td>
       </tr>
       <tr>
+        <td><a href="https://www.researchgate.net/profile/Nilanjana_Karmakar">Nilanjana Karmakar</a></td>
+        <td><a href="http://www.iiests.ac.in">Indian Institute of Engineering Science and Technology, Shibpur, india</a></td>
+        <td>Shibpur, india</td>
+      </tr>
+
+      <tr>
         <td><a href="http://www.univ-nantes.fr/normand-n">Nicolas Normand</td>
         <td><a href="http://www.irccyn.ec-nantes.fr/">IRCCyN/IVC, Polytech' Nantes</td>
         <td>Nantes, France</td>
