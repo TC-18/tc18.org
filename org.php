@@ -781,11 +781,5 @@ active role:
   One of our members, Alain Daurat, passed away. This sudden death overwhelms us and many of us share 
   the sorrow of his relatives. You can find <a href="https://lsiit.u-strasbg.fr/special/index.html/Accueil_-_Hommage_%C3%A0_Alain_Daurat">here</a> a web page dedicated to his memory.</p>
 
-  <hr>
-    <p><a href="index.html">IAPR-TC18 webpage</a></p>
-    
-    <address>Responsible for this page: <a href="mailto:tc18@tc18.org">tc18@tc18.org</a></address>
-    
-    <br>
 
 <?php include("footer.html") ?>
