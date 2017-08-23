@@ -66,7 +66,7 @@
   </p>
 
 
-Every year, the technical committee writes a report on its activities for the IAPR. Here are some reports of the last few years: <a href="files/reportIAPR2015.pdf">interim report 2014-2015</a> <a href="files/reportIAPR2014.pdf">report 2012-2014</a> <a href="files/reportIAPR2013.pdf">interim report 2013</a> <a href="files/reportIAPR2016.pdf">report 2014-2016</a>
+Every year, the technical committee writes a report on its activities for the IAPR. Here are some reports of the last few years: <a href="files/reportIAPR2015.pdf">interim report 2014-2015</a> <a href="files/reportIAPR2014.pdf">report 2012-2014</a> <a href="files/reportIAPR2013.pdf">interim report 2013</a> <a href="files/reportIAPR2016.pdf">report 2014-2016</a>  <a href="files/reportIAPR2017.pdf">interim report 2016-2017</a>
 
 
     <h2><a name="formembers">For members</a></h2>

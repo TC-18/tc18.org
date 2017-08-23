@@ -22,6 +22,8 @@ Computer Imagery</a> </li>
 
   <a name="newsletter">
   </a>
+<li> <a href="newsletters/newsletterAugust2017.html">Number 22 2017</a>
+    - sent 23 August 2017</li>  
 <li> <a href="newsletters/newsletterDecember2016.html">Number 21 2016</a>
     - sent 16 December 2016</li>  
 <li> <a href="newsletters/newsletterJune2016.html">Number 20 2016</a>
