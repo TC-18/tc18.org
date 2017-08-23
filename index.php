@@ -53,7 +53,7 @@
 		  <!-- </dd><br> -->
 		  
 		  <dt> May 15-17, 2017</dt>
-		  <dd> <a href="">International Symposium on Mathematical Morphology</a><br> Fontainebleau, France<br>
+		  <dd> <a href="http://cmm.ensmp.fr/ismm2017/">International Symposium on Mathematical Morphology</a><br> Fontainebleau, France<br>
 		  </dd>
 		  
 		  <!--		  
