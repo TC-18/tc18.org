@@ -96,13 +96,12 @@
       
     <h2> What is TC18 ?</h2>
 
-    <p>
-      The aim of this IAPR-Technical Committee is to promote
+    <p> The aim of this IAPR-Technical Committee is to promote
       interactions and collaboration between researchers working on
-      discrete geometry. Conferences and a TC web page provide these
-      opportunities. The topic is not covered by other IAPR-TCs, but has
-      links with some of them. 
-    </p>
+      Discrete Geometry and Mathematical Morphology. Conferences and a
+      TC web page provide these opportunities. The topic is not
+      covered by other IAPR-TCs, but has links with some of them.
+      </p>
 
     <p>
       The main conference is the Discrete Geometry for Computer Imagery (DGCI) conference. DGCI is a series of conferences of which the first was held in 1991 in Strasbourg, and now held every 18 months. It is an international conference by its participants, its scientific committee and its location. Since the 6th DGCI (November 1996), proceedings have been published by Springer Verlag, in the Lecture Notes in Computer Science series.
