@@ -367,7 +367,7 @@ active role:
 	<td>Nancy, France</td>
       </tr>
       <tr>
-	<td>Fabien Feschet</td>
+	<td><a href="http://igcnc.u-clermont1.fr/cv/189">Fabien Feschet</a></td>
 	<td><a href="http://llaic.u-clermont1.fr/">LLAIC1</a></td>
 	<td>Aubi&egrave;re, France</td>
       </tr>
@@ -624,6 +624,11 @@ active role:
 	<td><a href="http://www.cb.uu.se/">Centre for Image Analysis, UU</a></td>
 	<td>Uppsala, Sweden</td>
       </tr>
+	<td><a href="http://www.cb.uu.se/~ingela/">Georgios K Ouzounis</a></td>
+	<td><a href="https://www.digitalglobe.com">DigitalGlobe, Inc. </a></td>
+	<td> Longmont, USA</td>
+      </tr>
+      
       <tr>
 	<td><a href="http://www.inf.u-szeged.hu/~palagyi">Kalman Palagyi</a></td>
 	<td><a href="http://www.inf.u-szeged.hu/">Dept. of Applied Informatics</a></td>
@@ -671,7 +676,7 @@ active role:
 	<td>Iowa City, USA</td>
       </tr>
       <tr>
-        <td>Gabriella Sanniti di Baja</td>
+        <td><a href="http://www.icar.cnr.it/en/node/353">Gabriella Sanniti di Baja</a></td>
 	<td>Image Analysis, Istituto di Cibernetica CNR</td>
 	<td>Pozzuoli, Naples, Italy</td>
       </tr>
@@ -751,6 +756,12 @@ active role:
 	<td> <a href="http://www.uha.fr"> MIPS Lab, Université de Haute-Alsace</a> </td>
 	<td>Mulhouse, France</td>
       </tr>
+      <tr>
+	<td><a href="http://www.cs.rug.nl/~michael">Mickael Wilkinson</a></td>
+	<td> <a href="http://www.rug.nl">University of Groningen</a></td>
+	<td>Groningen, The Nederlands</td>
+      </tr>
+      <tr>
 
       <tr>
 	<td><a href="http://www.taurusstudio.net">Jerry Wu</a></td>
