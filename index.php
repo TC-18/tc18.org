@@ -104,7 +104,7 @@
       </p>
 
     <p>
-      The main conference are the Discrete Geometry for Computer Imagery (DGCI) conference  and  International Symposium on Mathematical Morphology (ISMM). DGCI is a series of conferences of which the first was held in 1991 in Strasbourg, and now held every 18 months. It is an international conference by its participants, its scientific committee and its location. Since the 6th DGCI (November 1996), proceedings have been published by Springer Verlag, in the Lecture Notes in Computer Science series. ISMM started two years after DGCI in Barcelona and held every two years and its proceedings are also published in LNCS series. More details about the history of these two conferences are given in the <a href="http://www.tc18.org/events.php">event page</a>.
+      The main conferences are the Discrete Geometry for Computer Imagery (DGCI) conference  and  International Symposium on Mathematical Morphology (ISMM). DGCI is a series of conferences of which the first was held in 1991 in Strasbourg, and now held every 18 months. It is an international conference by its participants, its scientific committee and its location. Since the 6th DGCI (November 1996), proceedings have been published by Springer Verlag, in the Lecture Notes in Computer Science series. ISMM started two years after DGCI in Barcelona and held every two years and its proceedings are also published in LNCS series. More details about the history of these two conferences are given in the <a href="http://www.tc18.org/events.php">event page</a>.
     </p>
 
     <p>
@@ -174,5 +174,4 @@
 <center>
 <img width="400" src="images/logoDGCI_ISMM.png" alt="" />
 </center>
-
 <?php include("footer.html") ?>
