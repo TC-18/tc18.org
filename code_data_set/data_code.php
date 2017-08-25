@@ -104,7 +104,7 @@ TC18 code web page). </li>
       <li> <a href="http://www.geomview.org/">Geomview</a>: an simple
 interactive 3D viewing program for Unix. Major advantages are : easy to
 use input format (close to VRML), postscript snapshots, export to VRML.
-See the <a href="3D_images.html">3-D data code web page for snapshots.</a>
+See the <a href="3D_images.php">3-D data code web page for snapshots.</a>
       </li>
       <li> <a href="http://www.web3d.org/">VRML</a>: web based
 visualization tool. </li>
