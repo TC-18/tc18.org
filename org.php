@@ -513,7 +513,7 @@ active role:
       </tr>
       <tr>
 	<td><a href="http://people.irisa.fr/Sebastien.Lefevre">Sébastien Lefèvre</a></td>
-	<td>Université Bretagne Sud <a href="http://www.irisa.fr/obelix">IRISA</a></td>
+	<td>Université Bretagne Sud, <a href="http://www.irisa.fr/obelix">IRISA</a></td>
 	<td>Vannes, France</td>
       </tr>
 
