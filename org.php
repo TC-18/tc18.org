@@ -511,6 +511,12 @@ active role:
 	<td><a href="http://www.lama.univ-savoie.fr/">LAMA</a></td>
 	<td>Chambéry, France</td>
       </tr>
+      <tr>
+	<td><a href="http://people.irisa.fr/Sebastien.Lefevre">Sébastien Lefèvre</a></td>
+	<td>Université Bretagne Sud <a href="http://www.irisa.fr/obelix">IRISA</a></td>
+	<td>Vannes, France</td>
+      </tr>
+
 <tr>
   <td><a href="http://liris.cnrs.fr/jeremy.levallois/">Jérémy Levallois</a></td>
   <td><a href="http://www.lama.univ-savoie.fr/">LAMA</a> and <a href="http://liris.cnrs.fr/">LIRIS</a></td>
