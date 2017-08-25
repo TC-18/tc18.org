@@ -98,7 +98,7 @@ Geometry.</p>
   <li> Visualization tools
 </a>
 <ul>
-      <li><a href="code.html">QVox</a>: A 3d
+      <li><a href="code.php">QVox</a>: A 3d
 volumetric data visualizer written by S&eacute;bastien Fourey (see the
 TC18 code web page). </li>
       <li> <a href="http://www.geomview.org/">Geomview</a>: an simple
