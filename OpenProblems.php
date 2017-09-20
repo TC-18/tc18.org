@@ -207,6 +207,12 @@
 	      <td class="odd"><a class="list" href="mailto:jacques-olivier.lachaud@univ-savoie.fr">J.-O. Lachaud</a></td>
 	      <td class="odd"></td>
 	    </tr>
+	    <tr>
+	      <td class="odd">20, September 2017</td>
+	      <td class="odd">19 <a class="list" href="https://perso.esiee.fr/~plutak/projects/2017-06-06-3d-bij"> Analytical characterization of the 3D bijective digitized rotations</a></td> 
+	      <td class="odd"><a class="list" href="mailto:kacper.pluta@esiee.fr">Kacper Pluta</a></td>
+	      <td class="odd"></td>
+	    </tr>
 	    
 
 		<!-- <tr> -->
