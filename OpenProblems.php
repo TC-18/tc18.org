@@ -213,6 +213,18 @@
 	      <td class="even"><a class="list" href="mailto:kacper.pluta@esiee.fr">Kacper Pluta</a></td>
 	      <td class="even"><a class="list" href="https://perso.esiee.fr/~plutak/projects/2017-06-06-3d-bij">link</a></td>
 	    </tr>
+	    <tr>
+	      <td class="odd">20, September 2017</td>
+	      <td class="odd">21  <a class="list" href="http://www.tc18.org/openProblems/OpenProblem1_Andres.pdf">New digital plane thickness with unknown properties</a></td> 
+	      <td class="odd"><a class="list" href="mailto:eric.andres@univ-poitiers.fr">Eric Andres</a></td>
+	      <td class="odd"></td>
+	    </tr>
+	    <tr>
+	      <td class="odd">20, September 2017</td>
+	      <td class="odd">22  <a class="list" href="http://www.tc18.org/openProblems/OpenProblem2_Andres.pdf">Does an unfolding of Menger1 pave space?</a></td> 
+	      <td class="odd"><a class="list" href="mailto:eric.andres@univ-poitiers.fr">Eric Andres</a></td>
+	      <td class="odd"></td>
+	    </tr>
 	    
 
 		<!-- <tr> -->
