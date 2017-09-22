@@ -579,6 +579,12 @@ active role:
 	<td>Lyon, France</td>
       </tr>
       <tr>
+	<td>Sharmistha Mondal</td>
+	<td><a href="http://www.iiests.ac.in"> Department of Information Technology  Indian Institute of Engineering Science and Technology, Shibpur</a></td>
+	<td>Howrah, India</td>
+      </tr>
+
+      <tr>
 	<td>Annick Montanvert</td>
 	<td><a href="http://www.gipsa-lab.grenoble-inp.fr/">Laboratoire GISPA-lab</a></td>
 	<td>Grenoble, France</td>
