@@ -1,4 +1,4 @@
-<?php include("/home/tc18/tc18.org/header.html") ?>
+<?php include("header1.html") ?>
 
 
 
