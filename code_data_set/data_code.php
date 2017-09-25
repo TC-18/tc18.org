@@ -1,4 +1,4 @@
-<?php include("header1.html") ?>
+<?php include("/home/tc18/tc18.org/header.html") ?>
 
 
 
@@ -138,6 +138,6 @@ center</a>: useful links and tools about computational geometry.
 
 
 
-<?php include("footer1.html") ?>
+<?php include("/home/tc18/tc18.org/footer.html") ?>
 
 
