@@ -138,6 +138,6 @@ center</a>: useful links and tools about computational geometry.
 
 
 
-<?php include("/home/tc18/tc18.org/footer.html") ?>
+<?php include("footer1.html") ?>
 
 
