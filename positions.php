@@ -6,13 +6,6 @@
 
   
     <h2>Announcements for PhD, post-doctoral and permanent positions</h2>
-    
-    <p>
-      Please send an e-mail to <a href="mailto:tc18@tc18.org">TC18</a>
-      if you want to announce a PhD or post-doctoral position in your
-      lab.
-    </p>
-
 
     <h3> Assistant Professor Position (Tenure Track) for a female Researcher </h3>
     
@@ -27,6 +20,17 @@
     <b> Deadline for application is Nov. 5, 2017</b>
 
     </dd>
+
+
+    <hr>
+
+    <p>
+      Please send an e-mail to <a href="mailto:tc18@tc18.org">TC18</a>
+      if you want to announce a PhD or post-doctoral position in your
+      lab.
+    </p>
+
+
         
 <!--     <h3>Post Doc Studies in Discrete Geometry</h3> -->
 
