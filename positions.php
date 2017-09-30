@@ -12,8 +12,22 @@
       if you want to announce a PhD or post-doctoral position in your
       lab.
     </p>
+
+
+    <h3> Assistant Professor Position (Tenure Track) for a female Researcher </h3>
     
-    
+    <dd> The faculty of Informatics at Technische Univesität Wien offers an
+    Assistant Professor Position for a female Researcher. The
+    Candidates are requested to select one of the five research areas
+    which include the <a href="http://www.prip.tuwien.ac.at">PRIP</a>
+    group from to the Media Informatics & Visual Computing.
+    <br>  <br> 
+    <b> More details available <a href="http://www.tc18.org/files/divers/TUVWienAssistantfemaleResearcher17.pdf"> here</a> <br> 
+    <b> Status: </b> open<br>
+    <b> Deadline for application is Nov. 5, 2017</b>
+
+    </dd>
+        
 <!--     <h3>Post Doc Studies in Discrete Geometry</h3> -->
 
 <!--     <dd> -->
