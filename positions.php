@@ -22,9 +22,10 @@
     </dd>
 
 
+    <br>
+    <br>
     <hr>
-
-    <p>
+      <p>
       Please send an e-mail to <a href="mailto:tc18@tc18.org">TC18</a>
       if you want to announce a PhD or post-doctoral position in your
       lab.
