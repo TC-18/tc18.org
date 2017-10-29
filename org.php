@@ -548,6 +548,12 @@ active role:
 	<td>Kharagpur, India</td>
       </tr>
       <tr>
+	<td>Anukul Maity</td>
+	<td>Assistant Professor of Computer Science and Engineering, NIT</td>
+	<td>India</td>
+      </tr>
+      
+      <tr>
 	<td><a href="http://www-sop.inria.fr/epidaure/personnel/Gregoire.Malandain/">Gregoire Malandain</a></td>
 	<td><a href="http://www-sop.inria.fr/morpheme/team.html">INRIA - Morpheme team</a></td>
 	<td>Sophia-Antipolis, France</td>
