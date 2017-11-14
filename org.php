@@ -448,7 +448,12 @@ active role:
 	<td>Mathematical Institute, Utrecht University</td>
 	<td> Utrecht, The Netherlands </td>
       </tr>
-
+      <tr>
+        <td><a href="https://www.researchgate.net/profile/Nilanjana_Karmakar">Nilanjana Karmakar</a></td>
+        <td><a href="http://www.iiests.ac.in">Indian Institute of Engineering Science and Technology, Shibpur, india</a></td>
+        <td>Shibpur, india</td>
+      </tr>
+       
       <tr>
 	<td>Amitava Karak</td>
 	<td><a href="http://www.dmu.ac.uk/research/research-faculties-and-institutes/technology/cci/centre-of-computational-intelligence.aspx/">De Montfort University Leicester Center Of Computational Intelligence</a></td>
@@ -620,11 +625,6 @@ active role:
         <td><a href="https://members.loria.fr/HDPNgo/">Phuc Ngo</td>
         <td><a href="https://members.loria.fr/HDPNgo/">LORIA, ADAGIO team, Université de Lorraine</td>
         <td>Nancy, France</td>
-      </tr>
-      <tr>
-        <td><a href="https://www.researchgate.net/profile/Nilanjana_Karmakar">Nilanjana Karmakar</a></td>
-        <td><a href="http://www.iiests.ac.in">Indian Institute of Engineering Science and Technology, Shibpur, india</a></td>
-        <td>Shibpur, india</td>
       </tr>
 
       <tr>
