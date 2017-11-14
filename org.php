@@ -491,6 +491,11 @@ active role:
 	<td>Auckland, New Zeeland</td>
       </tr>
       <tr>
+	<td><a href=" http://students.iitr.ac.in/16535011/">Girish Koshti</a></td>
+	<td><a href="https://www.iitr.ac.in/departments/CSE/pages/index.html"> Department of Computer Science and Engineering</a></td>
+	<td>Roorkee, India</td>
+      </tr>
+      <tr>
 	<td><a href="http://adrien.krahenbuhl.fr">Adrien Krähenbühl</a></td>
 	<td><a href="http://icube.unistra.fr">ICUBE, Université de Strasbourg</a></td>
 	<td>Strasbourg, France</td>
