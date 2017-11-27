@@ -34,7 +34,7 @@ other teams.
 
 
     <br>  <br> 
-    <b> More details available <a href="http://w3.mi.parisdescartes.fr/sip-lab/files/Postdoctoral_position2018.pd"> here</a> <br> 
+    <b> More details available <a href="http://w3.mi.parisdescartes.fr/sip-lab/files/Postdoctoral_position2018.pdf"> here</a> <br> 
     <b> Status: </b> open<br>
     </dd>
 
