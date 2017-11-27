@@ -7,6 +7,40 @@
   
     <h2>Announcements for PhD, post-doctoral and permanent positions</h2>
 
+    <h3>Postdoctoral position in Computer Sciences and Image Analysis </h3>
+    
+    <dd> This position is to support the scientific effort of the
+TIMES project (“High-performance processing techniques for mapping and
+monitoring environmental changes from massive, heterogeneous and high
+frequency data times series”), recently funded by the French Agency
+for Research (ANR) for the period 2018–2021. The project aims to
+support the analysis of satellite image time series in order to
+monitor the dynamics of our Planet, its land-cover and land-use. The
+postdoctoral position covers the image processing part of the project,
+with the main mission of developing and validating novel image
+analysis methods dedicated to environmental monitoring of landscape
+objects (e.g. coastal erosion, surface deformation, land cover
+changes) from the exploitation of the mass of available heterogeneous
+geospatial data (aerial and satellite images, point cloud data)
+acquired with very-high temporal frequency.  The ANR TIMES project is
+a collaboration between recognized teams in Computer Sciences (LIPADE,
+MIPS, MONASH (Australia) and SERTIT-ICUBE), possessing expertise in
+image analysis, pattern recognition, machine learning and high
+performance computing, and in environmental geography (land cover/use
+change analysis) with LIVE and ICUBE-SERTIT. The enrolled researcher
+will work in LIPADE laboratory and closely collaborate with the
+different labs of the consortium with potential travels to visit the
+other teams.
+
+
+    <br>  <br> 
+    <b> More details available <a href="http://w3.mi.parisdescartes.fr/sip-lab/files/Postdoctoral_position2018.pd"> here</a> <br> 
+    <b> Status: </b> open<br>
+    </dd>
+
+
+    <br>
+
     <h3> Assistant Professor Position (Tenure Track) for a female Researcher </h3>
     
     <dd> The faculty of Informatics at Technische Univesität Wien offers an
