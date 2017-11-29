@@ -392,11 +392,6 @@ active role:
 	<td>Clermont-Ferrand, France</td>
       </tr>
       <tr>
- 	<td><a href="http://www.dma.fi.upm.es/antonio/">Antonio Giraldo</a></td>
- 	<td><a href="http://www.dma.fi.upm.es/">Applied Mathematics (Computer Science School)</a></td>
- 	<td>Madrid, Spain</td>
-      </tr>
-      <tr>
         <td><a href="http://ma1.eii.us.es/miembros/rogodi/XSLT.asp?xml=rogodi.xml&xsl=profesores.xsl">Rocio Gonzalez Diaz</a></td>
 	<td><a href="http://investigacion.us.es/sisius/sis_depgrupos.html?seltext=FQM-019&selfield=CodPAI">Combinatorial Image Analysis Research Group, University of Seville</a></td>
 	<td>Sevilla, Spain</td>
