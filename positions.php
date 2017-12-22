@@ -5,7 +5,22 @@
   
 
   
-    <h2>Announcements for PhD, post-doctoral and permanent positions</h2>
+  <h2>Announcements for PhD, post-doctoral and permanent positions</h2>
+
+<h3> PhD+PostDoc positions @ PRIP, TU Wien, Austria </h3>
+<dd>
+<ul>
+<li><b>PostDoc</b>: substitutes maternity leave during 5/2018-6/2020. </li>
+<li><b>PhD</b>: PreDoc position for PhD, asap, 25h contract for 4 years. </li>
+<li> Official announcement available <a href="here http://www.prip.tuwien.ac.at/jobs/openpositions.php">here</a></li>
+<li>Team: www.prip.tuwien.ac.at</li>
+<li>job: teaching bachelor and master courses; 
+basic and applied research in pattern recognition and image processing with focus on hierarchical and structural methods and representations; publishing results at high-level workshops, conferences and journals.
+German language is an advantage for both positions. </li>
+</ul>
+</dd>
+
+
 
     <h3>Postdoctoral position in Computer Sciences and Image Analysis </h3>
     
