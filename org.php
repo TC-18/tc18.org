@@ -660,10 +660,17 @@ active role:
      
      <tr>
 	<td><a href="http://www.esiee.fr/~perrotol">Laurent Perroton</a></td>
-	<td><a href="http://www.esiee.fr/~coupriem/Sdi_eng/">A2SI</a></td>
+	<td><a href="http://www.esiee.fr">ESIEE</a></td>
 	<td>Noisy-Le-Grand (PARIS), France</td>
      </tr>
-     <tr>	
+        <tr>
+	<td><a href="https://perso.esiee.fr/~plutak/">Kacper Pluta</a></td>
+	<td><a href="http://ligm.u-pem.fr/equipes/algorithmes-architectures-analyse-et-synthese-dimages/">LIGM (A3SI), University Paris-Est Marne-la-Vallée</a></td>
+	<td>Noisy-Le-Grand (PARIS), France</td>
+     </tr>
+
+
+     <tr>   
         <td><a href=" http://cse.iitkgp.ac.in/~spratihar/">Sanjoy Pratihar</a></td>
 	<td><a href="http://cse.iitkgp.ac.in/">Department of Computer Science and Engineering, Indian Institute of Technology</a></td> 
 	<td>Kharagpur, India</td>
