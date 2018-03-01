@@ -700,11 +700,6 @@ active role:
 	<td><a href="">Department of Electrical and Computer Engineering</a>, University of Iowa </td>
 	<td>Iowa City, USA</td>
       </tr>
-            <tr>
-	<td><a href="http://www.becs.ac.in/it-abiswas">Arindam Biswas</a></td>
-	<td><a href="http://www.becs.ac.in/">Dep. of Information Technology, Indian Institue Engineering Science and Technology</a></td>
-	<td>Howrah, India</td>
-      </tr>
 
       <tr>
 	<td>Somrita Saha</a></td>
