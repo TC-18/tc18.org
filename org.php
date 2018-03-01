@@ -700,6 +700,18 @@ active role:
 	<td><a href="">Department of Electrical and Computer Engineering</a>, University of Iowa </td>
 	<td>Iowa City, USA</td>
       </tr>
+            <tr>
+	<td><a href="http://www.becs.ac.in/it-abiswas">Arindam Biswas</a></td>
+	<td><a href="http://www.becs.ac.in/">Dep. of Information Technology, Indian Institue Engineering Science and Technology</a></td>
+	<td>Howrah, India</td>
+      </tr>
+
+      <tr>
+	<td>Somrita Saha</a></td>
+	<td><a href="http://www.iiests.ac.in"> Dep. of Information Technology,  Indian Institute of Engineering Science and Technology  Shibpur </a> </td>
+	<td> Howrah, INDIA</td>
+      </tr>
+
       <tr>
         <td><a href="http://www.icar.cnr.it/en/node/353">Gabriella Sanniti di Baja</a></td>
 	<td>Image Analysis, Istituto di Cibernetica CNR</td>
