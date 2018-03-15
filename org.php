@@ -1,4 +1,4 @@
-<?php include("header.html") ?>
+<?php include("header.html"); ?>
 
 
     <div id="site_content">
@@ -6,7 +6,7 @@
     <h2>Organisation</h2>
     
     <p>
-      TC18 is a Technical Committee of International Association for Pattern Recognition (IAPR). IAPR Technical Committees are established with the intention to "provide leadership in designated technical specialities and to further the objective of the Association".
+      TC18 is a Technical Committee of International Association for Pattern Recognition (IAPR). IAPR Technical Committees are established with the intention to "provide leadership in designated technical specialities and to further the objective of the Association"..
     </p>
     
     <p>
@@ -814,4 +814,4 @@ active role:
   the sorrow of his relatives. You can find <a href="https://lsiit.u-strasbg.fr/special/index.html/Accueil_-_Hommage_%C3%A0_Alain_Daurat">here</a> a web page dedicated to his memory.</p>
 
 
-<?php include("footer.html") ?>
+<?php include("footer.html"); ?>

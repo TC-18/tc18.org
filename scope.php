@@ -1,4 +1,4 @@
-<?php include("header.html") ?>
+<?php include("header.html"); ?>
 
 
     <div id="site_content">
@@ -21,5 +21,5 @@
     </p>
 
 
-<?php include("footer.html") ?>
+<?php include("footer.html"); ?>
 
