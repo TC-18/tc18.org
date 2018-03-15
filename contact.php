@@ -1,5 +1,5 @@
 
-<?php include("/home/tc18/tc18.org/header.html") ?>
+<?php include("/home-projets/tc18/tc18.org/header.html") ?>
     
     <div id="site_content">
       <div id="sidebar_container">

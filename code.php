@@ -1,4 +1,4 @@
-<?php include("header.html") ?>
+<?php include("/home/tc18/tc18.org/header.html") ?>
 
 
 <div id="site_content">
