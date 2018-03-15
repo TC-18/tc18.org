@@ -174,4 +174,4 @@
 <center>
 <img width="400" src="images/logoDGCI_ISMM.png" alt="" />
 </center>
-<?php include("footer.html") ?>
+<?php include("footer.html"); ?>
