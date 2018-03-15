@@ -702,7 +702,7 @@ active role:
       </tr>
 
       <tr>
-	<td>Somrita Saha</a></td>
+	<td>Somrita Saha</td>
 	<td><a href="http://www.iiests.ac.in"> Dep. of Information Technology,  Indian Institute of Engineering Science and Technology  Shibpur </a> </td>
 	<td> Howrah, INDIA</td>
       </tr>
