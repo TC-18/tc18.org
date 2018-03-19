@@ -25,7 +25,7 @@
 		<dl>
 
 		   <dt>June, 1 2018</dt>
-	  	  <dd>  deadline for submission to  <a href="https://sites.google.com/view/iwcia18">19th IWCIA </a>   (in Porto, Portugal)<br>
+	  	   <dd>  deadline for submission to  <a href="https://sites.google.com/view/iwcia18">19th IWCIA </a>   (in Porto, Portugal)</dd><br>
 		  <dt>September, 19-21 2017</dt>
 		  <dd> <a href="http://dgci2017.prip.tuwien.ac.at/">20th International Conference on Discrete Geometry for Computer Imagery</a>, Vienna, Austria.<br>  
 		  </dd><br>
