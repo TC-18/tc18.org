@@ -8,7 +8,7 @@
 	  <div class="body">
 	    <font size=-1>
 	      <object type="text/html"  data="./feed.html"  height =70px width="100%"></object>
-		<a href="archived_news.html">Archived news</a>
+		<a href="archived_news.php">Archived news</a>
 		
 	    </font>
 	  </div>
