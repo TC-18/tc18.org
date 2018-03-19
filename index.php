@@ -24,12 +24,8 @@
 	      <div class="content color">
 		<dl>
 
-		  
-		  <!-- <dt>November 24-27, 2015</dt>	 -->
-	  	  <!-- <dd> <a href="http://www.isical.ac.in/~iwcia2015">The 17th IWCIA workshop</a>  will take place in Kolkata, India.<br> -->
-		  <!-- <dt>April 18-20, 2016</dt>   	   -->
-	  	  <!-- <dd>	<a href="http://dgci2016.univ-nantes.fr">The 19th DGCI conference</a>  will take place in Nantes, France.<br> -->
-	  	  <!-- </dd><br> -->
+		   <dt>June, 1 2018 deadline for sublission of  IWCIA</dt>
+	  	  <dd> <a href="https://sites.google.com/view/iwcia18">The 19th IWCIA workshop</a>  will take place in Porto, Portugal.<br>
 		  <dt>September, 19-21 2017</dt>
 		  <dd> <a href="http://dgci2017.prip.tuwien.ac.at/">20th International Conference on Discrete Geometry for Computer Imagery</a>, Vienna, Austria.<br>  
 		  </dd><br>
