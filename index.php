@@ -23,44 +23,13 @@
 	    <font size=-1>
 	      <div class="content color">
 		<dl>
-
 		   <dt>June, 1 2018</dt>
 	  	   <dd>  deadline for submission to  <a href="https://sites.google.com/view/iwcia18">19th IWCIA </a>   (in Porto, Portugal)</dd><br>
-		  <dt>September, 19-21 2017</dt>
-		  <dd> <a href="http://dgci2017.prip.tuwien.ac.at/">20th International Conference on Discrete Geometry for Computer Imagery</a>, Vienna, Austria.<br>  
-		  </dd><br>
-		  <dt>June, 19-21 2017</dt>
-		  <dd> <a href="http://www.cs.fredonia.edu/barneva/IWCIA17/">18th
-		  International Workshop on Combinatorial Image
-		  Analysis</a>, Plovdiv, Bulgaria.<br>  
-		  </dd><br>
-		  
-		  <!-- <dt>June, 15-17 2016</dt> -->
-	  	  <!-- <dd> <a href="http://www.lsis.org/ctic2016/">The 6th CTIC conference</a>  will take place in Marseille, France.<br> -->
-	  	  <!-- </dd><br> -->
+	  	</dl>
 
-		  <!-- <dt> December 4-8, 2016</dt> -->
-		  <!-- <dd> <a href="http://www.icpr2016.org">ICPR 2016</a> in Cancun, Mexico.<br> -->
-		  <!-- </dd><br> -->
-		  
-		  <!-- <dt> November 20-24, 2016</dt> -->
-		  <!-- <dd> <a href="http://www.dgcv.nii.ac.jp/DGMM4CV2016/">Workshop on Discrete Geometry and -->
-		  <!--     Mathematical Morphology for Computer Vision</a><br> in conjunction with ACCV 2016, Taipei, Taiwan<br> -->
-		  <!-- </dd><br> -->
-		  
-		  <dt> May 15-17, 2017</dt>
-		  <dd> <a href="http://cmm.ensmp.fr/ismm2017/">International Symposium on Mathematical Morphology</a><br> Fontainebleau, France<br>
-		  </dd>
-		  
-		  <!--		  
-		  <dt>March 20-22, 2013</dt>
-	  	  <dd> <a href="http://dgci2013.us.es/">The 17th DGCI conference</a>  was held place in Sevilla, Spain.<br>
-	  	  </dd>-->
-		  
-		  
-	  	  <!-- <dt>May 28-30, 2014</dt> -->
-	  	  <!-- <dd> <a href="http://iwcia2014.fme.vutbr.cz/index.html">The 16th IWCIA workshop</a>  will take place in Brno, Czech Republic.<br> -->
-	  	  <!-- </dd> -->
+		<dl>
+		   <dt>May, 28 2018</dt>
+	  	   <dd>  deadline for submission to  <a href="https://rrpr2018.sciencesconf.org">RRPR 18 </a> (in Beijing, China)</dd><br>
 	  	</dl>
 	      </div>
 	    </font>
