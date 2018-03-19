@@ -6,6 +6,7 @@
     <h2>Organisation</h2>
     
     <p>
+      
       TC18 is a Technical Committee of International Association for Pattern Recognition (IAPR). IAPR Technical Committees are established with the intention to "provide leadership in designated technical specialities and to further the objective of the Association".
     </p>
     
