@@ -24,8 +24,8 @@
 	      <div class="content color">
 		<dl>
 
-		   <dt>June, 1 2018 deadline for sublission of  IWCIA</dt>
-	  	  <dd> <a href="https://sites.google.com/view/iwcia18">The 19th IWCIA workshop</a>  will take place in Porto, Portugal.<br>
+		   <dt>June, 1 2018</dt>
+	  	  <dd>  deadline for submission to  <a href="https://sites.google.com/view/iwcia18">19th IWCIA </a>   (in Porto, Portugal)<br>
 		  <dt>September, 19-21 2017</dt>
 		  <dd> <a href="http://dgci2017.prip.tuwien.ac.at/">20th International Conference on Discrete Geometry for Computer Imagery</a>, Vienna, Austria.<br>  
 		  </dd><br>
