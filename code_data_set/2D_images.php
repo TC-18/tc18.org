@@ -1,4 +1,4 @@
-<?php include("header1.html") ?>
+<?php include("header.html") ?>
 
 <div id="site_content">
 
