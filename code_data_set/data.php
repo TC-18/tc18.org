@@ -15,3 +15,4 @@ color)
 
 
 
+<?php include("/home-projets/tc18/public_html/footer.html") ?>
