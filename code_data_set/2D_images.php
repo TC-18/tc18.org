@@ -46,4 +46,4 @@
 <br>
 
 
-<?php include("footer1.html") ?>
+<?php include("/home-projets/tc18/public_html/footer.html") ?>
