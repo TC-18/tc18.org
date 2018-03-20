@@ -17,7 +17,7 @@ Several sections are presented in this web page:
   <li><a href="https://www.tc18.org/code_data_set/data.php">Data sets</a>: 2D and 3D images (binary,
 grayscale,...)
   </li>
-  <li> <a href="https://www.tc18.org/code_data_set/demo.php"> Demos</a>: online demonstrators of DG
+  <li> <a href="https://www.tc18.org/code_data_set/demos.php"> Demos</a>: online demonstrators of DG
   algorithms and applications.
   </li>
   <li> <a href="https://www.tc18.org/code_data_set/code.php"> Code Repository</a>: simple codes from
