@@ -373,13 +373,10 @@ volumetric data visualizer with some homotopic thinning algorithms.<br>
   </tbody>
 </table>
 <a name="misc"><br>
-<i>Go to </i></a><i><a href="data_code.html">Data sets main page</a>
-or <a href="http://www.cb.uu.se/%7Etc18/">TC18 main page</a>
-<br>
+Go to </i></a><i><a href="data_code.php">Data sets main page</a>
 <br>
 <i>To submit a code, see the <a href="data_code.html">Data sets main
-page</a></i>
-<br>
-</i>
+page</a><
+
 <?php include("/home-projets/tc18/public_html/footer.html") ?>
 
