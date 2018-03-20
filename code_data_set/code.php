@@ -3,6 +3,10 @@
 
 <div id="site_content">
 
+ Please fill free to submit your own code. In order to
+make a better use of your programs, a good way is to organize it in a
+K.I.S.S. way (<i>Keep It Simple and Stupid</i>). The idea is to propose
+simple codes, easy to compile and to easy to reuse.
 
 
 <h1> Code</h1>
