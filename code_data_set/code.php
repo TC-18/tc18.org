@@ -1,4 +1,4 @@
-<?php include("header1.html") ?>
+<?php include("/home-projets/tc18/public_html/header.html") ?>
 
 
 <div id="site_content">
@@ -381,5 +381,5 @@ or <a href="http://www.cb.uu.se/%7Etc18/">TC18 main page</a>
 page</a></i>
 <br>
 </i>
+<?php include("/home-projets/tc18/public_html/footer.html") ?>
 
-<?php include("footer1.html") ?>

@@ -1,4 +1,4 @@
-<?php include("header1.html") ?>
+<?php include("/home-projets/tc18/public_html/header.html") ?>
 
 
 <div id="site_content">
@@ -51,5 +51,5 @@ below.
   </li>
 </ul>
 
+<?php include("/home-projets/tc18/public_html/footer.html") ?>
 
-<?php include("footer1.html") ?>
