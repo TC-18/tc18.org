@@ -6,9 +6,8 @@
 
 
 <h1> Demos</h1>
-<br>
-In this page we regroup all demonstrations ressoure which can be avialable online. If you have in mind other demonstration related to Discrete Geometry or Mathematical Morpholy contact us or apply a pull request on the <a href="https://github.com/TC-18/tc18.org"> GitHub repository </a>.
 
+In this page we regroup all demonstrations ressoure which can be avialable online. If you have in mind other demonstration related to Discrete Geometry or Mathematical Morpholy contact us or apply a pull request on the <a href="https://github.com/TC-18/tc18.org"> GitHub repository </a>.
 
 <h2> IPOL </h2>
 <a href="www.ipol.im">Image Processing Online</a> is "a research journal of image processing and
