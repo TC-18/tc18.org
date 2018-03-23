@@ -28,7 +28,12 @@
         <dd>
           <a href="http://hugues.zahlt.info/bienvenue.html" > Hugues Talbot </a> Laboratoire d'informatique Gaspard Monge, ESIEE, France
     </p>
-    
+    <p>
+      Active members:
+      <ul>
+      <il> Miguel Colom: in charge of link with Reproducible Research </li>
+      </ul>
+    </p>    
     <p>
       Moreover, the following persons are part of the current or
       past organisation:
@@ -286,6 +291,11 @@ active role:
 	<td><a href="http://www.gipsa-lab.grenoble-inp.fr/~jean-marc.chassery/">Jean-Marc Chassery</a></td>
 	<td><a href="http://www.gipsa-lab.grenoble-inp.fr/">Laboratoire GISPA-lab</a></td>
 	<td>Grenoble, France</td>
+      </tr>
+      <tr>
+	<td><a href="http://mcolom.perso.math.cnrs.fr">Miguel Colom </a></td>
+	<td><a href="http://cmla.ens-paris-saclay.fr">CMLA, ENS Paris Saclay</a></td>
+	<td>Paris, France</td>
       </tr>
       <tr>
 	<td>Ryszard S. Choras</td>
