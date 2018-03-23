@@ -9,9 +9,9 @@
      
   <dl class='gallery-item-large'>
     <dt>
-   <a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7862284'><img width="200"  src="images/gallery/Brain_Image_volume.png" class="attachment-thumbnail" alt="" /> <img width="200"  src="images/gallery/Brain_RORPO_volume.png" class="attachment-thumbnail" alt="" /> <img width="200"  src="images/gallery/RORP0_plan_spiral_blob_iso.png" class="attachment-thumbnail" alt="" />
+   <a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7862284'><img height="200"  src="images/gallery/Brain_Image_volume.png" class="attachment-thumbnail" alt="" /> <img height="200"  src="images/gallery/Brain_RORPO_volume.png" class="attachment-thumbnail" alt="" /> <img height="200"  src="images/gallery/RORP0_plan_spiral_blob_iso.png" class="attachment-thumbnail" alt="" />
 
-<img width="200"  src="images/gallery/RORPO_plan_spiral_blob_RORPO_30_1-7_3_iso.png" class="attachment-thumbnail" alt="" /></a>
+<img height="200"  src="images/gallery/RORPO_plan_spiral_blob_RORPO_30_1-7_3_iso.png" class="attachment-thumbnail" alt="" /></a>
 
    </dt>
     <dd class='gallery-reference'>
