@@ -31,7 +31,7 @@
     <p>
       Active members:
       <ul>
-      <il> Miguel Colom: in charge of link with Reproducible Research </li>
+      <il><a href="http://mcolom.perso.math.cnrs.fr"> Miguel Colom</a>: in charge of link with Reproducible Research </li>
       </ul>
     </p>    
     <p>

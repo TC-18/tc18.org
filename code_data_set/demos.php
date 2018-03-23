@@ -38,6 +38,8 @@ below.
   <li> <a href="http://www.ipol.im/pub/art/2014/74/">Extraction of
       Connected Region Boundary in Multidimensional Images</a> (David Coeurjolly, Bertrand Kerautret, Jacques-Olivier Lachaud)
   </li>
+  <li> <a href="http://www.ipol.im/pub/art/2017/207/">2D Filtering of Curvilinear Structures by Ranking the Orientation Responses of Path Operators (RORPO)</a> (Odyssee Merveille, Benoît Naegel, Hugues Talbot, Laurent Najman, Nicolas Passat)
+  </li>
 </ul>
 
 
