@@ -17,7 +17,7 @@
     <dd class='gallery-reference'>
      O. Merveille, H. Talbot, L. Najman, N. Passat.  Curvilinear structure analysis by ranking the orientation responses of path operators. IEEE Tr      ansactions on Pattern Analysis and Machine Intelligence 40(2):304-317 (2018).	      
     </dd>
-  </dl><br style="clear: both">
+  </dl>
 
 
   <dl class='gallery-item'>  
