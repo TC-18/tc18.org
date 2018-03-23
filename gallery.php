@@ -20,7 +20,7 @@
   </dl>
 
 
-  <dl class='gallery-item'>  
+  <dl class='gallery-item-large'>  
      <dt>
     <a href='https://www.lrde.epita.fr/dload/papers/carlinet.15.itip.pdf'><img  height="300" src="images/gallery/MToS.png" class="attachment-thumbnail" alt="" /></a>     
     </dt>
