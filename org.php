@@ -31,7 +31,7 @@
     <p>
       Associate members with roles in:
       <ul>
-      <il>Reproducible Research <a href="http://mcolom.perso.math.cnrs.fr"> Miguel Colom</a> </li>
+      <il>Reproducible Research: <a href="http://mcolom.perso.math.cnrs.fr"> Miguel Colom</a> </li>
       </ul>
     </p>    
     <p>
