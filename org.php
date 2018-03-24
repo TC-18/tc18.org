@@ -29,9 +29,9 @@
           <a href="http://hugues.zahlt.info/bienvenue.html" > Hugues Talbot </a> Laboratoire d'informatique Gaspard Monge, ESIEE, France
     </p>
     <p>
-      Active members:
+      Associate members with roles in:
       <ul>
-      <il><a href="http://mcolom.perso.math.cnrs.fr"> Miguel Colom</a>: in charge of link with Reproducible Research </li>
+      <il>Reproducible Research <a href="http://mcolom.perso.math.cnrs.fr"> Miguel Colom</a> </li>
       </ul>
     </p>    
     <p>
