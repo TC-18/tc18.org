@@ -25,7 +25,7 @@
     <a href='https://www.lrde.epita.fr/dload/papers/carlinet.15.itip.pdf'><img  height="300" src="images/gallery/MToS.png" class="attachment-thumbnail" alt="" /></a>     
     </dt>
     <dd class='gallery-reference'>
-    Edwin Carlinet and Thierry Géraud. {MToS}: A Tree of Shapes for Multivariate Images. IEEE Transactions on Image Processing, 24(12):53330--5343    (2015).	      
+    Edwin Carlinet and Thierry Géraud. {MToS}: A Tree of Shapes for Multivariate Images. IEEE Transactions on Image Processing, 24(12):5330--5343    (2015).	      
     </dd>
   </dl>
 
