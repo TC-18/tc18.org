@@ -27,7 +27,7 @@ Web ressources:
 
 <ul> 
       <li> I. Bloch, <a
-	  href="subfields/topology/index.html">Digital
+	  href="subfields/topology/index.php">Digital
 	  Representations</a> <i>(in the "Grids, cells, structure and
 	topology" subfield)</i>: 
 	<ul> Tessellation and grids, Digital
