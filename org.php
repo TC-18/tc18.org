@@ -523,6 +523,11 @@ active role:
 	<td>Berlin, Germany</td>
       </tr>
       <tr>
+	<td><a href="http://www.camille-kurtz.com">Camille Kurtz</a></td>
+	<td><a href="http://w3.mi.parisdescartes.fr/sip-lab">LIPADE, Université Paris Descartes </a></td>
+	<td>Paris, Franche</td>
+      </tr>
+      <tr>
 	<td><a href="http://www.lama.univ-savoie.fr/~lachaud/People/LACHAUD-JO/person.html">Jacques-Olivier Lachaud</a></td>
 	<td><a href="http://www.lama.univ-savoie.fr/">LAMA</a></td>
 	<td>Chambéry, France</td>
