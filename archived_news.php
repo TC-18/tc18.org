@@ -1,5 +1,8 @@
 
 <?php include("header.html") ?>
+<h3>November 2017 </h3>
+<dd>Postdoc position  at  LIPADE, Univ. Paris Descartes (France)</dd>      
+
 
 <h3>September 2017 </h3>
 <dd>New announce for  <a href="http://www.tc18.org/positions.php" target="_blank"> Assistant Professor Position (TUW, Vienna)</a></dd>
