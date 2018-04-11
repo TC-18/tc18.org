@@ -23,14 +23,21 @@
 	    <font size=-1>
 	      <div class="content color">
 		<dl>
+		   <dt>May, 28 2018</dt>
+	  	   <dd>  deadline for submission to  <a href="https://rrpr2018.sciencesconf.org">RRPR 18 </a> (in Beijing, China)</dd><br>
+	  	</dl>
+
+              <dl>
 		   <dt>June, 1 2018</dt>
 	  	   <dd>  deadline for submission to  <a href="https://sites.google.com/view/iwcia18">19th IWCIA </a>   (in Porto, Portugal)</dd><br>
 	  	</dl>
 
-		<dl>
-		   <dt>May, 28 2018</dt>
-	  	   <dd>  deadline for submission to  <a href="https://rrpr2018.sciencesconf.org">RRPR 18 </a> (in Beijing, China)</dd><br>
+                
+                <dl>
+		   <dt>September, 17 2018</dt>
+	  	   <dd>  deadline for submission to  <a href="http://www.ctic2019.uma.es"> CTIC 2019 </a>   (in Malaga, Spain)</dd><br>
 	  	</dl>
+
 	      </div>
 	    </font>
 	  </div>
