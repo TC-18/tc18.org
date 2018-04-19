@@ -2,11 +2,23 @@
     
 <div id="site_content">
   
-  
+
+
+<h2> Ph.D. Thesis Proposal: Causal Spatio-temporal Mathematical Morphology: Theory and Algorithms. </h2>
+<h3>  MINES ParisTech (Centre de Morphologie Mathématique, France)  </h3>
+<dd>
+<ul>
+<li><b>Scientific fields</b>: Applied mathematics and Computer Science – Interaction between nonlinear video sequence processing and human-vision inspired information processing</li>
+<li><b>Context and supervision</b>: This Ph.D. Thesis will be carried out at the Center for Mathematical Morphology (CMM) at MINES ParisTech, in France. The Ph.D. Thesis will be supervised by <a href='http://cmm.ensmp.fr/~angulo'>Jesus Angulo</a>.
+<li><b>Application</b>: Candidates should send a CV, a cover letter and the grades obtained during the last two years.</li>
+</ul>
+</dd>
+
+
+
 
   
-  <h2>Announcements for PhD, post-doctoral and permanent positions</h2>
-
+<h2>Announcements for PhD, post-doctoral and permanent positions</h2>
 <h3> PhD+PostDoc positions @ PRIP, TU Wien, Austria </h3>
 <dd>
 <ul>
