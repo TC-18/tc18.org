@@ -12,6 +12,7 @@
 <li><b>Context and supervision</b>: This Ph.D. Thesis will be carried out at the Center for Mathematical Morphology (CMM) at MINES ParisTech, in France. The Ph.D. Thesis will be supervised by <a href='http://cmm.ensmp.fr/~angulo'>Jesus Angulo</a>.
 <li><b>Detailed subject</b>: available <a href="https://www.tc18.org/docs/PhDThesisProposal_SpatioTemporalMorphology_2018.pdf"> here </a> 
 <li><b>Application</b>: Candidates should send a CV, a cover letter and the grades obtained during the last two years.</li>
+<li><b>Annonce date</b>: 19 april 2018.
 </ul>
 </dd>
 
