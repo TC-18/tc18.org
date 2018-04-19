@@ -2,7 +2,16 @@
     
 <div id="site_content">
 
+<h2> International Master's Program in Mathematics and Computer Science </h2>
+<dd>
+<ul>
+<li><b>Description: </b> The 2018-2019 hiring campaign for the international Bézout masters program is now open until May 31st.  The program aims at attracting excellent students in mathematics and computer science from foreign institutions willing to pursue their studies at the University Paris-Est at the master level. Moreover, the best students will be invited to join a PhD program at the University Paris-Est. The laureates will receive a (11 months) grant of about 1300 euros per month and will be proposed a room on the campus. 
 
+The details of the program and a link to the application website can be found <a href="http://bezout.univ-paris-est.fr/en/master-s-program"> here </a>. 
+<li><b>contact:</b> For any further information, please contact  <a href="mailto:raphael.danchin@u-pec.fr">Raphaël Danchin</a>.
+<li><b>Annonce date</b>: 19 april 2018 </li>.
+</ul>
+</dd>
 
 <h2> Ph.D. Thesis Proposal: Causal Spatio-temporal Mathematical Morphology: Theory and Algorithms. </h2>
 <h3>  MINES ParisTech (Centre de Morphologie Mathématique, France)  </h3>
@@ -12,7 +21,7 @@
 <li><b>Context and supervision</b>: This Ph.D. Thesis will be carried out at the Center for Mathematical Morphology (CMM) at MINES ParisTech, in France. The Ph.D. Thesis will be supervised by <a href='http://cmm.ensmp.fr/~angulo'>Jesus Angulo</a>.
 <li><b>Detailed subject</b>: available <a href="https://www.tc18.org/docs/PhDThesisProposal_SpatioTemporalMorphology_2018.pdf"> here </a> 
 <li><b>Application</b>: Candidates should send a CV, a cover letter and the grades obtained during the last two years.</li>
-<li><b>Annonce date</b>: 19 april 2018.
+<li><b>Annonce date</b>: 19 april 2018.</li>
 </ul>
 </dd>
 
