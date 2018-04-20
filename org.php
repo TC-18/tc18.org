@@ -218,6 +218,12 @@ active role:
 	<td>Poitiers, France</td>
       </tr>
       <tr>
+        <td><a href="http://www.cmm.mines-paristech.fr/~angulo">Jesus Angulo</a></td>
+	<td><a href="" Center for Mathematical Morphology; <a href="www.cmm.mines-paristech.fr">MINES ParisTech </a> </td>
+	<td>Paris, France</td>
+      </tr>
+
+      <tr>
         <td><a href="http://www.lsis.org/gmod">Alexandra Bac</a></td>
 	<td><a href="http://www.lsis.org/gmod">GMod Team, LSIS Lab, Aix-Marseille University</a></td>
 	<td>Marseille, France</td>
