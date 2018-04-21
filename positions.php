@@ -2,6 +2,18 @@
     
 <div id="site_content">
 
+
+<h2>Postdoc position within IRISA (Brittany) on deep learning and hierarchical image representations</h2>
+<dd>
+<ul>
+<li><b> Description</b>: The <a href="http://www.irisa.fr/obelix">OBELIX</a> team from IRISA is seeking a highly motivated candidate with excellent academic profile to fill an open postdoc position. The postdoctoral project aims to combine paradigms of deep learning and (morphological) hierarchical image representations, in order to design new automated and efficient tools for large-scale classification and object detection in remote sensing. It will be conducted as a 2-year postdoc in the OBELIX group of IRISA which have expertise in both deep learning and hierarchical image representations. It will take place in Vannes, Brittany.  </li>
+<li><b> Full description: </b> <a href="https://www-obelix.irisa.fr/files/2018/02/deeptree-postdoc.pdf">here</a></li>
+<li><b>Application:</b> Applications should be made as soon as possible and potential candidates should contact <a href="mailto:sebastien.lefevre@irisa.fr">Sébastien Lefevre</a>, with CV, cover letter, academic transcripts & ranks, and references / letters of recommendation. The project can start anytime from today to the end of the year. Please note that due to funding requirements, the candidate shall not have spend more than 2 years in France over the 3 last years (i.e. at least one year abroad).
+<li><b>Annonce date</b>: 21 april 2018 </li>.
+</ul>
+
+</dd>
+
 <h2> International Master's Program in Mathematics and Computer Science </h2>
 <dd>
 <ul>
