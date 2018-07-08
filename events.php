@@ -89,7 +89,7 @@ published by Springer Verlag, in the Lecture Notes in Computer Science
 series. </p>
 
 <p>If you wish to organize the next DGCI Edition, please have a look
-      to the <a href="docs/DGCI_Guide_2011.pdf"> Guidelines for DGCI organization
+      to the <a href="docspdf/DGCI_Guide_2011.pdf"> Guidelines for DGCI organization
 and on how to prepare a DGCI proposal</a> written by the DGCI Steering
       Committee.</p>
 

@@ -93,7 +93,7 @@ reminiscences about Attila, the scientist and the man.</dd>
 	      <dd> <a href="http://www.isvc.net">International Symposium on Visual Computing		(ISVC06)</a>:   A special track on Discrete and
 		Computational Geometry and their Applications in
 		Visual Computing, Lake Tahoe, Nevada, USA.
-<a href="docs/ISVCDiscreteandComputationalGeometry.pdf">Call for
+<a href="docspdf/ISVCDiscreteandComputationalGeometry.pdf">Call for
 		  papers</a>, deadline for submission :  June 19, 2006</dd>
 
 
