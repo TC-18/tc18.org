@@ -1,0 +1,39 @@
+.text-primary{
+    color : red;
+}
+
+.btn {
+	border-radius: 0px;
+}
+
+.jumbotron {
+  background: #000 url(../../Images/pattern.png);    
+  max-height : 250px;
+  margin-bottom:20px;
+  margin-top:-20px;  
+}
+
+
+
+
+
+
+a { 
+  outline: none;
+  text-decoration: none;
+  color: #09BCE8;
+  
+}
+
+
+a:hover { 
+  text-decoration: none;
+}
+
+
+body { 
+  font: normal .80em arial, sans-serif;
+  background: #000 url(../../Images/pattern.png);
+  color: #444;
+}
+
