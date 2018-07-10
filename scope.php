@@ -1,11 +1,13 @@
 <?php include("header.html"); ?>
 
-
+ <div class="row"> \
+        <div class="col-md-&0 col-sm-10 col-xs-11 " > \
     <div id="site_content">
       <h2>Scope and reports</h2>
-    
+
+
     <p>
-      Discrete Geometry and Mathematical Morphology plays an essential role in the field of image analysis, computer graphics, pattern recognition, shape modelling, computer vision, and document analysis. The main reason is, of course, that all data in the computer is unavoidably discrete. It has some well known and used concepts, new results regularly appear, and useful theorems and developments have still to be proposed. Discrete geometry provides both a theoretical and a computational framework for digital images.
+      Discrete Geometry and Mathematical Morphology plays an essential role in the field of image analysis, computer graphics,$ pattern recognition, shape modelling, computer vision, and document analysis. The main reason is, of course, that all data in the computer is unavoidably discrete. It has some well known and used concepts, new results regularly appear, and useful theorems and developments have still to be proposed. Discrete geometry provides both a theoretical and a computational framework for digital images.
     </p>
 
     <p>
@@ -21,5 +23,4 @@
     </p>
 
 
-<?php include("footer.html"); ?>
 

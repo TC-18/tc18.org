@@ -1,3 +1,4 @@
+
 .text-primary{
     color : red;
 }
@@ -7,14 +8,11 @@
 }
 
 .jumbotron {
-  background: #000 url(../../Images/pattern.png);    
+  background: #000 url(../../Logos/pattern.png);    
   max-height : 250px;
   margin-bottom:20px;
   margin-top:-20px;  
 }
-
-
-
 
 
 
@@ -32,8 +30,56 @@ a:hover {
 
 
 body { 
-  font: normal .80em arial, sans-serif;
-  background: #000 url(../../Images/pattern.png);
+  font: normal .910em arial, sans-serif;
+  background: #000 url(../../Logos/pattern.png);
   color: #444;
+}
+
+
+
+p { 
+  padding: 0 0 0 0;
+  line-height: 1.7em;
+}
+blockquote { 
+  margin: 0px 0; 
+  padding: 0px 0px 0 00px;
+  border: 1px solid #E5E5DB;
+  background: #FFF;
+}
+
+#site_content { 
+  overflow: hidden;
+  margin: 10px 0pc;
+  background: #FFF8;
+} 
+h1, h2, h3, h4, h5, h6 { 
+  color: #362C20;
+  letter-spacing: 0em;
+  padding: 0 0 5px 0;
+}
+h2 { 
+  padding: 9px 0 5px 0;
+  color: #09BCE8;
+}
+
+.carousel-indicators .active{
+    background-color: #09BCE8;
+}
+.carousel-indicators li {
+  background-color: rgba(25, 25, 2, 0.5);
+}
+
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-image: none;
 }
 

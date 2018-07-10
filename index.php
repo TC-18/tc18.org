@@ -67,7 +67,7 @@
     <div id="content">
       
     <h2> What is TC18 ?</h2>
-
+e
     <p> The aim of this IAPR-Technical Committee is to promote
       interactions and collaboration between researchers working on
       Discrete Geometry and Mathematical Morphology. Conferences and a
