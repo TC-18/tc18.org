@@ -15,6 +15,16 @@ document.getElementById("navMenu").innerHTML = '<nav class="navbar navbar-expand
 	      <a class="dropdown-item" href="organisation.html#listMember">List of members</a>\
 	      <a class="dropdown-item" href="organisation.html#becomemember">How to become a member</a>\
           </div>\
+	  <li class="navbar-brand dropdown active">\
+	    <a class="nav-link dropdown-toggle item" data-target="educational.html"  href="educational.html"   \
+               id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Educational</a>\
+	    <div class="dropdown-menu" aria-labelledby="dropdown01">\
+	      <a class="dropdown-item" href="educational.html#getting_started">Getting started</a>\
+	      <a class="dropdown-item" href="educational.html#subfields_and_related_lectures">Subfield and related lectures</a>\
+	      <a class="dropdown-item" href="educational.html#materials">Materials (books, journals, ...)</a>\
+	      <a class="dropdown-item" href="openProblems.html">Open problems</a>\
+          </div>\
+	  </li>\
 	  </li>\
 	  <li class="navbar-brand">\
 	    <a class="nav-link active" href="contacts.html">Contact</a>\
