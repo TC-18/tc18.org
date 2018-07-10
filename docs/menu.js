@@ -12,9 +12,9 @@ document.getElementById("navMenu").innerHTML = '<nav class="navbar navbar-expand
                id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Organisation</a>\
 	    <div class="dropdown-menu" aria-labelledby="dropdown01">\
 	      <a class="dropdown-item" href="organisation.html#board">TC18 Board Team</a>\
-	      <a class="dropdown-item" href="organisation.html#becomeMember">Become a member</a>\
 	      <a class="dropdown-item" href="organisation.html#listMember">List of members</a>\
-	    </div>\
+	      <a class="dropdown-item" href="organisation.html#becomemember">How to become a member</a>\
+          </div>\
 	  </li>\
 	  <li class="navbar-brand">\
 	    <a class="nav-link active" href="contacts.html">Contact</a>\

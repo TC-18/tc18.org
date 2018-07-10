@@ -3,7 +3,7 @@ document.getElementById("memberslist").innerHTML = '\
     <div class="card-header" id="headingOne"> \
       <h5 class="mb-0"> \
         <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">\
-          <h5>Click to see all members</h6> \
+          TC18 Members (click to uncollapse the <a id="demo"></a>) \
         </button> \
       </h5>\
     </div>\
@@ -11,10 +11,10 @@ document.getElementById("memberslist").innerHTML = '\
                 <div class="card-body"> \
                    \
                     <table class="table-responsive-sm"> \
-                        <table class="table"> \
+                        <table class="table" id="tablemembers" > \
                             <thead> \
                                 <tr> \
-                                    <th scope="col">Name</th> \
+                                    <th scope="col" id="nameid">Name</th> \
                                     <th scope="col">Affiliation</th> \
                                     <th scope="col">City &amp; Country</th> \
                                 </tr> \
