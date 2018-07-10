@@ -8,12 +8,12 @@ document.getElementById("navMenu").innerHTML = '<nav class="navbar navbar-expand
       <div class="collapse navbar-collapse" id="navbarCollapse">\
 	<ul class="navbar-nav mr-auto">\
 	  <li class="navbar-brand dropdown active">\
-	    <a class="nav-link dropdown-toggle" href="http://example.com"  \
-               id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Organisation</a>\
+	    <a class="nav-link dropdown-toggle item" data-target="organisation.html"  href="organisation.html"   \
+               id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Organisation</a>\
 	    <div class="dropdown-menu" aria-labelledby="dropdown01">\
-	      <a class="dropdown-item" href="modernite.html">For members</a>\
-	      <a class="dropdown-item" href="tradition.html">How to become a member</a>\
-	      <a class="dropdown-item" href="design.html">List of members</a>\
+	      <a class="dropdown-item" href="organisation.html#board">TC18 Board Team</a>\
+	      <a class="dropdown-item" href="organisation.html#becomeMember">Become a member</a>\
+	      <a class="dropdown-item" href="organisation.html#listMember">List of members</a>\
 	    </div>\
 	  </li>\
 	  <li class="navbar-brand">\
