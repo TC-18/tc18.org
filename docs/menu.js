@@ -15,6 +15,8 @@ document.getElementById("navMenu").innerHTML = '<nav class="navbar navbar-expand
 	      <a class="dropdown-item" href="organisation.html#listMember">List of members</a>\
 	      <a class="dropdown-item" href="organisation.html#becomemember">How to become a member</a>\
           </div>\
+\
+<!---  DEBUT Menu Educational  --->\
 	  <li class="navbar-brand dropdown active">\
 	    <a class="nav-link dropdown-toggle item" data-target="educational.html"  href="educational.html"   \
                id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Educational</a>\
@@ -25,6 +27,24 @@ document.getElementById("navMenu").innerHTML = '<nav class="navbar navbar-expand
 	      <a class="dropdown-item" href="openProblems.html">Open problems</a>\
           </div>\
 	  </li>\
+<!---  END Menu Educational  --->\
+\
+\
+\
+<!---  DEBUT Menu Code  --->\
+	  <li class="navbar-brand dropdown active">\
+	    <a class="nav-link dropdown-toggle item" data-target="educational.html"  href="educational.html"   \
+               id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Data sets and Code</a>\
+	    <div class="dropdown-menu" aria-labelledby="dropdown01">\
+	      <a class="dropdown-item" href="data.html">Data sets</a>\
+	      <a class="dropdown-item" href="demos.html">Demos</a>\
+	      <a class="dropdown-item" href="code.html">Code</a>\
+	      <a class="dropdown-item" href="challenge.html">Challenges</a>\
+          </div>\
+	  </li>\
+<!---  END Menu Code  --->\
+\
+\
 	  </li>\
 	  <li class="navbar-brand">\
 	    <a class="nav-link active" href="contacts.html">Contact</a>\
