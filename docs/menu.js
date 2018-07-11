@@ -34,9 +34,9 @@ document.getElementById("navMenu").innerHTML = '<nav class="navbar navbar-expand
 <!---  DEBUT Menu Code  --->\
 	  <li class="navbar-brand dropdown active">\
 	    <a class="nav-link dropdown-toggle item" data-target="dataTools.html"  href="dataTools.html"   \
-               id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Data sets and Code</a>\
+               id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Data Sets and Code</a>\
 	    <div class="dropdown-menu" aria-labelledby="dropdown01">\
-	      <a class="dropdown-item" href="dataTools.html">Data sets and tools</a>\
+	      <a class="dropdown-item" href="dataTools.html">Data Sets and Tools</a>\
 	      <a class="dropdown-item" href="demos.html">Demos</a>\
 	      <a class="dropdown-item" href="code.html">Code</a>\
 	      <a class="dropdown-item" href="challenge.html">Challenges</a>\
