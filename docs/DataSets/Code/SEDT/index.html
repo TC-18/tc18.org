@@ -1,0 +1,196 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>3D Squared Euclidean Distance Transform</title>
+  </head>
+
+  <body bgcolor="#FFFFFF" TOPMARGIN="10" LEFTMARGIN="10" MARGINWIDTH="10" MARGINHEIGHT="10">
+
+
+<h1 align=center color=red><font color=red>
+3D Squared Euclidean Distance Transform in optimal time
+</font></h1>
+
+<p><font color=green><i>sedt</i></font> is a simple program to compute the
+    squared Euclidean distance transform of a binary object (using the
+    <a href="../Libvol/">VOL</a> format) in optimal time (i.e. in O(n)
+    if n is the number of voxels). It is an implementation of the
+    Saito and Toriwaki algorithm  <a
+	href="../../Bibliography/tc18_bib.html#SAITO_1994">[SAITO_1994]</a> with the optimization proposed by
+    <a
+	href="../../Bibliography/tc18_bib.html#HIRATA_1996">[HIRATA_1996]</a> and   <a
+	href="../../Bibliography/tc18_bib.html#MEIJSTER_2000">[MEIJSTER_2000]</a>.</p>
+
+
+<p> The output (SEDT) is a file in the <a
+	href="../Liblongvol">longvol</a> format.</p>
+
+<ul>
+      <li><font color=orange>Download</font>  <a href="sedt3D-0.3.tgz">sedt3D-0.3.tgz</a> (TAR
+	GZIPPED file) version 0.3 (C++ bugs fixed to speed up the
+	algorithm, see the README file)
+	<li> <font color=orange>Compilation</font>: standard C++ program,
+	see the Makefile. To compile, you need the <a
+	  href="../Libvol">VOL</a> and the <a
+	  href="../Liblongvol">LONGVOL</a> libraries. To generate the
+	commented source files, you also need  the documentation
+	system <a href="http://www.doxygen.org/">doxygen</a>.
+	<li> <font color=orange>Main references</font>:
+	<li> <font color=orange>Feed back</font>: <a
+						     href="mailto:dcoeurjo@liris.cnrs.fr">David Coeurjolly</a>
+</ul>
+
+
+The code is really simple and code comments can be browsed using
+  doxygen (just enter "make doc" and browse the resulting html
+    files). See the README file.
+
+
+<p>Just  an example, let us consider a simple cube with length 5 (see <a
+      href="../Volgen">Volgen</a>) :
+<p><img src="cube5.png"></p>
+
+
+Once sedt compiled, you can launch it :
+<table>
+<TR><TD bgcolor="#FFFF9C">
+<PRE> sedt cube_5.vol cube_5_output.longvol                                </PRE>
+</TD></TR>
+</table>
+<br>
+<p>You will obtain and longvol file containing the SEDT values and the
+    program also prints in the     standard output  the SEDT values
+    slice by slice (Z axis). Since the code is really simple, this
+    last point can be easily disabled. </p>
+
+
+<p>Standard output: </p>
+<table>
+<TR><TD bgcolor="#BBCCFF"><PRE>
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 4 4 4 1 0 0 
+0 0 0 1 4 4 4 1 0 0 
+0 0 0 1 4 4 4 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 1 1 1 1 1 0 0
+0 0 0 1 4 4 4 1 0 0
+0 0 0 1 4 9 4 1 0 0
+0 0 0 1 4 4 4 1 0 0
+0 0 0 1 1 1 1 1 0 0
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 4 4 4 1 0 0 
+0 0 0 1 4 4 4 1 0 0 
+0 0 0 1 4 4 4 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 1 1 1 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+
+</PRE></TD></TR>
+
+</table>
+
+
+
+
+    <hr>
+    <address><a           href="mailto:David                Coeurjolly
+    <dcoeurjo@liris.cnrs.fr>">dcoeurjo</a></address> <!-- Created: Tue
+    Feb  4 17:04:45 MET  2003 --> <!--  hhmts start --> Last modified:
+    Tue Feb 4 17:42:27 MET 2003 <!-- hhmts end -->
+  </body>
+</html>
