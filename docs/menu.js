@@ -61,6 +61,10 @@ document.getElementById("navMenu").innerHTML = '<nav class="navbar navbar-expand
 \
 	  </li>\
 	  <li class="navbar-brand">\
+	    <a class="nav-link active" href="gallery.html">Gallery</a>\
+	  </li>\
+\
+	  <li class="navbar-brand">\
 	    <a class="nav-link active" href="contacts.html">Contact</a>\
 	  </li>\
 	</ul>\

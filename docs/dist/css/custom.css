@@ -88,3 +88,54 @@ h2 {
     white-space: normal !important;
     word-wrap: break-word;
 }
+
+
+
+
+.myGallery { 
+    text-align: center;
+    margin: 0 10px 10px 0px;    
+}
+
+.myGallery .gallery-item{
+    float: left ;
+    margin-top: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 45%;
+}
+
+.myGallery .gallery-item-large{
+    float: left ;
+    margin-top: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    width: 90%;
+}
+
+/* .gallery img { */
+/*     border: 2px solid #cfcfcf; */
+/* } */
+
+.myGallery img {
+	border: 10px solid #f1f1f1;
+}
+
+.myGallery .gallery-caption {
+	color: #777;
+	font-size: 12px;
+	margin: 0 0 12px;
+	text-align: left ;
+	width: 100%
+}
+
+.myGallery .gallery-reference {
+	color: #09BCE8;
+	font-size: 12px;
+	margin: 0 0 12px;
+	text-align: left ;
+	width: 100%
+}
