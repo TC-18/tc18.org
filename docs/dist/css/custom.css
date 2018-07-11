@@ -148,5 +148,10 @@ h2 {
 	font-size: 12px;
 	margin: 0 0 12px;
 	text-align: left ;
-	width: 100%
+	width: 100%;
+        z-index:2020;
+
+}
+.navbar {
+  background-color: #00000088;
 }
