@@ -11,7 +11,7 @@ document.getElementById("memberslist").innerHTML = '\
                 <div class="card-body"> \
                    \
                     <table class="table-responsive-sm"> \
-                        <table class="table" id="tablemembers" > \
+                        <table class="table-responsive-sm" id="tablemembers" > \
                             <thead> \
                                 <tr> \
                                     <th scope="col" id="nameid">Name</th> \
