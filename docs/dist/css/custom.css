@@ -20,8 +20,14 @@ a {
   outline: none;
   text-decoration: none;
   color: #09BCE8;
-  padding-top: 80px;
   
+}
+a.anchor {
+    padding-top: 80px;
+}
+
+name { 
+    padding-top: 80px;
 }
 
 
@@ -30,8 +36,8 @@ a:hover {
 }
 
 
-body { 
-  font: normal .910em arial, sans-serif;
+body {
+    font: normal .910em arial, sans-serif;
   background: #000 url(../../Logos/pattern.png);
   color: #444;
 }
@@ -55,6 +61,7 @@ blockquote {
     overflow: hidden;
     margin: 10px 0 3 30;
     background: #FFF8;
+    
 }
 
 h1, h2, h3, h4, h5, h6 { 
