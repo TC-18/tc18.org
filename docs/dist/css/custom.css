@@ -20,6 +20,7 @@ a {
   outline: none;
   text-decoration: none;
   color: #09BCE8;
+  padding-top: 80px;
   
 }
 
@@ -49,15 +50,17 @@ blockquote {
   background: #FFF;
 }
 
+
 #site_content { 
-  overflow: hidden;
-  margin: 10px 0pc;
-  background: #FFF8;
-} 
+    overflow: hidden;
+    margin: 10px 0 3 30;
+    background: #FFF8;
+}
+
 h1, h2, h3, h4, h5, h6 { 
   color: #362C20;
   letter-spacing: 0em;
-  padding: 20px 10px 5px 0;
+  padding: 20px 40px 5px 0;
 }
 h2 { 
   padding: 9px 0 5px 0;
