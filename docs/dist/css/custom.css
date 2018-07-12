@@ -25,9 +25,11 @@ a {
 
 a.anchor {
     padding-top: 80px;
+    display:inline-block;
 }
 
-name { 
+
+a.decLink {
     padding-top: 80px;
 }
 
