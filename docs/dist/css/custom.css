@@ -173,3 +173,10 @@ h2 {
     overflow:scroll;
     -webkit-overflow-scrolling: touch;
 }
+.list-group-item-action.active{
+
+  color: #FFF;
+  background-color: #09BCE8;
+  border: none;
+
+}
