@@ -160,3 +160,16 @@ h2 {
 .navbar {
   background-color: #00000088;
 }
+.tab-pane
+{
+    background-color: #FFF;
+     min-height: 300px;
+}
+
+
+.list-group{
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+}
