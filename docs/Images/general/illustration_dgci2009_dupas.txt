@@ -1,9 +1,0 @@
-Légende:
-Utilisation des points simples multilabel pour préserver la topologie
-d'une partition lors d'un processus de déformation d'une image IRM
-cérébrale (à gauche). Le résultat (à droite) possède les même
-caractéristiques topologiques que la partition initiale (au centre).
-L'arbre représente les relations d'imbrications entre les régions. Les
-points simples multilabels permettent de caractériser les voxels de
-l'image dont le basculement ne changent pas la topologie de la partition
-dans le contexte d'une image comportant plusieurs régions.
