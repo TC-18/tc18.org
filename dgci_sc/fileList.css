@@ -1,0 +1,22 @@
+.edit, .text, .fileList, p#message { font-family: Trebuchet MS; font-size: 13px }
+h1.fileList { font-size: 20px; margin: 2px 0 5px 0; padding: 0px; color: blue; font-weight: normal }
+form#fileListForm { padding: 0; margin: 0 }
+table.fileList { border-collapse: collapse; margin: 0; width: 100%; border: 1px solid blue }
+table.fileList th { background-color: #EEE; text-align: center; font-weight: normal;
+	padding: 2px 6px; border: 1px solid blue; }
+table.fileList td { padding: 1px 6px; border: 1px solid; border-color: #AAF blue; }
+table.fileList td:first-child { white-space: nowrap }
+table.fileList tr:last-child td { border-bottom: 1px solid blue; padding-bottom: 2px; }
+table#fileListActions { width:100%; margin: 7px 0; border: none; border-spacing: 0 }
+table#fileListActions td { white-space: nowrap; padding: 0 2px }
+table#fileListActions td:first-child { padding-left: 0 }
+table#fileListActions td:last-child { padding-right: 0 }
+a { text-decoration: none; color: blue }
+a:hover { color: red; }
+.edit, .text { padding: 0; border: 0; margin: 0 }
+.edit { display: none; width: 100% }
+.noError { color: blue }
+.error { color: red }
+.folder { cursor: pointer }
+img.folder {  vertical-align: top; margin: 2px 0 0 0 }
+p#message { margin-top: 6px 0; padding: 0 }

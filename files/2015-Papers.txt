@@ -1,0 +1,126 @@
+-------------------
+Pattern Recognition
+-------------------
+
+Attila Tanács, Joakim Lindblad, Nataša Sladoje, Zoltan Kato, Estimation
+of linear deformations of 2D and 3D fuzzy objects, Pattern Recognition,
+Volume 48, Issue 4, April 2015, Pages 1391-1403 
+
+
+Wendy Aguilar, Ernesto Bribiesca, Symmetry detection in 3D chain coded
+discrete curves and trees, Pattern Recognition, Volume 48, Issue 4,
+April 2015, Pages 1420-1439 
+
+
+---------------------------
+Pattern Recognition Letters
+---------------------------
+
+Vladimir Ilić, Joakim Lindblad, Nataša Sladoje, Precise Euclidean
+distance transforms in 3D from voxel coverage representation, Pattern
+Recognition Letters, Volume 65, 1 November 2015, Pages 184-191  
+
+
+
+--------------------------
+Image and Vision Computing
+--------------------------
+
+Mohammad Tanvir Parvez, Optimized polygonal approximations through
+vertex relocations in contour neighborhoods, Image and Vision Computing,
+Volume 34, February 2015, Pages 1-10 
+
+
+---------------------------------------
+Computer Vision and Image Understanding
+---------------------------------------
+
+---
+
+
+----------------------------
+Discrete Applied Mathematics
+----------------------------
+
+- Jean-Serge Dimitri Ouattara, Eric Andres, Gaëlle Largeteau-Skapin, Rita
+Zrour, Théodore Marie-Yves Tapsoba: Remainder approach for the
+computation of digital straight line subsegment
+characteristics. Discrete Applied Mathematics 183: 90-101 (2015)  
+
+- Isabelle Bloch, Alain Bretto, Aurélie Leborgne: Robust similarity
+  between hypergraphs based on valuations and mathematical morphology
+  operators. Discrete Applied Mathematics 183: 2-19 (2015)
+  
+- Carmen Escribano, Antonio Giraldo, María Asunción Sastre:
+Characterization of the deletion of (26, 6)-simple points as multivalued
+(N, 26)-retractions. Discrete Applied Mathematics 183: 31-41 (2015)
+
+- Rocío González-Díaz, María José Jiménez, Belén Medrano: 3D
+  well-composed polyhedral complexes. Discrete Applied Mathematics 183:
+  59-77 (2015) 
+
+- Tristan Roussillon: Euclidean farthest-point Voronoi diagram of a
+  digital edge. Discrete Applied Mathematics 183: 118-129 (2015) 
+
+- Isabelle Sivignon: Fast recognition of a Digital Straight Line
+  subsegment: Two algorithms of logarithmic time complexity. Discrete
+  Applied Mathematics 183: 130-146 (2015) 
+
+
+
+--------------------------------------------------------
+IEEE Trans. on Pattern Analysis and Machine Intelligence
+--------------------------------------------------------
+
+
+- Benjamin Perret, Jean Cousty, Olena Tankyevych, Hugues Talbot, Nicolas
+  Passat: Directed Connected Operators: Asymmetric Hierarchies for Image
+  Filtering and Segmentation. IEEE Trans. Pattern
+  Anal. Mach. Intell. 37(6): 1162-1176 (2015)
+
+
+-----------------------------------
+Discrete and Computational Geometry
+-----------------------------------
+
+
+- Sylvie Alayrangues, Guillaume Damiand, Pascal Lienhardt, Samuel Peltier:
+Homology of Cellular Structures Allowing Multi-incidence. Discrete &
+Computational Geometry 54(1): 42-77 (2015) 
+
+---
+
+-------------------------------
+IEEE Trans. on Image Processing
+-------------------------------
+  
+- Thanh Phuong Nguyen, Thai V. Hoang: Projection-Based Polygonality
+  Measurement. IEEE Transactions on Image Processing 24(1): 305-315
+  (2015) 
+
+- Zezhong Xu, Bok-Suk Shin, Reinhard Klette: Accurate and Robust Line
+  Segment Extraction Using Minimum Entropy With Hough Transform. IEEE
+  Transactions on Image Processing 24(3): 813-822 (2015) 
+
+---
+
+-------------------
+Journal of Mathematical Imaging and Vision
+-------------------
+
+- Brunetti, S., Dulio, P., Hajdu, L. et al.: Ghosts in Discrete
+  Tomography, J Math Imaging Vis (2015) 53: 210.
+  
+- Haarmann, J., Murphy, M.P., Peters, C.S. et al.: Homotopy Equivalence
+  in Finite Digital Images, J Math Imaging Vis (2015) 53: 288. 
+
+
+-------------------
+Theoretical Computer Science
+-------------------
+
+- Ranita Biswas , Partha Bhowmick: On different topological classes of
+  spherical geodesic paths and circles in Z3, Theoretical Computer Science
+Volume 605, 9 November 2015, Pages 146–163.
+
+

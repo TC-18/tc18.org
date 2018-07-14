@@ -1,0 +1,86 @@
+       DGCI'2006
+
+       FIRST CALL FOR PAPERS
+
+       13th International Conference on
+       Discrete Geometry for Computer Imagery
+
+       October 25-27, 2006
+
+       SZEGED - HUNGARY
+
+       http://www.inf.u-szeged.hu/dgci/
+
+______________________________________________________________________
+
+IMPORTANT DATES:
+
+   Deadline for paper submission:     April 3, 2006
+   Notification of acceptance:        June  3, 2006
+   Deadline for camera ready version: July  3, 2006
+
+
+CONTACT : dgci@inf.u-szeged.hu
+
+______________________________________________________________________
+
+DGCI'2006 is  the 13th in  the series of international  conferences on
+Discrete  Geometry  for  Computer  Imagery.   The  aim  is  to  gather
+researchers in  discrete geometry and topology,  discrete models, with
+applications in image analysis and image synthesis.
+
+Discrete  geometry plays  an expanding  role  in the  fields of  shape
+modelling,  image  synthesis,  and  image  analysis.   It  deals  with
+topological  and   geometric  definitions  of   digitized  objects  or
+digitized  images and  provides both  a theoretical  and computational
+framework for computer imaging.
+
+This  edition of  DGCI follows  the  successful 2005  edition held  in
+Poitiers,  France.   It  is  organized  by  the  Department  of  Image
+Processing and Computer Graphics (Institute of Informatics, University
+of Szeged).  It will take place  in Szeged, Hungary from October 25 to
+October 27, 2006.
+The  conference  will  offer   invited  talks,  lectures  on  selected
+articles, presentations of  selected posters, and demonstrations.  The
+proceedings of the conference will be published by Springer Verlag, in
+the Lecture Notes in Computer Science series.
+
+______________________________________________________________________
+
+CONFERENCE TOPICS:
+
+Original  and unpublished  papers are  welcome, concerning  theory and
+applications on:
+
+- Discrete and Combinatorial Topology
+- Models for Discrete Geometry
+- Geometric Transforms
+- Surfaces and Volumes
+- Discrete Shape Representation
+- Discrete Tomography
+- Discrete and Combinatorial Image Analysis
+- Morphological Analysis
+- Shape Recovery
+- Image Generation and Reconstruction
+- Visualization
+
+______________________________________________________________________
+
+SUBMISSION OF PAPERS:
+
+Prospective contributors are encouraged to submit papers and to attend
+DGCI  2006. Each paper  will be  reviewed by  at least  two reviewers.
+Accepted papers will be  included in the proceedings volume, published
+by Springer-Verlag in the series Lecture Notes in Computer Science.
+
+______________________________________________________________________
+
+Full  details  of  the conference  can  be  found  on our  website  at
+http://www.inf.u-szeged.hu/dgci/
+
+Please pass on this email to any colleagues who may be interested.
+
+We look forward to welcoming you to Szeged for DGCI 2006.
+
+A. Kuba, K. Palagyi, L.G. Nyul
+organizers of DGCI 2006

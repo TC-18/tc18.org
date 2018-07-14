@@ -1,0 +1,39 @@
+<?php include("header.html") ?>
+
+     
+<div id='site_content'>
+<html>
+<BODY bgColor=white text=black><B>April, 19th 2016</B> 
+<CENTER><B>A good approximation of the convex scull</B> <BR>Gunilla Borgefors 
+<BR> <BR>Uppsala, Sweden <BR><I>gunilla.borgefors@it.uu.se</I> 
+</CENTER>
+<p>
+We are all familiar with the convex hull of an object. It is easy to
+compute and the convex deficiencies can be a good help in describing the
+shape. It would be very nice to have a useful algorithm for the convex
+scull, which would enable the identification and use of the protrusions
+for shape description. 
+</p>
+<p>
+The convex scull of a shape is the largest enclosed convex subset of the
+shape. There exists an algorithm for computing the exact convex skull,
+but it is O(n^7) where n is the number of edge points [1]. There also
+exists a fast but bad approximation [1], which is useful for small
+shapes but as essentially computes the largest inscribed octagon the
+approximation can be very bad for large shapes. How to compute a good
+approximation that is not too time consuming? Or even better, an exact
+algorithm that is less than O(n^7).  
+</p>
+<p>
+[1] Chassery, J.M., Coeurjolly, D.: Optimal shape and inclusion. In Ronse, C., Najman, L., Decencière, E., eds.: Mathematical Morphology: 40 Years On. Computational Imaging and Vision, Springer, Dordrecht (2005) 229–248
+</p>
+<p>
+[2] Borgefors, G., Strand R., An approximation of the maximal inscribed
+convex set of a digitalobjec t, In: Image Analysis and Processing (ICIAP
+2005), Eds. F. Roli, S. Vitulano, Lecture Notes in Computer Science
+3617, Springer-Verlag, Berlin 2005, pp. 438-445
+</p>
+</BODY></HTML>
+
+
+<?php include("footer.html") ?>
