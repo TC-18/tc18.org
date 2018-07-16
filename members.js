@@ -8,10 +8,10 @@ document.getElementById("memberslist").innerHTML = '\
       </h5>\
     </div>\
 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample"> \
-                <div class="card-body"> \
+                <div class="card-body text-info"> \
                    \
-                    <table class="table-responsive-sm"> \
-                        <table class="table-responsive-sm" id="tablemembers" > \
+                    <table class="table-responsive-sm "> \
+                        <table class="table-responsive-sm table-striped" id="tablemembers" > \
                             <thead> \
                                 <tr> \
                                     <th scope="col" id="nameid">Name</th> \
