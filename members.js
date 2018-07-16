@@ -78,6 +78,12 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Uppsala, Sweden</td>\
       </tr>\
       <tr>\
+	<td><a href="https://www.lrde.epita.fr/wiki/User:Nboutry">Nicolas Boutry</a></td>\
+	<td>LRDE EPITA</td>\
+	<td>Kremlin-Bicetre, France</td>\
+      </tr>\
+           
+       <tr>\
 	<td><a href="http://dept-info.labri.fr/~achille/">Achille Braquelaire</a></td>\
 	<td><a href="http://www.labri.fr/">LaBRI : Laboratory of computer science of Bordeaux</a></td>\
 	<td>Bordeaux, France</td>\
