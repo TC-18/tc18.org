@@ -88,6 +88,13 @@ h2 {
 }
 
 
+.carousel-inner {
+    position: relative;
+    height: 400px;
+    max-height:100vh;
+    overflow: hidden;
+}
+
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
