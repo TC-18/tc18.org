@@ -462,18 +462,22 @@ document.getElementById("memberslist").innerHTML = '\
         <td><a href="https://members.loria.fr/HDPNgo/">LORIA, ADAGIO team, Université de Lorraine</td>\
         <td>Nancy, France</td>\
       </tr>\
-\
-      <tr>\
-        <td><a href="http://www.univ-nantes.fr/normand-n">Nicolas Normand</td>\
-        <td><a href="http://www.irccyn.ec-nantes.fr/">IRCCyN/IVC, Polytech\' Nantes</td>\
-        <td>Nantes, France</td>\
-      </tr>\
       <tr>\
 	<td><a href="http://tpnguyen.univ-tln.fr">Thanh Phuong Nguyen</a></td>\
 	<td><a href="http://www.lsis.org">LSIS, Université de Toulon</a></td>\
 	<td>Nancy, France</td>\
       </tr>\
       <tr>\
+        <td><a href="http://www.univ-nantes.fr/normand-n">Nicolas Normand</td>\
+        <td><a href="http://www.irccyn.ec-nantes.fr/">IRCCyN/IVC, Polytech\' Nantes</td>\
+        <td>Nantes, France</td>\
+      </tr>\
+      <tr>\
+        <td><a href="https://cv.archives-ouvertes.fr/guillaume-noyel">Guillaume Noyel</td>\
+        <td><a href="http://www.i-pri.org">International Prevention Research Institute; University of Strathclyde</td>\
+        <td>Lyon; France</td>\
+      </tr>\
+       <tr>\
 	<td><a href="http://www-sop.inria.fr/geometrica/team/Trung.Nguyen/">Trung Nguyen</a></td>\
 	<td><a href="http://www-sop.inria.fr/geometrica/">Geometrica, INRIA</a></td>\
 	<td>Sophia Antipolis, France</td>\
