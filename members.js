@@ -36,6 +36,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td> Center for Mathematical Morphology,  <a href="http://www.cmm.mines-paristech.fr">MINES ParisTech </a> </td>\
 	<td>Paris, France</td>\
       </tr>\
+ <tr>\
+        <td><a href="http://bte.gtu.edu.tr/~eaptoula">Erchan Aptoula</a></td>\
+	<td>  Institute of Information Technologies;  Gebze Technical University </td>\
+	<td>Kocaeli; Turkey</td>\
+      </tr>\
 \
       <tr>\
         <td><a href="http://www.lsis.org/gmod">Alexandra Bac</a></td>\
@@ -394,6 +399,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Kharagpur, India</td>\
       </tr>\
       <tr>\
+        <td>Deise Santana Maia</td>\
+	<td> Université Paris-Est</td>\
+	<td>Champs-sur-Marne, France</td>\
+      </tr>\
+      <tr>\
 	<td>Anukul Maity</td>\
 	<td>Assistant Professor of Computer Science and Engineering, NIT</td>\
 	<td>India</td>\
@@ -561,11 +571,6 @@ document.getElementById("memberslist").innerHTML = '\
         <td><a href="http://www.icar.cnr.it/en/node/353">Gabriella Sanniti di Baja</a></td>\
 	<td>Image Analysis, Istituto di Cibernetica CNR</td>\
 	<td>Pozzuoli, Naples, Italy</td>\
-      </tr>\
-      <tr>\
-        <td>Deise Santana Maia</td>\
-	<td> Université Paris-Est</td>\
-	<td>Champs-sur-Marne, France</td>\
       </tr>\
       <tr>\
 	<td><a href="http://www.inf.tu-dresden.de/~hs24/ACC/index_en.html">Henrik Schulz</a></td>\
