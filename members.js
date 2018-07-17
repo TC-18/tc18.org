@@ -504,6 +504,11 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
      \
      <tr>\
+	<td><a href="https://perso.esiee.fr/~perretb">Benjamin Perret</a></td>\
+	<td><a href="http://www.esiee.fr">ESIEE</a>, <a href="http://ligm.u-pem.fr">LIGM</a>, Université Paris-Est</a></td>\
+	<td>Noisy-Le-Grand (PARIS), France</td>\
+     </tr>\
+     <tr>\
 	<td><a href="http://www.esiee.fr/~perrotol">Laurent Perroton</a></td>\
 	<td><a href="http://www.esiee.fr">ESIEE</a></td>\
 	<td>Noisy-Le-Grand (PARIS), France</td>\
@@ -556,6 +561,11 @@ document.getElementById("memberslist").innerHTML = '\
         <td><a href="http://www.icar.cnr.it/en/node/353">Gabriella Sanniti di Baja</a></td>\
 	<td>Image Analysis, Istituto di Cibernetica CNR</td>\
 	<td>Pozzuoli, Naples, Italy</td>\
+      </tr>\
+      <tr>\
+        <td>Deise Santana Maia</td>\
+	<td> Université Paris-Est</td>\
+	<td>Champs-sur-Marne, France</td>\
       </tr>\
       <tr>\
 	<td><a href="http://www.inf.tu-dresden.de/~hs24/ACC/index_en.html">Henrik Schulz</a></td>\
