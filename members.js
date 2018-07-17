@@ -208,6 +208,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Nancy, France</td>\
       </tr>\
       <tr>\
+	<td><a href="www.ic.unicamp.br/~afalcao">Alexandre Xavier Falcão</a></td>\
+	<td><a href="http://www.lids.ic.unicamp.br">Information Systems; Institute of Computing</a> / University of Campinas</td>\
+	<td>Campinas, SP; Brazil</td>\
+      </tr>\
+      <tr>\
 	<td><a href="http://igcnc.u-clermont1.fr/cv/189">Fabien Feschet</a></td>\
 	<td><a href="http://llaic.u-clermont1.fr/">LLAIC1</a></td>\
 	<td>Aubi&egrave;re, France</td>\
@@ -445,13 +450,17 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://www.iiests.ac.in"> Department of Information Technology  Indian Institute of Engineering Science and Technology, Shibpur</a></td>\
 	<td>Howrah, India</td>\
       </tr>\
-\
       <tr>\
 	<td>Annick Montanvert</td>\
 	<td><a href="http://www.gipsa-lab.grenoble-inp.fr/">Laboratoire GISPA-lab</a></td>\
 	<td>Grenoble, France</td>\
       </tr>\
-      <tr>\
+       <tr>\
+	<td>Maxime Moreaud</td>\
+	<td><a href="http://www.ifpen.fr">FP energies nouvelles</a> </td>\
+	<td>Solaize France</td>\
+      </tr>\
+     <tr>\
 	<td><a href="http://icube-miv.unistra.fr/fr/index.php/Benoît_Naegel">Benoît Naegel</a></td>\
 	<td><a href="http://icube.unistra.fr">ICUBE, Université de Strasbourg</a></td>\
 	<td>Strasbourg, France</td>\
@@ -539,6 +548,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://lprovot.fr">Laurent Provot</a></td>\
 	<td><a href="https://limos.isima.fr">LIMOS, Clermont Auvergne University</a></td>\
 	<td>Clermont-Ferrand, France</td>\
+      </tr>\
+      <tr>\
+	<td>Elodie Puybareau</td>\
+	<td><a href="https://www.lrde.epita.fr/wiki/Home">EPITA Research and Development Laboratory (LRDE)</a></td>\
+	<td>Le Kremlin Bicetre; France</td>\
       </tr>\
       <tr>\
         <td><a href="http://www.pdipas.us.es/r/real">Pedro Real</a></td>\
