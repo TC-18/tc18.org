@@ -668,8 +668,6 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Groningen, The Nederlands</td>\
       </tr>\
       <tr>\
-\
-      <tr>\
 	<td><a href="http://www.taurusstudio.net">Jerry Wu</a></td>\
 	<td>Wellcome Trust SangerInstitute, Wellcome Trust Genome Campus</td>\
 	<td>Cambridge, United Kingdom</td>\
