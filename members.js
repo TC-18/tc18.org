@@ -534,7 +534,7 @@ document.getElementById("memberslist").innerHTML = '\
      </tr>\
      <tr>\
 	<td><a href="https://sites.google.com/site/mtanpham89/home">Minh-Tan Pham</a></td>\
-	<td><a href="http://www-obelix.irisa.fr/">Department of Information, IRISA laboratory</a></td>\
+	<td><a href="http://www-obelix.irisa.fr/">Department of Information, IRISA laboratory</a>, Université Bretagne Sud</td>\
 	<td>Vannes, France</td>\
      </tr>\
         <tr>\
