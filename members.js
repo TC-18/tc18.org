@@ -663,6 +663,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Marseille, France</td>\
       </tr> \
       <tr>\
+	<td>Thiago Vallin Spina</td>\
+	<td><a href="https://www.lnls.cnpem.br/grupos/gcc/">Brazilian Synchrotron Light Laboratory; Brazilian Center for Research in Energy and Materials</td>\
+	<td>Campinas; Brazil</td>\
+      </tr>\
+       <tr>\
 	<td><a href="http://isit.u-clermont1.fr/~anvacava/">Antoine Vacavant</a></td>\
 	<td><a href="http://isit.u-clermont1.fr">ISIT lab, Université d\'Auvergne</a></td>\
 	<td>Le Puy-en-Velay, France</td>\
