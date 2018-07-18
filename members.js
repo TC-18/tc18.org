@@ -83,6 +83,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Uppsala, Sweden</td>\
       </tr>\
       <tr>\
+	<td><a href="https://staff.lincoln.ac.uk/de6e2d62-190c-425a-9066-f8e2c963abb6">Petra Bosilj</a></td>\
+	<td><a href="https://lcas.lincoln.ac.uk/wp/">School of Computer Science; University of Lincoln</a></td>\
+	<td>Lincoln; UK</td>\
+      </tr>\
+      <tr>\
 	<td><a href="https://www.lrde.epita.fr/wiki/User:Nboutry">Nicolas Boutry</a></td>\
 	<td>LRDE EPITA</td>\
 	<td>Kremlin-Bicetre, France</td>\
