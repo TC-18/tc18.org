@@ -532,6 +532,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://www.esiee.fr">ESIEE</a></td>\
 	<td>Noisy-Le-Grand (PARIS), France</td>\
      </tr>\
+     <tr>\
+	<td><a href="https://sites.google.com/site/mtanpham89/home">Minh-Tan Pham</a></td>\
+	<td><a href="http://www-obelix.irisa.fr/">Department of Information, IRISA laboratory</a></td>\
+	<td>Vannes, France</td>\
+     </tr>\
         <tr>\
 	<td><a href="https://perso.esiee.fr/~plutak/">Kacper Pluta</a></td>\
 	<td><a href="http://ligm.u-pem.fr/equipes/algorithmes-architectures-analyse-et-synthese-dimages/">LIGM (A3SI), University Paris-Est Marne-la-Vallée</a></td>\
