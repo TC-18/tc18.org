@@ -243,6 +243,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Clermont-Ferrand, France</td>\
       </tr>\
       <tr>\
+	<td><a href="https://www.lrde.epita.fr/wiki/User:Theo"> Thierry Géraud</a></td>\
+	<td><a href=" https://www.lrde.epita.fr"> EPITA Research and Development Laboratory (LRDE)</a></td>\
+	<td>Le Kremlin-Bicêtre, France</td>\
+      </tr>\
+      <tr>\
         <td><a href="http://ma1.eii.us.es/miembros/rogodi/XSLT.asp?xml=rogodi.xml&xsl=profesores.xsl">Rocio Gonzalez Diaz</a></td>\
 	<td><a href="http://investigacion.us.es/sisius/sis_depgrupos.html?seltext=FQM-019&selfield=CodPAI">Combinatorial Image Analysis Research Group, University of Seville</a></td>\
 	<td>Sevilla, Spain</td>\
@@ -460,10 +465,15 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://www.gipsa-lab.grenoble-inp.fr/">Laboratoire GISPA-lab</a></td>\
 	<td>Grenoble, France</td>\
       </tr>\
-       <tr>\
+     <tr>\
 	<td>Maxime Moreaud</td>\
 	<td><a href="http://www.ifpen.fr">FP energies nouvelles</a> </td>\
-	<td>Solaize France</td>\
+	<td>Solaize, France</td>\
+      </tr>\
+     <tr>\
+         <td><a href="http://www.gipsa-lab.grenoble-inp.fr/~mauro.dallamura">Mauro Dalla Mura</a></td>\
+         <td><a href="http://www.gipsa-lab.grenoble-inp.fr"> GIPSA-lab; Grenoble Institute of Technology</a></td>\
+         <td>Grenoble, France</td>\
       </tr>\
      <tr>\
 	<td><a href="http://icube-miv.unistra.fr/fr/index.php/Benoît_Naegel">Benoît Naegel</a></td>\
