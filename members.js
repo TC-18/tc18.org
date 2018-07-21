@@ -500,7 +500,7 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://www.cb.uu.se/">Centre for Image Analysis, UU</a></td>\
 	<td>Uppsala, Sweden</td>\
       </tr>\
-	<td><a href="http://www.cb.uu.se/~ingela/">Georgios K Ouzounis</a></td>\
+	<td><a href="https://sites.google.com/site/georgiosouzounis/home">Georgios K Ouzounis</a></td>\
 	<td><a href="https://www.digitalglobe.com">DigitalGlobe, Inc. </a></td>\
 	<td> Longmont, USA</td>\
       </tr>\
