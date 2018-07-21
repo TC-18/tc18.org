@@ -388,11 +388,6 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Uppsala, Sweden</td>\
       </tr>\
       <tr>\
-	<td><a href="http://w3.ualg.pt/~loke">Eddy Loke</a></td>\
-	<td><a href="http://w3.ualg.pt/~dubuf/">Visionlab</a> University of Algarve</td>\
-	<td>Faro, Portugal</td>\
-      </tr>\
-      <tr>\
 	<td><a href="http://www.cb.uu.se/~cris/">Cris Luengo</a></td>\
 	<td><a href="http://www.cb.uu.se/">Centre for Image Analysis</a> SLU University</td>\
 	<td>Uppsala, Sweden</td>\
@@ -499,11 +494,6 @@ document.getElementById("memberslist").innerHTML = '\
         <td><a href="https://cv.archives-ouvertes.fr/guillaume-noyel">Guillaume Noyel</td>\
         <td><a href="http://www.i-pri.org">International Prevention Research Institute; University of Strathclyde</td>\
         <td>Lyon; France</td>\
-      </tr>\
-       <tr>\
-	<td><a href="http://www-sop.inria.fr/geometrica/team/Trung.Nguyen/">Trung Nguyen</a></td>\
-	<td><a href="http://www-sop.inria.fr/geometrica/">Geometrica, INRIA</a></td>\
-	<td>Sophia Antipolis, France</td>\
       </tr>\
       <tr>\
 	<td><a href="http://www.cb.uu.se/~ingela/">Ingela Nystr&ouml;m</a></td>\
