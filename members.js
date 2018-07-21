@@ -58,6 +58,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Fredonia, USA</td>\
       </tr>\
       <tr>\
+	<td><a href="https://www.universiteitleiden.nl/en/staffmembers/k.j.-batenburg#tab-1">Joost Batenburg</a></td>\
+	<td><a href="https://www.universiteitleiden.nl/en">Leiden Universiteit</a></td>\
+	<td>Strasbourg, France</td>\
+      </tr>	      \
+      <tr>\
 	<td><a href="http://icube-miv.unistra.fr/fr/index.php/Etienne_Baudrier">Etienne Baudrier</a></td>\
 	<td><a href="http://icube-miv.unistra.fr/fr/index.php/Accueil">ICube laboratory</a></td>\
 	<td>Strasbourg, France</td>\
@@ -76,6 +81,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://www.tsi.enst.fr/~bloch">Isabelle Bloch</a></td>\
 	<td><a href="http://www.tsi.enst.fr/~bloch/tii_eng.html">Signal and Image Processing</a></td>\
 	<td>Paris, France</td>\
+      </tr>\
+      <tr>\
+	<td><a href="http://cse.iitkgp.ac.in/~pb">Partha Bhowmick</a></td>\
+	<td><a href="http://cse.iitkgp.ac.in/">Department of Computer Science and Engineering</a></td>\
+	<td>Kharagpur, India</td>\
       </tr>\
       <tr>\
 	<td><a href="http://www.cb.uu.se/~gunilla/">Gunilla Borgefors</a></td>\
@@ -536,9 +546,7 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://ligm.u-pem.fr/equipes/algorithmes-architectures-analyse-et-synthese-dimages/">LIGM (A3SI), University Paris-Est Marne-la-Vallée</a></td>\
 	<td>Noisy-Le-Grand (PARIS), France</td>\
      </tr>\
-\
-\
-     <tr>   \
+     <tr>\
         <td><a href=" http://cse.iitkgp.ac.in/~spratihar/">Sanjoy Pratihar</a></td>\
 	<td><a href="http://cse.iitkgp.ac.in/">Department of Computer Science and Engineering, Indian Institute of Technology</a></td> \
 	<td>Kharagpur, India</td>\
@@ -666,7 +674,6 @@ document.getElementById("memberslist").innerHTML = '\
 	<td> <a href="http://www.rug.nl">University of Groningen</a></td>\
 	<td>Groningen, The Nederlands</td>\
       </tr>\
-     
       <tr>\
 	<td><a href="http://www.gavo.t.u-tokyo.ac.jp/~qiao/">Qiao YU</a></td>\
 	<td><a href="http://english.siat.cas.cn">Shenzhen Institute of Advanced Technology (SIAT), the Chinese Academy of Science (CAS) </td>\
