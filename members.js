@@ -22,13 +22,13 @@ document.getElementById("memberslist").innerHTML = '\
                             <tbody> \
 \
     <tr>\
-	<td><a href="http://www.cs.swan.ac.uk/~csalfie/">Alfie Abdul-Rahman</a></td>\
+	<td><a href="http://www.thisisalfie.com/">Alfie Abdul-Rahman</a></td>\
 	<td><a href="http://www.swan.ac.uk/compsci/research/graphics/index.html">Department of Computer Science, University of Wales Swansea</a></td>\
 	<td>Swansea, UK</td>\
       </tr>\
       <tr>\
-	<td>Eric Andres</td>\
-	<td>SIC Lab</td>\
+	<td><a href="https://xlim-sic.labo.univ-poitiers.fr/andres/">Eric Andres</a></td>\
+	<td>Laboratoire <a href="http://xlim.fr">XLIM</a></td>\
 	<td>Poitiers, France</td>\
       </tr>\
       <tr>\
@@ -43,7 +43,7 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
 \
       <tr>\
-        <td><a href="http://www.lsis.org/gmod">Alexandra Bac</a></td>\
+        <td><a href="http://alexandra.bac.perso.luminy.univ-amu.fr">Alexandra Bac</a></td>\
 	<td><a href="http://www.lsis.org/gmod">GMod Team, LSIS Lab, Aix-Marseille University</a></td>\
 	<td>Marseille, France</td>\
       </tr>\
@@ -53,7 +53,7 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Wuhan, China</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.cs.fredonia.edu/~barneva">Reneta Barneva</a></td>\
+	<td><a href="http://home.fredonia.edu/aps/barneva">Reneta Barneva</a></td>\
 	<td>Department of Mathematics and Computer Science</td>\
 	<td>Fredonia, USA</td>\
       </tr>\
@@ -69,17 +69,17 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>	      \
       <tr>\
 	<td>Gilles Bertrand</td>\
-	<td><a href="http://www.esiee.fr/~coupriem/Sdi_eng/">Laboratoire A2SI</a></td>\
-	<td>Marne-La-Vall&eacute;e, France</td>\
+	<td><a href="http://ligm.u-pem.fr/">Université Paris-Est, LIGM, Équipe A3SI, ESIEE </a></td>\
+	<td>Paris, France</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.becs.ac.in/it-abiswas">Arindam Biswas</a></td>\
-	<td><a href="http://www.becs.ac.in/">Dep. of Information Technology, Indian Institue Engineering Science and Technology</a></td>\
+	<td><a href="http://www.iiests.ac.in/index.php/it-abiswas">Arindam Biswas</a></td>\
+	<td><a href="http://www.iiests.ac.in/index.php">Dep. of Information Technology, Indian Institue Engineering Science and Technology Shibpur</a></td>\
 	<td>Howrah, India</td>\
       </tr>\
       <tr>\
 	<td><a href="http://www.tsi.enst.fr/~bloch">Isabelle Bloch</a></td>\
-	<td><a href="http://www.tsi.enst.fr/~bloch/tii_eng.html">Signal and Image Processing</a></td>\
+	<td><a href="https://ltci.telecom-paristech.fr">LTCI</a></td>\
 	<td>Paris, France</td>\
       </tr>\
       <tr>\
@@ -118,8 +118,8 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Buffalo, USA</td>\
       </tr>\
       <tr>\
-	<td>Luc Brun</td>\
-	<td>GREYC</td>\
+	<td><a href="https://brunl01.users.greyc.fr">Luc Brun</a></td>\
+	<td><a href="https://www.greyc.fr">GREYC</a></td>\
 	<td>Caen, France</td>\
       </tr>\
        <tr>\
@@ -128,8 +128,8 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Siena, Italy</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.esiee.fr/~buzerl/">Lilian Buzer</a></td>\
-	<td><a href="http://www.esiee.fr/~info/a2si/">A2SI laboratory</a></td>\
+	<td><a href="https://www.esiee.fr/fr/ecole/corps-enseignant/cv-corps-professoral/lilian-buzer">Lilian Buzer</a></td>\
+	<td><a href="http://www.esiee.fr/">ESIEE</a></td>\
 	<td>Marne-la-Vallee, France</td>\
       </tr>     \
       <tr>\
@@ -153,8 +153,8 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Lyon, France</td>\
       </tr>\
      <tr>\
-	<td><a href="http://www.udc.edu/prof/chen/">Li Chen</a></td>\
-	<td><a href="http://www.udc.edu/academics/school_engineering_appld_science/faculty_staff.htm">Department of ComputerScience and Information Technology, University of the District of Columbia</a></td>\
+	<td><a href="https://www.udc.edu/research/facultystaff-profiles/li-chen-phd/">Li Chen</a></td>\
+	<td><a href="https://www.udc.edu">Department of ComputerScience and Information Technology, University of the District of Columbia</a></td>\
 	<td>Washington DC, USA</td>\
       </tr>\
       <tr>\
@@ -163,7 +163,7 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Annecy, France</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.esiee.fr/~coupriem/">Michel Couprie</a></td>\
+	<td><a href="https://perso.esiee.fr/~coupriem/">Michel Couprie</a></td>\
 	<td><a href="http://ligm.u-pem.fr/">Université Paris-Est, ESIEE Paris, LIGM</a></td>\
 	<td>Noisy-le-Grand, France</td>\
       </tr>\
@@ -184,22 +184,22 @@ document.getElementById("memberslist").innerHTML = '\
       </tr> \
       <tr>\
 	<td><a href="http://www.loria.fr/~debled">Isabelle Debled-Rennesson</a></td>\
-	<td><a href="http://www.loria.fr/equipes/adage/">ADAGIo Team, LORIA</a></td>\
+	<td><a href="http://adagio.loria.fr">ADAGIo Team, LORIA</a></td>\
 	<td>Nancy, France</td>\
       </tr>\
       <tr>\
-	<td><a href=" http://www.iiitnr.ac.in/">Mousumi Dutt</a></td>\
+	<td>Mousumi Dutt</td>\
 	<td><a href=" http://www.iiitnr.ac.in/">Computer Science and Engineering, International Institute of Information Technology,</a></td>\
 	<td>Naya-Raipur, India</td>\
       </tr>      \
       <tr>\
 	<td><a href="http://www.disi.unige.it/person/DeflorianiL/">Leila De Floriani</a></td>\
-	<td><a href="http://gmcg.disi.unige.it/">Dept. of Computer Science</a></td>\
+	<td><a href="http://www.disi.unige.it">Dept. of Computer Science</a></td>\
 	<td>Genova, Italy</td>\
       </tr>\
       <tr>\
 	<td>Eric Domenjoud</td>\
-	<td><a href="http://www.loria.fr/equipes/adage/">ADAGIo Team, LORIA</a></td>\
+	<td><a href="http://adagio.loria.fr">ADAGIo Team, LORIA</a></td>\
 	<td>Nancy, France</td>\
       </tr>\
       <tr>\
@@ -213,8 +213,8 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Milano, Italy</td>\
       </tr>\
       <tr>\
-	<td><a href="http://ligim.univ-lyon1.fr/~fdupont/">Florent Dupont</a></td>\
-	<td><a href="http://ligim.univ-lyon1.fr/">LIRIS Laboratory</a></td>\
+	<td><a href="https://perso.liris.cnrs.fr/florent.dupont/">Florent Dupont</a></td>\
+	<td><a href="http://liris.cnrs.fr">LIRIS Laboratory</a></td>\
 	<td>Lyon, France</td>\
       </tr>\
       <tr>\
@@ -224,17 +224,17 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
       <tr>\
 	<td><a href="http://www.loria.fr/~even">Philippe Even</a></td>\
-	<td><a href="http://www.loria.fr/equipes/adage/">ADAGIo Team, LORIA</a></td>\
+	<td><a href="http://adagio.loria.fr">ADAGIo Team, LORIA</a></td>\
 	<td>Nancy, France</td>\
       </tr>\
       <tr>\
-	<td><a href="www.ic.unicamp.br/~afalcao">Alexandre Xavier Falcão</a></td>\
+	<td><a href="http://www.ic.unicamp.br/~afalcao">Alexandre Xavier Falcão</a></td>\
 	<td><a href="http://www.lids.ic.unicamp.br">Information Systems; Institute of Computing</a> / University of Campinas</td>\
 	<td>Campinas, SP; Brazil</td>\
       </tr>\
       <tr>\
 	<td><a href="http://igcnc.u-clermont1.fr/cv/189">Fabien Feschet</a></td>\
-	<td><a href="http://llaic.u-clermont1.fr/">LLAIC1</a></td>\
+	<td><a href="http://igcnc.u-clermont1.fr">IGCNC</a></td>\
 	<td>Aubi&egrave;re, France</td>\
       </tr>\
        <tr>\
@@ -243,13 +243,13 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Florence, Italy</td>\
       </tr>\
       <tr>\
-	<td><a href="http://utopia.duth.gr/~agaster/">Antonios Gasteratos</a></td>\
-	<td><a href="http://www.pme.duth.gr/">Dept. of Production an Management Engineering</a></td>\
+	<td><a href="http://robotics.pme.duth.gr/antonis/">Antonios Gasteratos</a></td>\
+	<td><a href="http://robotics.pme.duth.gr">Dept. of Production an Management Engineering</a></td>\
 	<td>Xanthi, Greece</td>\
       </tr>\
       <tr>\
-	<td><a href="http://laic.u-clermont1.fr/~gerard">Yan Gerard</a></td>\
-	<td><a href="http://llaic3.u-clermont1.fr/">LAIC, Auvergne University</a></td>\
+	<td><a href="https://limos.isima.fr/annuaire/article/gerard-yan">Yan Gerard</a></td>\
+	<td><a href="https://limos.isima.fr/themes-de-recherche/article/axe-maad-modeles-et-algorithmes-de-l-aide-a-la-decision">LAIC, Auvergne University</a></td>\
 	<td>Clermont-Ferrand, France</td>\
       </tr>\
       <tr>\
@@ -258,8 +258,8 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Le Kremlin-Bicêtre, France</td>\
       </tr>\
       <tr>\
-        <td><a href="http://ma1.eii.us.es/miembros/rogodi/XSLT.asp?xml=rogodi.xml&xsl=profesores.xsl">Rocio Gonzalez Diaz</a></td>\
-	<td><a href="http://investigacion.us.es/sisius/sis_depgrupos.html?seltext=FQM-019&selfield=CodPAI">Combinatorial Image Analysis Research Group, University of Seville</a></td>\
+        <td><a href="http://www.us.es/acerca/directorio/ppdi/personal_2312">Rocio Gonzalez Diaz</a></td>\
+	<td><a href="http://www.us.es">Combinatorial Image Analysis Research Group, University of Seville</a></td>\
 	<td>Sevilla, Spain</td>\
       </tr>\
            <tr>\
@@ -273,23 +273,23 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Gwangju, Republic of Korea</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.cs.gc.cuny.edu/~gherman/">Gabor T. Herman</a></td>\
-	<td><a href="http://web.gc.cuny.edu/Computerscience/">Department of Computer Science</a></td>\
+	<td><a href="http://gabor.ws.gc.cuny.edu/">Gabor T. Herman</a></td>\
+	<td><a href="https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Computer-Science">Department of Computer Science</a></td>\
 	<td>New York, USA</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.ee.surrey.ac.uk/Personal/A.Hilton">Adrian Hilton</a></td>\
+	<td><a href="https://www.surrey.ac.uk/people/adrian-hilton">Adrian Hilton</a></td>\
 	<td>Centre for Vision, Speech and Signal Processing</td>\
 	<td>Guildford, UK</td>\
       </tr>\
       <tr>\
-	<td>Atsushi Imiya</td>\
-	<td><a href="http://www.icsd7.tj.chiba-u.ac.jp/index.html">The Institute of Electronics, Information and Communication Engineers</a></td>\
+	<td><a href="http://www.media.imit.chiba-u.jp/index_e.html">Atsushi Imiya</a></td>\
+	<td>The Institute of Electronics, Information and Communication Engineers</td>\
 	<td>Chiba, Japan</td>\
       </tr>\
       \
       <tr>\
-	<td><a href="http://www.loria.fr/~jamet">Damien Jamet</a></td>\
+	<td><a href="https://members.loria.fr/DJamet/">Damien Jamet</a></td>\
 	<td><a href="http://www.loria.fr">LORIA, Université de Lorraine</a></td>\
 	<td>Nancy, France</td>\
       </tr>\
@@ -328,7 +328,7 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
       <tr>\
 	<td><a href="https://members.loria.fr/BKerautret">Bertrand Kerautret</a></td>\
-	<td><a href="http://www.loria.fr/equipes/adage/">LORIA, ADAGIo Team, Université de Lorraine,</a></td>\
+	<td><a href="http://adagio.loria.fr/">LORIA, ADAGIo Team, Université de Lorraine,</a></td>\
 	<td> Nancy, France</td>\
       </tr>\
       <tr>\
@@ -342,12 +342,12 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Tel Aviv, Israel</td>\
       </tr>\
       <tr>\
-	<td><a href="http://hci.iwr.uni-heidelberg.de/people/ukoethe/">Ullrich Koethe</a></td>\
-	<td><a href="http://hci.iwr.uni-heidelberg.de/">University of Heidelberg</a></td>\
+	<td><a href="https://hciweb.iwr.uni-heidelberg.de/Staff/ukoethe">Ullrich Koethe</a></td>\
+	<td><a href="hciweb.iwr.uni-heidelberg.de">University of Heidelberg</a></td>\
 	<td>Heidelberg, Germany</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.tcs.auckland.ac.nz/~rklette/">Reinhard Klette</a></td>\
+	<td><a href="https://www.aut.ac.nz/profiles/reinhard-klette">Reinhard Klette</a></td>\
 	<td><a href="http://www.tcs.auckland.ac.nz/">Centre for Image Technology and Robotics (Computer Vision Unit)</a></td>\
 	<td>Auckland, New Zeeland</td>\
       </tr>\
@@ -363,7 +363,7 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
 \
       <tr>\
-	<td><a href="http://www.prip.tuwien.ac.at/~krw">Walter G. Kropatsch</a></td>\
+	<td><a href="https://www.prip.tuwien.ac.at/people/krw/more/index.php">Walter G. Kropatsch</a></td>\
 	<td><a href="http://www.prip.tuwien.ac.at/">Pattern Recognition and Image Processing</a></td>\
 	<td>Vienna, Austria</td>\
       </tr>\
@@ -445,7 +445,7 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Southampton, NY 1196, USA</td>\
       </tr>\
       <tr>\
-	<td><a href="http://liris.univ-lyon2.fr/~miguet/">Serge Miguet</a></td>\
+	<td><a href="https://liris.cnrs.fr/membres?idn=smiguet">Serge Miguet</a></td>\
 	<td><a href="http://liris.cnrs.fr/">Laboratoire LIRIS</a></td>\
 	<td>Lyon, France</td>\
       </tr>\
@@ -487,7 +487,7 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
       <tr>\
         <td><a href="https://members.loria.fr/HDPNgo/">Phuc Ngo</td>\
-        <td><a href="https://members.loria.fr/HDPNgo/">LORIA, ADAGIO team, Université de Lorraine</td>\
+        <td><a href="http://adagio.loria.fr">LORIA, ADAGIO team, Université de Lorraine</td>\
         <td>Nancy, France</td>\
       </tr>\
       <tr>\
@@ -521,7 +521,7 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Szeged, Hungary</td>\
       </tr>\
      <tr>\
-	<td><a href="http://crestic.univ-reims.fr/membre/1542-nicolas-passat">Nicolas Passat</a></td>\
+	<td>Nicolas Passat</td>\
 	<td><a href="http://crestic.univ-reims.fr/">CReSTIC, Université de Reims Champagne-Ardenne</a></td>\
 	<td>Reims, France</td>\
       </tr>\
@@ -562,8 +562,8 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Le Kremlin Bicetre; France</td>\
       </tr>\
       <tr>\
-        <td><a href="http://www.pdipas.us.es/r/real">Pedro Real</a></td>\
-	<td><a href="http://www.us.es/gtocoma">Research group of Computational Topology and Applied Mathematics</a></td>\
+        <td><a href="http://personales.us.es/real/">Pedro Real</a></td>\
+	<td><a href="http://www.us.es">Research group of Computational Topology and Applied Mathematics</a></td>\
 	<td>Sevilla, Spain</td>\
       </tr>\
       <tr>\
@@ -577,8 +577,8 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Lyon, France</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.engineering.uiowa.edu/ece/faculty-staff/punam-saha">Punam K. Saha</a></td>\
-	<td><a href="">Department of Electrical and Computer Engineering</a>, University of Iowa </td>\
+	<td><a href="https://www.engineering.uiowa.edu/faculty-staff/punam-saha">Punam K. Saha</a></td>\
+	<td><a href="https://www.engineering.uiowa.edu">Department of Electrical and Computer Engineering</a>, University of Iowa </td>\
 	<td>Iowa City, USA</td>\
       </tr>\
 \
@@ -589,7 +589,7 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
 \
       <tr>\
-        <td><a href="http://www.icar.cnr.it/en/node/353">Gabriella Sanniti di Baja</a></td>\
+        <td><a href="https://www.icar.cnr.it/associati-di-ricerca/gabriella-sanniti-di-baja/">Gabriella Sanniti di Baja</a></td>\
 	<td>Image Analysis, Istituto di Cibernetica CNR</td>\
 	<td>Pozzuoli, Naples, Italy</td>\
       </tr>\
@@ -604,7 +604,7 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Grenoble, France</td>\
       </tr>\
       <tr>\
-	<td><a href="http://imft.ftn.uns.ac.rs/~natasa/">Natasa Sladoje</a></td>\
+	<td><a href="http://www.cb.uu.se/~natasa">Natasa Sladoje</a></td>\
 	<td>Centre for Image Analysis, Uppsala University </td>\
 	<td>Uppsala, Sweden</td>\
       </tr>\
@@ -630,22 +630,22 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Tokyo, Japan</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.cb.uu.se/~stina/">Stina Svensson</a></td>\
-	<td><a href="http://www.cb.uu.se/">Centre for Image Analysis, SLU</a></td>\
-	<td>Uppsala, Sweden</td>\
+	<td><a href="https://www.researchgate.net/profile/Stina_Svensson">Stina Svensson</a></td>\
+	<td><a href="https://www.raysearchlabs.com">Raysearch Laboratories, Sweden</a></td>\
+	<td>Stockholm, Sweden</td>\
       </tr>\
        <tr>\
-	<td><a href="http://perso.esiee.fr/~talboth">Hugues Talbot</a></td>\
-	<td><a href="http://ligm.u-pem.fr">University Paris-Est, ESIEE</a></td>\
+	<td><a href="https://hugues-talbot.github.io">Hugues Talbot</a></td>\
+	<td><a href="https://www.centralesupelec.fr">CentraleSupélec</a></td>\
 	<td>Noisy-le-Grand, France</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.lim.univ-mrs.fr/~thiel">Edouard Thiel</a></td>\
+	<td><a href="http://pageperso.lif.univ-mrs.fr/~edouard.thiel">Edouard Thiel</a></td>\
 	<td><a href="http://www.lif.univ-mrs.fr/">LIF : Laboratoire d\'Informatique Fondamentale</a></td>\
 	<td>Marseille, France</td>\
       </tr>\
       <tr>\
-	<td><a href="http://liris.univ-lyon2.fr/~ltougne/">Laure Tougne</a></td>\
+	<td><a href="https://perso.liris.cnrs.fr/laure.tougne/">Laure Tougne</a></td>\
 	<td><a href="http://liris.cnrs.fr/">Laboratoire LIRIS</a></td>\
 	<td>Lyon, France</td>\
       </tr>\
@@ -660,8 +660,8 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Campinas; Brazil</td>\
       </tr>\
        <tr>\
-	<td><a href="http://isit.u-clermont1.fr/~anvacava/">Antoine Vacavant</a></td>\
-	<td><a href="http://isit.u-clermont1.fr">ISIT lab, Université d\'Auvergne</a></td>\
+	<td><a href="http://antoine-vacavant.tp.iut-lepuy.fr/cv.html">Antoine Vacavant</a></td>\
+	<td><a href="http://www.institutpascal.uca.fr/index.php/fr/">Institut Pascal, Université d\'Auvergne</a></td>\
 	<td>Le Puy-en-Velay, France</td>\
       </tr>\
       <tr>\
