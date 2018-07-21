@@ -134,7 +134,7 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
       <tr>\
 	<td>Ryszard S. Choras</td>\
-	<td><a href="=http://utp.edu.pl">Image Processing Group,Institute of Telecommunications, University of Technology & life Sciences</a></td>\
+	<td><a href="http://www.utp.edu.pl/en/">UTP University of Sciences andTechnology, Bydgoszcz</a></td>\
 	<td>Bydgoszcz, Poland</td>\
       </tr>\
       <tr>\
@@ -387,12 +387,6 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Université Bretagne Sud, <a href="http://www.irisa.fr/obelix">IRISA</a></td>\
 	<td>Vannes, France</td>\
       </tr>\
-\
-<tr>\
-  <td><a href="http://liris.cnrs.fr/jeremy.levallois/">Jérémy Levallois</a></td>\
-  <td><a href="http://www.lama.univ-savoie.fr/">LAMA</a> and <a href="http://liris.cnrs.fr/">LIRIS</a></td>\
-  <td>Chambéry, Lyon, France</td>\
-</tr>\
 	<tr>\
 	<td><a href="https://lezoray.users.greyc.fr">Olivier Lezoray</a></td>\
 	<td><a href="https://www.greyc.fr">GREYC - University of Caen Normandy</a></td>\
