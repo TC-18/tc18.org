@@ -208,7 +208,7 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Lyon, France</td>\
       </tr>\
       <tr>\
-	<td><a href="http://membres.lycos.fr/laurentd/">Laurent Duval</a></td>\
+	<td><a href="http://www.laurent-duval.eu">Laurent Duval</a></td>\
 	<td><a href="http://www.ifp.fr/">Technology Dept., IFP</a></td>\
 	<td>Rueil-Malmaison, France</td>\
       </tr>\
