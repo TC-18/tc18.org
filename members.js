@@ -666,14 +666,10 @@ document.getElementById("memberslist").innerHTML = '\
 	<td> <a href="http://www.rug.nl">University of Groningen</a></td>\
 	<td>Groningen, The Nederlands</td>\
       </tr>\
+     
       <tr>\
-	<td><a href="http://www.taurusstudio.net">Jerry Wu</a></td>\
-	<td>Wellcome Trust SangerInstitute, Wellcome Trust Genome Campus</td>\
-	<td>Cambridge, United Kingdom</td>\
-      </tr>\
-      <tr>\
-	<td><a href="http://www.math-sys.is.uec.ac.jp/~qiaoyu/">Qiao YU</a></td>\
-	<td><a href="http://www.math-sys.is.uec.ac.jp/">Graduate School of Information Systems</a>, University of Electro-Communications</td>\
+	<td><a href="http://www.gavo.t.u-tokyo.ac.jp/~qiao/">Qiao YU</a></td>\
+	<td><a href="http://english.siat.cas.cn">Shenzhen Institute of Advanced Technology (SIAT), the Chinese Academy of Science (CAS) </td>\
 	<td>Tokyo, Japan</td>\
  </tr> \
    </tbody>\
