@@ -193,6 +193,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Nancy, France</td>\
       </tr>\
       <tr>\
+	<td><a href="http://sebastien.drouyer.com">Sebastien Drouyer</a></td>\
+	<td><a href="http://cmla.ens-paris-saclay.fr">ENS Paris Saclay</a></td>\
+	<td>Cachan, France </td>\
+      </tr>\
+      <tr>\
 	<td><a href="https://www.mate.polimi.it/?view=pp&id=29&lg=it#ann">Paolo Dulio</a></td>\
 	<td><a href="https://www.mate.polimi.it/">Dipartimiento di Matematica, Politecnico di Milano</a></td>\
 	<td>Milano, Italy</td>\
