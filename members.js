@@ -586,11 +586,6 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Pozzuoli, Naples, Italy</td>\
       </tr>\
       <tr>\
-	<td><a href="http://www.inf.tu-dresden.de/~hs24/ACC/index_en.html">Henrik Schulz</a></td>\
-	<td><a href="http://www.bv.inf.tu-dresden.de/bv_e.html">Image Processing and Pattern Recognition</a></td>\
-	<td>Dresden, Germany</td>\
-      </tr>\
-      <tr>\
 	<td><a href="http://www.iitr.ac.in/departments/MA/pages/index.html">Kumar Verma Shiv</a></td>\
 	<td><a href="http://www.iitr.ac.in/">Indian Institute of Technology</a></td>\
 	<td>Roorkee, India</td>\
