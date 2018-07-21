@@ -238,11 +238,6 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Xanthi, Greece</td>\
       </tr>\
       <tr>\
-	<td>Ryabov Gennady</td>\
-	<td>Computer Vision Lab</td>\
-	<td>Moskow University, Russia</td>\
-      </tr>\
-      <tr>\
 	<td><a href="http://laic.u-clermont1.fr/~gerard">Yan Gerard</a></td>\
 	<td><a href="http://llaic3.u-clermont1.fr/">LAIC, Auvergne University</a></td>\
 	<td>Clermont-Ferrand, France</td>\
@@ -325,11 +320,6 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="https://members.loria.fr/BKerautret">Bertrand Kerautret</a></td>\
 	<td><a href="http://www.loria.fr/equipes/adage/">LORIA, ADAGIo Team, Université de Lorraine,</a></td>\
 	<td> Nancy, France</td>\
-      </tr>\
-      <tr>\
-	<td><a href="http://www.cerca.umontreal.ca/~khachan/">Mohammed Khachan</a></td>\
-	<td><a href="http://www.cerca.umontreal.ca/">Department of computer engineering</a></td>\
-	<td>Montreal, Canada</td>\
       </tr>\
       <tr>\
 	<td>T. Yung Kong</td>\
