@@ -676,7 +676,7 @@ document.getElementById("memberslist").innerHTML = '\
       </tr>\
       <tr>\
 	<td><a href="http://www.cs.rug.nl/~michael">Mickael Wilkinson</a></td>\
-	<td> <a href="http://www.rug.nl">University of Groningen</a></td>\
+	<td> <a href="http://www.rug.nl">Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, University of Groningen</a></td>\
 	<td>Groningen, The Nederlands</td>\
       </tr>\
       <tr>\
