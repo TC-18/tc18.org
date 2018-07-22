@@ -39,7 +39,12 @@ document.getElementById("memberslist").innerHTML = '\
  <tr>\
         <td><a href="http://bte.gtu.edu.tr/~eaptoula">Erchan Aptoula</a></td>\
 	<td>  Institute of Information Technologies;  Gebze Technical University </td>\
-	<td>Kocaeli; Turkey</td>\
+	<td>Kocaeli,  Turkey</td>\
+      </tr>\
+ <tr>\
+        <td>Nicolas Aubry</td>\
+	<td>  Numalliance, R\&D team  </td>\
+	<td><a href="http://www.numalliance.com/home-en.html">Saint-Michel-sur-Meurthe</a>, France</td>\
       </tr>\
 \
       <tr>\
@@ -95,7 +100,7 @@ document.getElementById("memberslist").innerHTML = '\
       <tr>\
 	<td><a href="https://staff.lincoln.ac.uk/de6e2d62-190c-425a-9066-f8e2c963abb6">Petra Bosilj</a></td>\
 	<td><a href="https://lcas.lincoln.ac.uk/wp/">School of Computer Science; University of Lincoln</a></td>\
-	<td>Lincoln; UK</td>\
+	<td>Lincoln,  UK</td>\
       </tr>\
       <tr>\
 	<td><a href="https://www.lrde.epita.fr/wiki/User:Nboutry">Nicolas Boutry</a></td>\
@@ -230,7 +235,7 @@ document.getElementById("memberslist").innerHTML = '\
       <tr>\
 	<td><a href="http://www.ic.unicamp.br/~afalcao">Alexandre Xavier Falcão</a></td>\
 	<td><a href="http://www.lids.ic.unicamp.br">Information Systems; Institute of Computing</a> / University of Campinas</td>\
-	<td>Campinas, SP; Brazil</td>\
+	<td>Campinas, SP, Brazil</td>\
       </tr>\
       <tr>\
 	<td><a href="http://igcnc.u-clermont1.fr/cv/189">Fabien Feschet</a></td>\
@@ -503,7 +508,7 @@ document.getElementById("memberslist").innerHTML = '\
       <tr>\
         <td><a href="https://cv.archives-ouvertes.fr/guillaume-noyel">Guillaume Noyel</td>\
         <td><a href="http://www.i-pri.org">International Prevention Research Institute; University of Strathclyde</td>\
-        <td>Lyon; France</td>\
+        <td>Lyon,  France</td>\
       </tr>\
       <tr>\
 	<td><a href="http://www.cb.uu.se/~ingela/">Ingela Nystr&ouml;m</a></td>\
@@ -559,7 +564,7 @@ document.getElementById("memberslist").innerHTML = '\
       <tr>\
 	<td>Elodie Puybareau</td>\
 	<td><a href="https://www.lrde.epita.fr/wiki/Home">EPITA Research and Development Laboratory (LRDE)</a></td>\
-	<td>Le Kremlin Bicetre; France</td>\
+	<td>Le Kremlin Bicetre, France</td>\
       </tr>\
       <tr>\
         <td><a href="http://personales.us.es/real/">Pedro Real</a></td>\
@@ -657,7 +662,7 @@ document.getElementById("memberslist").innerHTML = '\
       <tr>\
 	<td>Thiago Vallin Spina</td>\
 	<td><a href="https://www.lnls.cnpem.br/grupos/gcc/">Brazilian Synchrotron Light Laboratory; Brazilian Center for Research in Energy and Materials</td>\
-	<td>Campinas; Brazil</td>\
+	<td>Campinas, Brazil</td>\
       </tr>\
        <tr>\
 	<td><a href="http://antoine-vacavant.tp.iut-lepuy.fr/cv.html">Antoine Vacavant</a></td>\
