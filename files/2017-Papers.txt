@@ -2,11 +2,30 @@
 Pattern Recognition
 -------------------
 
+---
 
 
 ---------------------------
 Pattern Recognition Letters
 ---------------------------
+
+Cheng-Lin Liu, Bin Luo, Walter G. Kropatsch:
+Special issue "Advances in graph-based pattern recognition". 1-3
+
+Sébastien Bougleux, Luc Brun, Vincenzo Carletti, Pasquale Foggia, Benoit Gaüzère, Mario Vento:
+Graph edit distance as a quadratic assignment problem. 38-46
+
+Pierre-Anthony Grenier, Luc Brun, Didier Villemin:
+Chemoinformatics and stereoisomerism: A stereo graph kernel together with three new extensions. 222-230
+
+
+
+--------------------------
+Image Processing On Line
+--------------------------
+
+Odyssée Merveille, Benoît Naegel, Hugues Talbot, Laurent Najman, Nicolas Passat:
+2D Filtering of Curvilinear Structures by Ranking the Orientation Responses of Path Operators (RORPO). 246-261
 
 
 
@@ -14,18 +33,49 @@ Pattern Recognition Letters
 Image and Vision Computing
 --------------------------
 
-
+---
 
 ---------------------------------------
 Computer Vision and Image Understanding
 ---------------------------------------
 
+Diego Thomas, Akihiro Sugimoto:
+Modeling large-scale indoor scenes with rigid fragments using RGB-D cameras. Computer Vision and Image Understanding (2017) 157: 103-116
 
 
 
 ----------------------------
 Discrete Applied Mathematics
 ----------------------------
+Valentin E. Brimkov, Reneta P. Barneva:
+Graph-theoretic and polyhedral combinatorics issues and approaches in imaging sciences. DAM (2017), 216:(2), 321-322
+
+   -> Kálmán Palágyi, Gábor Németh:
+      A pair of equivalent sequential and fully parallel 3D surface-thinning algorithms. DAM (2017), 216:(2), 348-361
+
+   -> Ranita Biswas, Partha Bhowmick, Valentin E. Brimkov:
+      On the polyhedra of graceful spheres and circular geodesics. DAM (2017), 216:(2), 362-375
+
+   -> Tetsuo Asano, Lilian Buzer, Sergey Bereg:
+      A new algorithmic framework for basic problems on binary images. DAM (2017), 216:(2), 376-392
+
+   -> Boris Brimkov, Illya V. Hicks:
+      Memory efficient algorithms for cactus graphs and block graphs. DAM (2017), 216:(2), 393-407
+
+   -> Apurba Sarkar, Arindam Biswas, Mousumi Dutt, Partha Bhowmick, Bhargab B. Bhattacharya:
+      A linear-time algorithm to compute the triangular hull of a digital object. DAM (2017), 216:(2), 408-423
+
+   -> Benedek Nagy:
+      Application of neighborhood sequences in communication of hexagonal networks. DAM (2017), 216:(2), 424-440
+
+   -> Péter Kardos, Kálmán Palágyi:
+      On topology preservation of mixed operators in triangular, square, and hexagonal grids. DAM (2017), 216:(2), 441-448
+
+   -> Filip Malmberg, Cris L. Luengo Hendriks, Robin Strand:
+      Exact evaluation of targeted stochastic watershed cuts. DAM (2017), 216:(2), 449-460
+
+   -> Phuc Ngo, Yukiko Kenmochi, Akihiro Sugimoto, Hugues Talbot, Nicolas Passat:
+      Discrete rigid registration: A local graph-search approach. DAM (2017), 216:(2), 461-481
 
 
 
@@ -34,32 +84,82 @@ Discrete Applied Mathematics
 IEEE Trans. on Pattern Analysis and Machine Intelligence
 --------------------------------------------------------
 
+Yongchao Xu, Edwin Carlinet, Thierry Géraud, Laurent Najman:
+Hierarchical Segmentation Using Tree-Based Shape Spaces. Volume 39, Number 3, March 2017  457-469
+
+
+Michaël Clément, Adrien Poulenard, Camille Kurtz, Laurent Wendling:
+Directional Enlacement Histograms for the Description of Complex Spatial Configurations between Objects. Volume 39, Number 12, December 2017, 2366-2380
+
 
 
 
 -----------------------------------
 Discrete and Computational Geometry
 -----------------------------------
-
+-----
 
 
 -------------------------------
 IEEE Trans. on Image Processing
 -------------------------------
-  
-----
+
+
+Pierre Buyssens, Olivier Le Meur, Maxime Daisy, David Tschumperlé, Olivier Lézoray:
+Depth-Guided Disocclusion Inpainting of Synthesized RGB-D Images. Volume 26, Number 2, February 2017, 525-538
+
+Mohammad Sabokrou, Mohsen Fayyaz, Mahmood Fathy, Reinhard Klette:
+Deep-Cascade: Cascading 3D Deep Neural Networks for Fast Anomaly Detection and Localization in Crowded Scenes.Volume 26, Number 4, April 2017,  1992-2004
+
+
 
 -------------------
 Journal of Mathematical Imaging and Vision
 -------------------
- 
 
-----
+Nicolas Normand, Jeanpierre Guédon, David Coeurjolly:
+Special Issue on Discrete Geometry for Computer Imagery. Volume 59, Number 1, September 2017, 1
+
+    -> Gergely Kovács, Benedek Nagy, Béla Vizvári:
+       Weighted Distances and Digital Disks on the Khalimsky Grid - Disks with Holes and Islands. Volume 59, Number 1, September 2017, 2-22
+
+    -> Jacques-Olivier Lachaud, Xavier Provençal, Tristan Roussillon:
+       Two Plane-Probing Algorithms for the Computation of the Normal Vector to a Digital Plane. Volume 59, Number 1, September 2017, 23-39
+
+    -> Eric Andres, Lydie Richaume, Gaëlle Largeteau-Skapin:
+       Digital Surface of Revolution with Hand-Drawn Generatrix. Volume 59, Number 1, September 2017, 40-51
+
+    -> Yan Gerard:
+       About the Decidability of Polyhedral Separability in the Lattice ℤd - Recognizing Digital Polyhedra with a Prescribed Number of Faces. Volume 59, Number 1, September 2017, 52-68
+
+    -> Ranita Biswas, Partha Bhowmick:
+       On the Functionality and Usefulness of Quadraginta Octants of Naive Sphere. Volume 59, Number 1, September 2017, 69-83
+
+    -> Kacper Pluta, Pascal Romon, Yukiko Kenmochi, Nicolas Passat:
+       Bijective Digitized Rigid Motions on Subsets of the Plane. Volume 59, Number 1, September 2017, 84-105
+
+
+    -> Rocío González-Díaz, Maria Jose Jimenez, Belén Medrano:
+       Efficiently Storing Well-Composed Polyhedral Complexes Computed Over 3D Binary Images. Volume 59, Number 1, September 2017, 106-122
+
+
+    -> Phuc Ngo, Isabelle Debled-Rennesson, Bertrand Kerautret, Hayat Nasser:
+       Analysis of Noisy Digital Contours with Adaptive Tangential Cover. Volume 59, Number 1, September 2017, 123-135
+
+
+    -> Imane Youkana, Jean Cousty, Rachida Saouli, Mohamed Akil:
+       Parallelization Strategy for Elementary Morphological Operators on Graphs: Distance-Based Algorithms and Implementation on Multicore Shared-Memory Architecture. Volume 59, Number 1, September 2017, 136-160
+
+
+
 
 -------------------
 Theoretical Computer Science
 -------------------
 
+
+Loïc Mazo, Étienne Baudrier:
+Non-local length estimators and concave functions. Volume 690, August 2017, 73-90
 
 
 
