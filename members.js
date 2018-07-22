@@ -44,7 +44,7 @@ document.getElementById("memberslist").innerHTML = '\
  <tr>\
         <td>Nicolas Aubry</td>\
 	<td><a href="http://www.numalliance.com/home-en.html">  Numalliance, R\&D team</a>  </td>\
-	<td><Saint-Michel-sur-Meurthe, France</td>\
+	<td>Saint-Michel-sur-Meurthe, France</td>\
       </tr>\
 \
       <tr>\
