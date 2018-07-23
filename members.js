@@ -337,6 +337,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td> Nancy, France</td>\
       </tr>\
       <tr>\
+	<td><a href="http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/kleefeld_a.html">Andreas Kleefeld</a></td>\
+	<td>Juelich Supercomputing Centre; Forschungszentrum Juelich GmbH</td>\
+	<td>Juelich, Germany</td>\
+      </tr>\
+      <tr>\
 	<td>T. Yung Kong</td>\
 	<td>Computer Science Dept.</td>\
 	<td>Flushing, NY 11367, USA</td>\
@@ -635,6 +640,10 @@ document.getElementById("memberslist").innerHTML = '\
 	<td>Tokyo, Japan</td>\
       </tr>\
       <tr>\
+	<td>Imants Svalbe</td>\
+	<td>School of physics and astronomy, Monash University</td>\
+	<td>Melbourne, Australia</td>\
+      </tr>\<tr>\
 	<td><a href="https://www.researchgate.net/profile/Stina_Svensson">Stina Svensson</a></td>\
 	<td><a href="https://www.raysearchlabs.com">Raysearch Laboratories, Sweden</a></td>\
 	<td>Stockholm, Sweden</td>\
