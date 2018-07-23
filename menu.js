@@ -37,8 +37,8 @@ document.getElementById("navMenu").innerHTML = ' \
                id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Data Sets and Code</a>\
 	    <div class="dropdown-menu" aria-labelledby="dropdown01">\
 	      <a class="dropdown-item" href="dataTools.html">Data Sets and Tools</a>\
-	      <a class="dropdown-item" href="demos.html">Demos</a>\
 	      <a class="dropdown-item" href="code.html">Code</a>\
+	      <a class="dropdown-item" href="demos.html">Demos</a>\
 	      <a class="dropdown-item" href="challenge.html">Challenges</a>\
           </div>\
 	  </li>\
