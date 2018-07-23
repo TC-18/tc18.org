@@ -1,0 +1,81 @@
+--------------------------------------------------------------
+                       DGCI2019
+
+        21st IAPR International Conference on
+      Discrete Geometry for Computer Imagery
+
+                     ESIEE Paris,
+                   25-29 March 2019
+
+        url: https://dgci2019.sciencesconf.org/
+
+--------------------------------------------------------------
+
+
+Call for Papers
+---------------
+
+Discrete geometry plays an expanding role in the fields of shape modelling, image synthesis, and image analysis. It deals with topological and geometrical definitions of digitized objects or digitized images and provides both a theoretical and computational framework for computer imaging.
+
+The aim of the DGCI conference is to bring together researchers, students and practitioners of discrete geometry, including discrete topology, geometric models, and mathematical morphology, to present and discuss new advances in these fields, be they purely theoretical developments or novel applications.
+
+DGCI 2019 is organized by Laboratoire d'Informatique Gaspard-Monge (LIGM) at ESIEE Paris, France.
+
+Together with the main event from 26th to 28th March, a one-day pre-conference event on Discrete Topology and Mathematical Morphology in honor of the retirement of Gilles Bertrand and a half-day post-conference event on Computational Geometry are also planned.
+
+The main topics of interest include (but are not limited to):
+
+      Models for Discrete Geometry,
+      Discrete and Combinatorial Topology,
+      Geometric Transforms,
+      Discrete Shape Representation, Recognition and Analysis,
+      Discrete Tomography,
+      Mathematical Morphological Analysis,
+      Discrete Modelling and Visualization,
+      Discrete and Combinatorial Tools for Image Segmentation and Analysis.
+
+Both theoretical and applicative contributions related to these topics are welcome.
+
+
+Submission deadlines
+---------------
+
+      Title and abstract: 23.09.2018
+      Full paper: 01.10.2018
+
+
+Proceedings
+---------------
+
+The proceedings of the conference are published in the Lecture Notes in Computer Science series by Springer.
+
+
+Steering Committee
+---------------
+
+      David Coeurjolly (President of SC, CNRS, Université de Lyon, France)
+      Eric Andres (Université de Poitiers, France)
+      Gunilla Borgefors (Uppsala University, Sweden)
+      Srečko Brlek (Université du Québec à Montreal, Canada)
+      Isabelle Debled-Rennesson (Université de Lorraine, France)
+      Andrea Frosini (Università di Firenze, Italy)
+      María José Jiménez (Universitad de Sevilla, Spain)
+      Bertrand Kerautret (Université de Lorraine, France)
+      Walter Kropatsch (Technische Universität Wien, Austria)
+      Jacques-Olivier Lachaud (Université de Savoie, France)
+      Nicolas Normand (Université de Nantes, France)
+
+
+General chairs
+---------------
+
+      Michel Couprie (ESIEE Paris, Université Paris-Est, France)
+      Jean Cousty (ESIEE Paris, Université Paris-Est, France)
+      Yukiko Kenmochi (CNRS, Université Paris-Est, France)
+      Nabil Mustafa (ESIEE Paris, Université Paris-Est, France)
+
+Website and contact
+---------------
+
+      https://dgci2019.sciencesconf.org
+      dgci2019@sciencesconf.org
