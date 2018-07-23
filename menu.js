@@ -22,7 +22,7 @@ document.getElementById("navMenu").innerHTML = ' \
                id="dropdown01" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Educational</a>\
 	    <div class="dropdown-menu" aria-labelledby="dropdown01">\
 	      <a class="dropdown-item" href="educational.html#getting_started">Getting started</a>\
-	      <a class="dropdown-item" href="educational.html#subfields_and_related_lectures">Subfield and related lectures</a>\
+	      <a class="dropdown-item" href="educational.html#subfields_and_related_lectures">Subfield, related lectures and tutorials</a>\
 	      <a class="dropdown-item" href="educational.html#materials">Materials (books, journals, ...)</a>\
 	      <a class="dropdown-item" href="openProblems.html">Open problems</a>\
           </div>\
