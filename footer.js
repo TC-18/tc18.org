@@ -1,5 +1,9 @@
 var path = window.location.pathname;
 var pagename = path.split("/").pop();
+if (pagename=="")
+{
+  pagename="index.html"; 
+}
 document.getElementById("footerSite").innerHTML = '  \
 <hr /> \
 <div class="footer"> \
