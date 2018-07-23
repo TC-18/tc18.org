@@ -1,6 +1,6 @@
 var path = window.location.pathname;
 var pagename = path.split("/").pop();
-if (pagename=="")
+if (!pagename)
 {
   pagename="index.html"; 
 }
