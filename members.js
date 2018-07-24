@@ -433,7 +433,12 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://www-sop.inria.fr/morpheme/team.html">INRIA - Morpheme team</a></td>\
 	<td>Sophia-Antipolis, France</td>\
       </tr>\
-      <tr>\
+ <tr>\
+	<td><a href="http://cmm.mines-paristech.fr/~marcoteg/">Beatriz Marcotegui</a></td>\
+	<td><a href="http://cmm.mines-paristech.fr">b</a>MINES ParisTech, PSL Research University</td>\
+	<td>Fontainebleau, France</td>\
+      </tr>\      
+<tr>\
 	<td><a href="http://www.dil.univ-mrs.fr/~mari/">Jean-Luc Mari</a></td>\
 	<td><a href="http://www.lsis.org/spip.html?id_rubrique=252/">G-Mod team / LSIS lab</a></td>\
 	<td>Marseille, France</td>\
