@@ -63,7 +63,19 @@ IEEE Trans. on Image Processing
 Journal of Mathematical Imaging and Vision
 -------------------
 
----
+
+Nicolas Boutry, Thierry Géraud, Laurent Najman:
+A Tutorial on Well-Composedness. Volume 60, Number 1, January 2018, 443-478
+
+
+Jean Cousty, Laurent Najman, Yukiko Kenmochi, Silvio Jamil Ferzoli Guimarães:
+Hierarchical Segmentations with Graphs: Quasi-flat Zones, Minimum Spanning Trees, and Saliency Maps. Volume 60, Number 4, May 2018, 479-502 
+
+
+Kacper Pluta, Tristan Roussillon, David Coeurjolly, Pascal Romon, Yukiko Kenmochi, Victor Ostromoukhov:
+Characterization of Bijective Digitized Rotations on the Hexagonal Grid. Volume 60, Number 5, June 2018,  707-716 
+
+
 
 -------------------
 Theoretical Computer Science
