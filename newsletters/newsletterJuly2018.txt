@@ -1,0 +1,158 @@
+
+
+TC18 "Discrete Geometry and Mathematical Morphology" Newsletter (July 2018)
+=============================================================================
+
+
+Contents:
+=========
+1. New TC18 site refresh with new framework and host change.
+2. New member adds from the ISMM conference and list update.
+3. Upcoming conferences and deadlines (with DGCI and ISMM).
+4. List of DG/MM papers for 2017 and the first half of 2018
+5. News of upcoming workshop RRPR.
+
+
+================================================ 
+
+
+1. New TC18 site refresh with new framework and host change
+-------------------------------------------------
+
+The previous TC18 web site was suffering of major problem due to an
+recent server update imposing us the use of an SSL connection
+associated to an invalid certificate. Depending of the web browser,
+users should have to add an exception to visit to the  TC18 web
+site (else the access was not possible).
+
+To resolve this issue, we first make hosted the site on GitHub
+server. A refresh of the website was also done by using a new
+responsive design (based on Bootstrap framework, special thanks to
+Jean-Luc Husson from the MMI department for the suggestion and given
+examples). So now the display is responsive and is automatically
+adapted to the new display.  As for the previous site, new updates are
+always possible for all GitHub users. A new description file show
+indication to guide you and tp explain how to contribute and edit the
+site. Moreover on each page a simple link give you access on the
+source page allowing to edit online the page.
+
+
+
+
+
+2. New member adds from the ISMM conference and list update. 
+---------------------------------------------------------
+
+After the presentation of the TC on previous ISMM conference by
+Michael Wilkinson, with the help of the Jesús Angulo (previous chair
+of ISMM 2017), we imported all the authors and reviewers and send them
+invitations to join TC18. We are happy to welcome new members and to
+invite them to participate to the evolution this TC. 
+
+Together with the new inclusion members, the current list was updated
+by correcting obsolete web page or new affiliations. Don't hesitate to
+contact the chairs of this list (inscriptions@tc18.org) if you detect
+that your affiliation are not correct or if link is broken.
+
+
+In parallel to the official members list, we also construct a new TC18
+GitHub team (https://github.com/TC-18) which allows to better identify
+and define different tasks useful to apply more dynamism in the
+project. We hope that it will facilitate different contributions and
+interaction from both DG and MM fields.
+
+All member are welcome to contribute with propositions or editions. You
+can also request to be added to the GitHub team by contacting us
+on  inscriptions@tc18.org. 
+
+
+
+
+
+3. Past and forthcoming events with deadlines (with ISMM and DGCI)
+--------------------------------------------------------
+
+
+DGCI 2017 report:
+-----------------
+The 20th IAPR International Conference on Discrete Geometry for
+Computer Imagery, DGCI 2017, was held in Vienna, Austria, from 19 to
+21 September 2017. This conference was organized by Walter
+G. Kropatsch, Nicole M. Artner and Ines Janusch from the Pattern
+Recognition and Image Processing Group at TU Wien, Austria.
+
+The DGCI 2017 conference attracted 48 researchers. The scientific
+program consisted in 3 invited talks, 18 oral and 10 poster
+presentations during 3 days. 
+
+Three keynote speeches were given:
+- Helmut Pottmann (TU Wien, Austria):  “Freeform Architecture and Discrete Differential Geometry”.
+- Michael Wilkinson (University of Groningen, The Netherlands): “A guided tour of connective morphology”
+- Stephane Gaubert: Tropical and non-linear Perron-Frobenius methods for optimal control and zero-sum games
+
+The full report is available online on the TC website: http://tc18.org/dgci/report_dgci2017.pdf
+
+
+Forthcoming events:
+------------------
+- 21th International Conference on Discrete Geometry for Computer Imagery (DGCI) - Paris (France)
+       Web page: https://dgci2019.sciencesconf.org
+       Deadlines for abstract submission: September 23rd, 2018, 23:59 (GMT)
+       Deadline for paper submission: October 1st, 2018, 23:59 (GMT)
+       Conference:  25-19 March. 2019
+       Invited speakers:
+           Alexandre Xavier Falcão (UNICAMP, Brazil)
+           Longin Jan Latecki (Temple University, USA)
+           Eric Andres (Univ. Poitiers, France)
+
+
+- 14th 14th International Symposium on Mathematical Morphology - Saarland University, Saarbrücken, (Germany)
+       Web page: http://ismm.uni-saarland.de
+       Deadlines for submission: December 1st 2018
+       Conference:  8-10 July, 2019
+
+
+Other event:
+------------
+The 19th international Workshop on Combinatorial Image Analysis (IWCIA
+18) will be held at Porto, Portugal and is chaired by Joao Manuel
+R. S. Tavares (University of Porto, Portugal) with Reneta P. Barneva
+(SUNY Fredonia, USA), Valentin E. Brimkov (SUNY Buffalo State, USA)
+and Renato M. Natal Jorge (University of Porto, Portugal).  The actual
+deadlines are over for standard papers but you can note the deadline
+for short paper given October 20, 2018. Short paper authors will have
+the possibility to submit a full version to special journal issue
+devoted to the Workshop (see details here:
+https://sites.google.com/view/iwcia18/papers).
+
+
+
+
+
+4. List of DG/MM papers for 2017 and the first half of 2018
+-----------------------------------------------------------
+
+As usual, you will find enclosed to this email the list of DG and MM
+papers in major journal papers for 2017 and the first half of 2018.
+If you think that we forgot some journals or that some should not
+appear in this list, don't hesitate to let us know. Similarly, if we
+forgot some references, let us know.
+
+
+
+
+
+5. News of current  RRPR workshop.
+----------------------------------
+
+In few weeks will hold the second workshop on Reproducible Research in
+Pattern Recognition (in conjonction with ICPR at Beijing, August
+20th). An special invited talk presented by Miguel Colom of the IPOL
+team will open the workshop including a tutorial to construct online
+demonstration without writing new code. You are welcome to assist to
+this workshop in particular if you already plane to come to ICPR.
+
+website: https://rrpr2018.sciencesconf.org
+
+The workshop also proposed to handle the reproducible label (see more details: https://rrpr2018.sciencesconf.org/resource/page/id/5)
+
