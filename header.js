@@ -4,8 +4,8 @@ document.getElementById("headerSite").innerHTML = ' <!-- Global site tag (gtag.j
 <script>\
   window.dataLayer = window.dataLayer || [];\
   function gtag(){dataLayer.push(arguments);}\
-  gtag('js', new Date());\
-  gtag('config', 'UA-122883006-1');\
+  gtag(\'js\', new Date());\
+  gtag(\'config\', \'UA-122883006-1\');\
 </script>\
  \
 <div class="jumbotron" > \
