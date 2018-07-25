@@ -1,4 +1,13 @@
-document.getElementById("headerSite").innerHTML = '  \
+
+document.getElementById("headerSite").innerHTML = ' <!-- Global site tag (gtag.js) - Google Analytics --> \
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122883006-1"></script>\
+<script>\
+  window.dataLayer = window.dataLayer || [];\
+  function gtag(){dataLayer.push(arguments);}\
+  gtag('js', new Date());\
+  gtag('config', 'UA-122883006-1');\
+</script>\
+ \
 <div class="jumbotron" > \
   <div class="row"> \
         <div class="col-md-8 col-sm-8 col-xs-12 " > \
