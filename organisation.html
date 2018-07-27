@@ -1,7 +1,23 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
+      <SCRIPT language = "Javascript">
+var data = new Array();
+var i = 0;
+var datafile = window.location.href.substring(0,
+     window.location.href.lastIndexOf("/") + 1) +
+     "data.txt";
+var url = new java.net.URL(datafile);
+var connect = url.openConnection();
+var input = new java.io.BufferedReader(
+     new java.io.InputStreamReader(
+         connect.getInputStream()));
+var aLine = ""
+while((aLine = input.readLine()) != null) {
+    data[i++] = aLine;
+    }
+      </SCRIPT>
+      <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
                 <meta name="description" content="">
                     <meta name="author" content="">
@@ -285,7 +301,13 @@
             <script src="menu.js"></script>
             <script src="header.js"></script>
             <script src="footer.js"></script>
-            
+
+<SCRIPT language = "Javascript">
+var temp = ""
+for (var j = 0; j < data.length ; j++)
+    temp += data[j] + "<br>";
+document.write(temp);
+</SCRIPT>            
             
         </div>
     </body>

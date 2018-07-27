@@ -52,6 +52,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://www.lsis.org/gmod">GMod Team, LSIS Lab, Aix-Marseille University</a></td>\
 	<td>Marseille, France</td>\
       </tr>\
+<tr>\
+        <td>Fabien Baldacci</td>\
+	<td>LaBRI, Université de Bordeaux</td>\
+	<td>Bordeaux, France</td>\
+      </tr>\
       <tr>\
         <td><a href="http://mclab.eic.hust.edu.cn/~xbai/">Xiang Bai</a></td>\
 	<td><a href="http://mclab.eic.hust.edu.cn/">School of Electronic Information and Communications, Huazhong University of Science and Technology</a></td>\
@@ -191,6 +196,11 @@ document.getElementById("memberslist").innerHTML = '\
 	<td><a href="http://www.loria.fr/~debled">Isabelle Debled-Rennesson</a></td>\
 	<td><a href="http://adagio.loria.fr">ADAGIo Team, LORIA</a></td>\
 	<td>Nancy, France</td>\
+      </tr>\
+      <tr>\
+	<td><a href="http://cmm.ensmp.fr/~decencie">Etienne Decencière</a></td>\
+	<td><a href="http://cmm.ensmp.fr">MINES ParisTech - PSL Research University</a></td>\
+	<td>Fontainebleau, France</td>\
       </tr>\
       <tr>\
 	<td>Mousumi Dutt</td>\
