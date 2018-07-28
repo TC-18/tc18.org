@@ -1,5 +1,4 @@
-<script>
-var fileDisplayArea = document.getElementById('memberslist');
+var fileDisplayArea = document.getElementById("memberslist").innerHTML ;
 function readTextFile(file)
 {
     var rawFile = new XMLHttpRequest();
@@ -19,7 +18,7 @@ function readTextFile(file)
 }
 
 readTextFile("http://tc18.org/members.html");
-</script>
+
 
 
 
