@@ -1,4 +1,3 @@
-var fileDisplayArea = document.getElementById("memberslist").innerHTML ;
 function readTextFile(file)
 {
     var rawFile = new XMLHttpRequest();
@@ -10,14 +9,14 @@ function readTextFile(file)
             if(rawFile.status === 200 || rawFile.status == 0)
             {
                 var allText = rawFile.responseText;
-                fileDisplayArea = allText 
+                document.getElementById('memberslist').innerHTML = allText 
             }
         }
     }
-   // rawFile.send(null);
+    rawFile.send(null);
 }
 
-readTextFile("http://tc18.org/membersList");
+readTextFile("http://tc18.org/membersList.html");
 
 
 
