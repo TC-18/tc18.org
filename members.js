@@ -10,14 +10,14 @@ function readTextFile(file)
             if(rawFile.status === 200 || rawFile.status == 0)
             {
                 var allText = rawFile.responseText;
-                fileDisplayArea.innerText = allText 
+                fileDisplayArea = allText 
             }
         }
     }
-    rawFile.send(null);
+   // rawFile.send(null);
 }
 
-readTextFile("http://tc18.org/members.html");
+readTextFile("http://tc18.org/membersList");
 
 
 
