@@ -84,3 +84,26 @@ Theoretical Computer Science
 
 ---
 
+
+-------------------
+Mathematical Morphology - Theory and Applications
+-------------------
+
+Asplund Teo , Hendriks Cris L. Luengo , Thurley Matthew J.,  Strand Robin
+Mathematical Morphology on Irregularly Sampled Data in One Dimension
+Volume 2, Issue 1 (Dec 2017), 1-24
+
+Sekiya Fumiki, Sugimoto Akihiro
+On properties of analytical approximation for discretizing 2D curves and 3D surfaces
+Volume 2, Issue 1 (Dec 2017), 25-34
+
+Aubry Nicolas, Kerautret Bertrand, Even Philippe, Debled-Rennesson Isabelle
+Photometric Intensity Profiles Analysis for Thick Segment Recognition and Geometric Measures
+Volume 2, Issue 1 (Dec 2017), 35-54
+
+Guimarães Silvio ; Kenmochi Yukiko ; Cousty Jean ; Patrocinio Zenilton ; Najman Laurent
+Hierarchizing graph-based image segmentation algorithms relying on region dissimilarity
+Volume 2, Issue 1 (Dec 2017), 55-75
+
+
+
