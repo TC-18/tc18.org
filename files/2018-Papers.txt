@@ -63,18 +63,41 @@ IEEE Trans. on Image Processing
 Journal of Mathematical Imaging and Vision
 -------------------
 
+P. Balázs, S. Brunetti
+A Q-Convexity Vector Descriptor for Image Analysis
+Journal of Mathematical Imaging and Vision
+
+Phuc Ngo, Nicolas Passat, Yukiko Kenmochi, Isabelle Debled-Rennesson
+Geometric Preservation of 2D Digital Objects Under Rigid Motions
+Journal of Mathematical Imaging and Vision
+
+
+Julien Mille, Aurélie Leborgne, Laure Tougne
+Euclidean Distance-Based Skeletons: A Few Notes on Average Outward Flux and Ridgeness
+Journal of Mathematical Imaging and Vision
+
+
+Thomas Caissard, David Coeurjolly , Jacques-Olivier Lachaud, Tristan Roussillon
+Laplace–Beltrami Operator on Digital Surfaces
+Journal of Mathematical Imaging and Vision
+
+
+Davod Farazmanesh, Ali Tavakoli
+Morphological Decomposition and Compression of Binary Images via a Minimum Set Cover Algorithm
+Journal of Mathematical Imaging and Vision
+
 
 Nicolas Boutry, Thierry Géraud, Laurent Najman:
 A Tutorial on Well-Composedness. Volume 60, Number 1, January 2018, 443-478
-
+Journal of Mathematical Imaging and Vision
 
 Jean Cousty, Laurent Najman, Yukiko Kenmochi, Silvio Jamil Ferzoli Guimarães:
 Hierarchical Segmentations with Graphs: Quasi-flat Zones, Minimum Spanning Trees, and Saliency Maps. Volume 60, Number 4, May 2018, 479-502 
-
+Journal of Mathematical Imaging and Vision
 
 Kacper Pluta, Tristan Roussillon, David Coeurjolly, Pascal Romon, Yukiko Kenmochi, Victor Ostromoukhov:
 Characterization of Bijective Digitized Rotations on the Hexagonal Grid. Volume 60, Number 5, June 2018,  707-716 
-
+Journal of Mathematical Imaging and Vision
 
 
 -------------------
