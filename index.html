@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
-    <head>
+  <script src="include.js"></script>                                                                     
+
+  <head>
         <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
                 <meta name="description" content="">
@@ -17,7 +19,9 @@
     </head>    
     <body>
         <div id="headerSite"></div>
-        <nav id="navMenu" class=" navbar  blurry navbar-expand-md navbar-dark  navbar-dark  mb-4 sticky-top"> </nav>
+        <nav contentMenu="menu.html" id="navMenu" class=" navbar  blurry navbar-expand-md navbar-dark  navbar-dark  mb-4 sticky-top"> </nav>
+        <script>includeHTML("contentMenu");</script>
+                  
         <div class="blurrer"></div>
         </div>
         <!--/.nav-collapse -->
@@ -280,7 +284,7 @@
             <!-- Placed at the end of the document so the pages load faster -->
             <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
             <script src="dist/js/bootstrap.min.js"></script>
-            <script src="menu.js"></script>
+            
             <script src="header.js"></script>
            <script src="footer.js"></script>
 </div>
