@@ -2,8 +2,14 @@
 Pattern Recognition
 -------------------
 
----
+Clément, M., Kurtz, C., Wendling, L.
+Learning Spatial Relations and Shapes for Structural Object Description and Scene Recognition. Volume 84, 2018, 197-2010
+Pattern Recognition
 
+
+Randrianasoa, T., Kurtz, C., Desjardin, E., Passat, N.
+Binary Partition Tree Construction from Multiple Features for Image Segmentation. Volume 84, 2018, 237-250
+Pattern Recognition
 
 ---------------------------
 Pattern Recognition Letters
@@ -42,7 +48,30 @@ Discrete Applied Mathematics
 IEEE Trans. on Pattern Analysis and Machine Intelligence
 --------------------------------------------------------
 
----
+Odyssée Merveille, Hugues Talbot, Laurent Najman, Nicolas Passat
+Curvilinear Structure Analysis by Ranking the Orientation Responses of Path Operators. Volume 40, 2018, 304 - 317.
+IEEE Trans. on Pattern Analysis and Machine Intelligence
+
+
+------------------------------
+IEEE Signal Processing Letters 
+------------------------------
+
+A Challa, S Danda, BSD Sagar, L Najman
+Watersheds for Semi-Supervised Classification. Volume 26 (5), 2019, 720-724
+
+-------------------------------
+IEEE Trans. on Image Processing
+-------------------------------
+
+Odyssee Merveille, Benoît Naegel, Hugues Talbot, Nicolas Passat
+nD variational restoration of curvilinear structures with prior-based directional regularization. Volume 28(8), 2018, 3848 - 3859
+IEEE Trans. on Image Processing
+
+
+B. Perret, J. Cousty, S.J.F. Guimarães, D.S. Maia:
+Evaluation of hierarchical watersheds. Volume 27(4), 2018, 1676-1688. 
+IEEE Trans. on Image Processing
 
 
 -----------------------------------
@@ -50,18 +79,38 @@ Discrete and Computational Geometry
 -----------------------------------
 -----
 
+---------------------------------------
+Journal of Computer and System Sciences
+---------------------------------------
 
--------------------------------
-IEEE Trans. on Image Processing
--------------------------------
+L. Mazo, E. Baudrier
+Object digitization up to a translation. Volume 95, août 2018, 193-203 
+Journal of Computer and System Sciences
 
----
 
+Hayat Nasser, Phuc Ngo, Isabelle Debled-Rennesson
+Dominant point detection based on discrete curve structure and applications. Volume 95, 2018, 177-192
+Journal of Computer and System Sciences
 
 
 -------------------
 Journal of Mathematical Imaging and Vision
 -------------------
+
+E. Baudrier, L. Mazo
+Combinatorics of the Gauss digitization under translation in 2D. Volume 61(2), 2019, 224-236
+Journal of Mathematical Imaging and Vision
+
+
+N Boutry, T Géraud, L Najman
+How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way. Volume 61(6), 2019, 1-25
+Journal of Mathematical Imaging and Vision
+
+
+N Boutry, T Géraud, L Najman:
+A tutorial on well-composedness. Volume 60(3), 2018, 443-478
+Journal of Mathematical Imaging and Vision
+
 
 P. Balázs, S. Brunetti
 A Q-Convexity Vector Descriptor for Image Analysis
@@ -91,9 +140,11 @@ Nicolas Boutry, Thierry Géraud, Laurent Najman:
 A Tutorial on Well-Composedness. Volume 60, Number 1, January 2018, 443-478
 Journal of Mathematical Imaging and Vision
 
+
 Jean Cousty, Laurent Najman, Yukiko Kenmochi, Silvio Jamil Ferzoli Guimarães:
 Hierarchical Segmentations with Graphs: Quasi-flat Zones, Minimum Spanning Trees, and Saliency Maps. Volume 60, Number 4, May 2018, 479-502 
 Journal of Mathematical Imaging and Vision
+
 
 Kacper Pluta, Tristan Roussillon, David Coeurjolly, Pascal Romon, Yukiko Kenmochi, Victor Ostromoukhov:
 Characterization of Bijective Digitized Rotations on the Hexagonal Grid. Volume 60, Number 5, June 2018,  707-716 
