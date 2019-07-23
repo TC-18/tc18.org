@@ -179,6 +179,11 @@ tr {
     background-color: #FFF;
      min-height: 300px;
 }
+.tab-pane.proj
+{
+    background-color: #EEE;
+     min-height: 400px;
+}
 
 .card-body-scroll{
     max-height: 250px;
