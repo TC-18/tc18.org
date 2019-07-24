@@ -1,34 +1,35 @@
 <!doctype html>
-<script src="include.js"></script>                                                                     
+<script src="include.js"></script>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-                <meta name="description" content="">
-                    <meta name="author" content="">
-                        <link rel="icon" href="../../../../favicon.ico">
-                            
-                            <title>TC18 main site</title>
-                            
-                            <!-- Bootstrap core CSS -->
-                            <link href="dist/css/bootstrap.min.css" rel="stylesheet">
-                                <link rel="stylesheet" type="text/css" href="dist/css/custom.css">
-                                    
-                                    
-                                    
-                                    </head>
-    
-    <body>
-      <div id="headerSite"></div>
-      <nav  contentMenu="menu.html" id="navMenu" class="navbar navbar-expand-md   navbar-dark  mb-4 sticky-top"> </nav>
-      <script>includeHTML("contentMenu");</script>
-        <div id="site_content" class=" ml-0  mr-0">
-            <div class="row ml-3 mr-1">
-                <div class="col-12  text-justify  " >
-                    
-                    <h2>Projects</h2>
-                    
-                    <p>The aim of this page is to provide an overview
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>TC18 main site</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="dist/css/custom.css">
+
+
+
+</head>
+
+<body>
+    <div id="headerSite"></div>
+    <nav contentMenu="menu.html" id="navMenu" class="navbar navbar-expand-md   navbar-dark  mb-4 sticky-top"> </nav>
+    <script>includeHTML("contentMenu");</script>
+    <div id="site_content" class=" ml-0  mr-0">
+        <div class="row ml-3 mr-1">
+            <div class="col-12  text-justify  ">
+
+                <h2>Projects</h2>
+
+                <p>The aim of this page is to provide an overview
                     of existing active (or past) projects with
                     relation to DG and MM (national, European or
                     international) and also to add proposition of new
@@ -38,47 +39,107 @@
                     repository. Moreover, this page can also be used to
                     announce new project construction plan and help to
                     facilitate partnership.
-                    </p>
-
-                                        
-                    <h4>Current Projects </h4>
-                    <p>
-                      <div currentProj="currentProjects.html" > </div>
-                      <script>includeHTML("currentProj");</script>
-                    </p>
-                    
-                    <h4>Past Projects </h4>
-                    <p>
-                      <div currentProj="pastProjects.html" > </div>
-                      <script>includeHTML("pastProj");</script>
-                    </p>
-
-                    <h4> Project Plan </h4>
+                </p>
 
 
+                <h4>Current Projects </h4>
+                <p> To give an overview of the actual active projects, we list all the projets where discrete geometry
+                    and mathematical morphogy has an important place. To propse new project don't hesitate to contact
+                    us with the following form. </p>
+                <button class="btn btn-link collapsed btn-responsive" type="button" data-toggle="collapse"
+                    data-target="#collapseProjPropExisting" aria-expanded="true"
+                    aria-controls="collapseProjPropExisting">
+                    Click to suggest an existing project <a id="demo"></a>
+                </button>
+
+                <div id="collapseProjPropExisting" class="collapse" aria-labelledby="headingOne"
+                    data-parent="#accordionExample">
+                    <div class="row">
+
+                        <form class="mx-auto col-md-8" name="mail"
+                            action="mailto:tc18@tc18.org?subject=Contact from TC18 website" method="POST"
+                            enctype="text/plain" target="_blank">
+                            <div class="row">
+
+                                <div class="form-group col-md-8">
+                                    <label class="mt-4" for="nameInput">Name :</label>
+                                    <input type="text" class="form-control mb-4" id="nameInput" name="name"
+                                        placeholder="Your name">
+                                    <label for="exampleFormControlInput1">Email address: </label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput1" name="email"
+                                        placeholder="name@example.com">
+                                </div>
+
+
+                                <div class="form-group mx-auto col-md-12">
+                                    <textarea class="form-control" id="exampleFormControlTextarea1" name="comment"
+                                        rows="5">
+Project type:
+Project coordinator: 
+Period:
+Parteners:
+Website:
+Abstract:
+                    </textarea>
+                                    <button type="submit" class="btn btn-primary mt-2" value="Send">Send</button>
+                                    <button type="reset" class="btn btn-secondary mt-2" value="Send">Reset</button>
+
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
                 </div>
-                
-                
-            </div>
-            
-            
-            
-            
-            <div id="footerSite"></div>
-            
-            
-            
-            <!-- Bootstrap core JavaScript
-             ================================================== -->
-            <!-- Placed at the end of the document so the pages load faster -->
-            <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-            <script src="dist/js/bootstrap.min.js"></script>
-            <script src="menu.js"></script>
-            <script src="header.js"></script>
-            <script src="footer.js"></script>
-            
-            
-        </div>
-    </body>
-</html>
+                <p>
+                    <div currentProj="currentProjects.html"> </div>
+                    <script>includeHTML("currentProj");</script>
+                </p>
 
+
+                <h4>Past Projects </h4>
+                <p>
+                    <div currentProj="pastProjects.html"> </div>
+                    <script>includeHTML("pastProj");</script>
+                </p>
+
+
+                <h4> Project Plan Proposal </h4>
+                <p>Here, we propose to share potential new project plan proposal (draft), the objective could be for
+                    instance to gather various initiative for new and original projects. Don't hesitate to share
+                    with us
+                    your project intention.</p>
+
+                <p>
+                    <div projProposal="projectsProposals.html"> </div>
+                    <script>includeHTML("projProposal");</script>
+                </p>
+
+
+            </div>
+
+
+        </div>
+
+
+
+
+        <div id="footerSite"></div>
+
+
+
+        <!-- Bootstrap core JavaScript
+             ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+            integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+            crossorigin="anonymous"></script>
+        <script src="dist/js/bootstrap.min.js"></script>
+        <script src="menu.js"></script>
+        <script src="header.js"></script>
+        <script src="footer.js"></script>
+
+
+    </div>
+</body>
+
+</html>

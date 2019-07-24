@@ -1,0 +1,93 @@
+
+<button class="btn btn-link collapsed btn-responsive" type="button" data-toggle="collapse"
+data-target="#collapseProjProp" aria-expanded="true" aria-controls="collapseProjProp">
+Click to see all proposal projects <a id="demo"></a>
+</button>
+
+<div id="collapseProjProp" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+
+
+<div class="row">
+    <div class="col-sm-4">
+        <div class="panel-body">
+            <div class="list-group" id="list-tab" role="tablist">
+                <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list"
+                    href="#proj1" role="tab" aria-controls="home"> First project proposal </a>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="col-sm-8">
+        <div class="tab-content">
+            <!-- Begin proj1  -->
+            <div class="tab-pane proj fade show active " id="projProp1" role="tabpanel"
+                aria-labelledby="list-home-list">
+                <h5>Nice first project proposal <a class="float-right"
+                        href="https://github.com/TC-18/tc18.org/blob/master/projectsProposals.html">edit</a> </h5>
+                <ul>
+                    <li><b>Project Type</b>: be the first to add a proposal ! </li>
+                    <li><b>Project coordinator</b>: <b></b></li>
+                    <li><b>Period:</b> ... </li>
+                    <li><b>Partners:</b>
+                        <ul>
+                            <li> First partener coordinator: <b>J...</b>, participants: ...</li>
+
+
+                        </ul>
+                    <li><b>Website </b>: official project page <a href="http://...">here</a></li>
+                    <li><b>Abstract</b>: <button class="btn btn-link collapsed btn-outline-primary btn-sm "
+                            type="button" data-toggle="collapse" data-target="#collapseAbstract">
+                            <a id="collapse">click to uncollapse the bastract </a> </button>
+                        <div id="collapseAbstract" class="collapse">
+                            ...
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- End proj1  -->
+        </div>
+    </div>
+</div>
+</div>
+
+<button class="btn btn-link collapsed btn-responsive" type="button" data-toggle="collapse"
+    data-target="#collapseProjPropForm" aria-expanded="true" aria-controls="collapseProjPropForm">
+    Click to fill proposal project <a id="demo"></a>
+</button>
+
+<div id="collapseProjPropForm" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+    <div class="row">
+
+        <form class="mx-auto col-md-8" name="mail" action="mailto:tc18@tc18.org?subject=Contact from TC18 website"
+            method="POST" enctype="text/plain" target="_blank">
+            <div class="row">
+
+                <div class="form-group col-md-8">
+                    <label class="mt-4" for="nameInput">Name :</label>
+                    <input type="text" class="form-control mb-4" id="nameInput" name="name" placeholder="Your name">
+                    <label for="exampleFormControlInput1">Email address: </label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1" name="email"
+                        placeholder="name@example.com">
+                </div>
+
+
+                <div class="form-group mx-auto col-md-12">
+                    <textarea class="form-control" id="exampleFormControlTextarea1" name="comment" rows="5">
+Project type:
+Project proposal leader: 
+Proposed period:
+Proposal main keyworks:
+                
+            </textarea>
+                    <button type="submit" class="btn btn-primary mt-2" value="Send">Send</button>
+                    <button type="reset" class="btn btn-secondary mt-2" value="Send">Reset</button>
+
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+</div>
