@@ -53,20 +53,10 @@ Curvilinear Structure Analysis by Ranking the Orientation Responses of Path Oper
 IEEE Trans. on Pattern Analysis and Machine Intelligence
 
 
-------------------------------
-IEEE Signal Processing Letters 
-------------------------------
-
-A Challa, S Danda, BSD Sagar, L Najman
-Watersheds for Semi-Supervised Classification. Volume 26 (5), 2019, 720-724
 
 -------------------------------
 IEEE Trans. on Image Processing
 -------------------------------
-
-Odyssee Merveille, Benoît Naegel, Hugues Talbot, Nicolas Passat
-nD variational restoration of curvilinear structures with prior-based directional regularization. Volume 28(8), 2018, 3848 - 3859
-IEEE Trans. on Image Processing
 
 
 B. Perret, J. Cousty, S.J.F. Guimarães, D.S. Maia:
@@ -96,16 +86,6 @@ Journal of Computer and System Sciences
 -------------------
 Journal of Mathematical Imaging and Vision
 -------------------
-
-E. Baudrier, L. Mazo
-Combinatorics of the Gauss digitization under translation in 2D. Volume 61(2), 2019, 224-236
-Journal of Mathematical Imaging and Vision
-
-
-N Boutry, T Géraud, L Najman
-How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way. Volume 61(6), 2019, 1-25
-Journal of Mathematical Imaging and Vision
-
 
 N Boutry, T Géraud, L Najman:
 A tutorial on well-composedness. Volume 60(3), 2018, 443-478
