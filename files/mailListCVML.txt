@@ -1,0 +1,35 @@
+
+-------- Message transféré --------
+Sujet :	Invitation to subscribe to the new Computer Vision and Machine Learning (CVML) email list for scientific dissemination
+Date :	Sun, 23 Jun 2019 17:18:20 +0300
+De :	orestiss@csd.auth.gr
+Répondre à :	orestiss@csd.auth.gr
+Pour :	aiia-announcements <aiia-announcements@lists.auth.gr>
+
+
+Dear Computer Vision and Machine Learning specialist,
+
+if you want to subscribe (for free) to this new Computer Vision and Machine Learning (CVML) email list to send/receive scientific messages/news, please:
+send an empty email to sympa@lists.auth.gr with subject: subscribe cvml@lists.auth.gr  your_name
+Your_name is optional.
+For example if your name is John Smith, your email subject should be:  subscribe cvml@lists.auth.gr  John Smith
+or subscribe cvml@lists.auth.gr
+You can unsubscribe any time, by sending an empty email to sympa@lists.auth.gr with subject: unsubscribe cvml@lists.auth.gr
+If you want to receive messages in digest format, please send a request to the moderator 'Orestissar' orestiss@csd.auth.gr.
+ 
+This moderated list is expected to serve the confluence of the scientific disciplines of:
+*        Computer Vision, Image/video processing, 3D imaging
+*        Machine Learning, Neural Networks, Pattern Recognition, AI
+*        Autonomous System perception (cars, drones, vehicles, robots)
+*        Signal processing, sensor networks
+*        Distributed computing
+and related topics (e.g., robotics, AS communications).
+If you work on any of these topics, publish in relevant conferences (CVPR, ICCV, ECCV, ACCV, NIPS, ICML, BMVC, WACV, ICIP, ICASSP, ICPR, EUSIPCO, MLSP, ICME, ACM Multimedia) and/or journals (IEEE PAMI, TIP, SMC, CSVT, TNNLS, TMM, Pattern Recognition, Information Sciences, Neurocomputing, Neural Networks, Image and Vision Computing, IJCV, ACM Transactions on Intelligent Systems and Technology, ACM Computing Surveys) and you want to get relevant regular news or post your own news, you can subscribe as shown above.
+Your subscription will enable a valuable dissemination asset for the entire Computer Vision and Machine Learning community, to be used by all.
+ 
+This is an one-off message, sent though various channels,  to inform you about the creation of the CVML email list.  For additional info,  you can visit: http://www.aiia.csd.auth.gr/EN/cvml.html
+ 
+Sincerely yours,
+Ioannis Pitas
+Professor, PhD, Director of the Artificial Intelligence and Information Analysis Lab, AUTH, Greece
+IEEE fellow and Distinguished Lecturer
