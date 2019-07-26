@@ -55,7 +55,12 @@ Final camera-ready papers – April 5, 2020
 Conference dates – **July 16-18, 2020**, Novi Sad, Serbia
 
 
- 
+## INVITED SPEAKERS:
+
+**Gabor T. Herman** (The Graduate Center, City University of New York, USA)
+**Gyula O.H. Katona** (Hungarian Academy of Sciences, Budapest, Hungary)
+
+
 ## PUBLICATION:
  
 The conference proceedings will be published in the Springer's "Lecture Notes in Computer Science" series (pending approval).
@@ -69,3 +74,5 @@ The submitted papers are expected to meet high standards satisfying serious eval
 ## JOURNAL SPECIAL ISSUE:
  
 After the conference, the authors can submit extended versions of their works for publication in special journal issues.
+
+
