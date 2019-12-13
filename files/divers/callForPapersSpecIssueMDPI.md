@@ -20,8 +20,8 @@ a conference contribution it must contain at least 30% novelty
 compared to the conference paper. The review process starts as soon as
 the paper is submitted.
 
-The deadline is June 20, 2020. The journal is open access. We will
-invite the five most promising papers submitted without charge.
+The deadline is **June 20, 2020**. The journal is open access. We will
+invite the **five most promising papers** submitted **without charge**.
 Please, contact the guest co-editors (Matthias
 Matthias.Zeppelzauer@fhstp.ac.at and Rocio rogodi@us.es) before
 submitting the paper.
