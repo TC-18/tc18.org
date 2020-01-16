@@ -86,6 +86,17 @@ N Boutry, T Géraud, L Najman
 How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way. Volume 61(6), 2019, 1-25
 Journal of Mathematical Imaging and Vision
 
+Phuc Ngo, Nicolas Passat, Yukiko Kenmochi, Isabelle Debled-Rennesson
+Geometric preservation of 2D digital objects under rigid motions
+Journal of Mathematical Imaging and Vision, 61: 162-172 (2019)
+
+Guillaume Tochon, Mauro Dalla Mura, Miguel Angel Veganzones, Thierry Géraud, Jocelyn Chanussot
+Braids of partitions for the hierarchical representation and segmentation of multimodal images
+Journal of Mathematical Imaging and Vision, 61: 162-172 (2019) 
+
+Nicolas Passat, Benoît Naegel, Camille Kurtz.
+Component-Graph Construction. 
+Journal of Mathematical Imaging and Vision 61(6): 798-823 (2019)
 
 -------------------
 Theoretical Computer Science
