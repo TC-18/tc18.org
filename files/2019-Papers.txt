@@ -77,10 +77,6 @@ Odyssee Merveille, Benoît Naegel, Hugues Talbot, Nicolas Passat
 nD variational restoration of curvilinear structures with prior-based directional regularization. 
 IEEE Trans. on Image Processing. Volume 28(8), 2018, 3848 - 3859
 
----
-
-
-
 -------------------
 Journal of Mathematical Imaging and Vision
 -------------------
