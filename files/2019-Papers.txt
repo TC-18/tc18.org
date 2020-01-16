@@ -80,22 +80,28 @@ IEEE Trans. on Image Processing. Volume 28(8), 2018, 3848 - 3859
 -------------------
 Journal of Mathematical Imaging and Vision
 -------------------
-
-E. Baudrier, L. Mazo
-Combinatorics of the Gauss digitization under translation in 2D.
-Journal of Mathematical Imaging and Vision. Volume 61(2), 2019, 224-236
+Artner, N.M., Janusch, I. & Coeurjolly, D. J Math Imaging Vis (2019) 61: 173. https://doi.org/10.1007/s10851-018-0855-4
 
 N Boutry, T Géraud, L Najman
 How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way. 
-Journal of Mathematical Imaging and Vision. Volume 61(6), 2019, 1-25
+Journal of Mathematical Imaging and Vision. Volume 61(6), 2019, 1-25 (2019)
 
 Phuc Ngo, Nicolas Passat, Yukiko Kenmochi, Isabelle Debled-Rennesson
 Geometric preservation of 2D digital objects under rigid motions
 Journal of Mathematical Imaging and Vision, 61: 162-172 (2019)
 
-Nicolas Passat, Benoît Naegel, Camille Kurtz.
-Component-Graph Construction. 
-Journal of Mathematical Imaging and Vision 61(6): 798-823 (2019)
+Madjid Allili, Tomasz Kaczynski, Claudia Landi & Filippo Masoni 
+Acyclic Partial Matchings for Multidimensional Persistence: Algorithm and Combinatorial Interpretation
+Journal of Mathematical Imaging and Vision volume 61, pages 174–192 (2019)
+
+P. BalázsS. Brunetti
+A Q-Convexity Vector Descriptor for Image Analysis
+Journal of Mathematical Imaging and Vision February 2019, Volume 61, Issue 2, pp 193–203 (2019)
+
+E. Baudrier, L. Mazo
+Combinatorics of the Gauss digitization under translation in 2D.
+Journal of Mathematical Imaging and Vision. Volume 61(2), 2019, 224-236
+
 
 -------------------
 Theoretical Computer Science
