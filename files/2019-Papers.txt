@@ -10,7 +10,13 @@ Pattern Recognition, 95: 162-172 (2019)
 Pattern Recognition Letters
 ---------------------------
 
----
+Deise Santana Maia, Jean Cousty, Laurent Najman, Benjamin Perret
+Properties of combinations of hierarchical watersheds
+Pattern Recognition Letters. Volume 128, pages 513-520 (2019)
+
+Removing non-signicant regions in hierarchical clustering and segmentation
+Benjamin Perret, Jean Cousty, Silvio Jamil, Ferzoli Guimarães, Yukiko Kenmochi, Laurent Najman
+tern Recognition Letters. Volume 128, pages 433-439 (2019)
 
 
 --------------------------
