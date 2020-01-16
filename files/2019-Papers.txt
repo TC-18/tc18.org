@@ -76,11 +76,9 @@ IEEE Trans. on Image Processing
 Journal of Mathematical Imaging and Vision
 -------------------
 
-
 E. Baudrier, L. Mazo
 Combinatorics of the Gauss digitization under translation in 2D. Volume 61(2), 2019, 224-236
 Journal of Mathematical Imaging and Vision
-
 
 N Boutry, T Géraud, L Najman
 How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way. Volume 61(6), 2019, 1-25
