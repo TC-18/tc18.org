@@ -16,9 +16,17 @@ Pattern Recognition Letters
 --------------------------
 Image Processing On Line
 --------------------------
+Fabien Feschet. 
+Implementation of a Denoising Algorithm Based on High-Order Singular Value Decomposition of Tensors
+Image Processing On Line. Volumme 8 (2019)
 
----
+Pascal Monasse.
+Extraction of the Level Lines of a Bilinear Image.
+Image Processing On Line. Volumme 8 (2019)
 
+Pierre Cettour-Janet, Clément Cazorla, Vaia Machairas, Quentin Delannoy, Nathalie Bednarek, François Rousseau, Etienne Décencière, Nicolas Passat
+Watervoxels
+Image Processing On Line. Volumme 8 (2019)
 
 --------------------------
 Image and Vision Computing
@@ -66,8 +74,8 @@ IEEE Trans. on Image Processing
 -------------------------------
 
 Odyssee Merveille, Benoît Naegel, Hugues Talbot, Nicolas Passat
-nD variational restoration of curvilinear structures with prior-based directional regularization. Volume 28(8), 2018, 3848 - 3859
-IEEE Trans. on Image Processing
+nD variational restoration of curvilinear structures with prior-based directional regularization. 
+IEEE Trans. on Image Processing. Volume 28(8), 2018, 3848 - 3859
 
 ---
 
@@ -78,12 +86,12 @@ Journal of Mathematical Imaging and Vision
 -------------------
 
 E. Baudrier, L. Mazo
-Combinatorics of the Gauss digitization under translation in 2D. Volume 61(2), 2019, 224-236
-Journal of Mathematical Imaging and Vision
+Combinatorics of the Gauss digitization under translation in 2D.
+Journal of Mathematical Imaging and Vision. Volume 61(2), 2019, 224-236
 
 N Boutry, T Géraud, L Najman
-How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way. Volume 61(6), 2019, 1-25
-Journal of Mathematical Imaging and Vision
+How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way. 
+Journal of Mathematical Imaging and Vision. Volume 61(6), 2019, 1-25
 
 Phuc Ngo, Nicolas Passat, Yukiko Kenmochi, Isabelle Debled-Rennesson
 Geometric preservation of 2D digital objects under rigid motions
