@@ -1,11 +1,10 @@
 -------------------
 Pattern Recognition
 -------------------
+
 Guillaume Tochon, Mauro Dalla Mura, Miguel Angel Veganzones, Thierry Géraud, Jocelyn Chanussot
 Braids of partitions for the hierarchical representation and segmentation of multimodal images
 Pattern Recognition, 95: 162-172 (2019) 
----
-
 
 ---------------------------
 Pattern Recognition Letters
