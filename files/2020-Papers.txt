@@ -68,7 +68,9 @@ IEEE Trans. on Image Processing
 -------------------
 Journal of Mathematical Imaging and Vision
 -------------------
----
+Phuong Thanh Nguyen,Xuan Son Nguyen, Mohamed Anouar Borgi, Mohamed Anouar Borgi and M K Nguyen
+A Projection-Based Method for Shape Measurement
+Journal of Mathematical Imaging and Vision pp 1–16 January 2020
 
 
 -------------------
