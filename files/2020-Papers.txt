@@ -1,7 +1,11 @@
 -------------------
 Pattern Recognition
 -------------------
----
+Fuzzy directional enlacement landscapes for the evaluation of complex spatial relations
+Michaël Clément, Camille Kurtz, Laurent Wendling Volume 101 In progress (May 2020)
+
+
+
 
 
 ---------------------------
