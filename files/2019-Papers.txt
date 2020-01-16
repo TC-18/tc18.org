@@ -109,9 +109,17 @@ Theoretical Computer Science
 Mathematical Morphology - Theory and Applications
 -------------------
 
+Ronse Christian, Mazo Loic, Tajine Mohamed
+Correspondence between Topological and Discrete Connectivities in Hausdorff Discretization
+Mathematical Morphology - Theory and Applications. Volume 3, Issue 1, page 1-28 (2019)
 
----
+Prior-based Hierarchical Segmentation Highlighting Structures of Interest
+Fehri Amin, Velasco-Forero Santiago, Meyer, Fernand
+Mathematical Morphology - Theory and Applications. Volume 3, Issue 1, page 29-44 (2019)
 
+Shape-Based Analysis on Component-Graphs for Multivalued Image Processing
+Grossiord Éloïse, Naegel Benoît, Talbot Hugues, Najman Laurent, Passat Nicolas
+Mathematical Morphology - Theory and Applications. Volume 3, Issue 1, page 45-70 (2019)
 
 
 
