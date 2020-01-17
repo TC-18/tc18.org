@@ -31,6 +31,15 @@ Image and Vision Computing
 
 ---
 
+--------------------
+Information Sciences
+---------------------
+Nicolas Boutry, Rocio Gonzalez-Diaz, Maria-Jose Jimenez
+Weakly Well-Composed Cell Complexes over nD Pictures
+Information Sciences. Volume 499, pages 62-83 (2018)
+
+
+
 ---------------------------------------
 Computer Vision and Image Understanding
 ---------------------------------------
@@ -64,6 +73,15 @@ Evaluation of hierarchical watersheds. Volume 27(4), 2018, 1676-1688.
 IEEE Trans. on Image Processing
 
 
+-----------------------------------------------------
+IEEE Transactions on Parallel and Distributed Systems
+-----------------------------------------------------
+Markus Götz, Gabriele Cavallaro, Thierry Géraud, Matthias Book, Morris Riedel
+Parallel Computation of Component Trees on Distributed Memory Machines
+IEEE Transactions on Parallel and Distributed Systems, Volume 29, number 11, pages 2582-2598 (2018)
+
+
+
 -----------------------------------
 Discrete and Computational Geometry
 -----------------------------------
@@ -83,9 +101,9 @@ Dominant point detection based on discrete curve structure and applications. Vol
 Journal of Computer and System Sciences
 
 
--------------------
+------------------------------------------
 Journal of Mathematical Imaging and Vision
--------------------
+------------------------------------------
 
 N Boutry, T Géraud, L Najman:
 A tutorial on well-composedness. Volume 60(3), 2018, 443-478
@@ -131,17 +149,17 @@ Characterization of Bijective Digitized Rotations on the Hexagonal Grid. Volume 
 Journal of Mathematical Imaging and Vision
 
 
--------------------
+----------------------------
 Theoretical Computer Science
--------------------
+----------------------------
 
 
 ---
 
 
--------------------
+--------------------------------------------------
 Mathematical Morphology - Theory and Applications
--------------------
+--------------------------------------------------
 
 Asplund Teo , Hendriks Cris L. Luengo , Thurley Matthew J.,  Strand Robin
 Mathematical Morphology on Irregularly Sampled Data in One Dimension
@@ -159,5 +177,11 @@ Guimarães Silvio ; Kenmochi Yukiko ; Cousty Jean ; Patrocinio Zenilton ; Najman
 Hierarchizing graph-based image segmentation algorithms relying on region dissimilarity
 Volume 2, Issue 1 (Dec 2017), 55-75
 
+-----------------------
+Medical Image Analysis
+-----------------------
 
+Yongchao Xu, Baptiste Morel, Sonia Dahdouh, Élodie Puybareau, Alessio Virzì, Hélène Urien, Thierry Géraud, Catherine Adamsbaum, Isabelle Bloch
+The Challenge of Cerebral Magnetic Resonance Imaging in Neonates: A New Method using Mathematical Morphology for the Segmentation of Structures Including Diffuse Excessive High Signal Intensities
+Medical Image Analysis. Volume 48, pages 75-94 (2018)
 
