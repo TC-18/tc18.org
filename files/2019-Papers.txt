@@ -43,6 +43,13 @@ Image and Vision Computing
 
 ---
 
+
+--------------------
+Information Sciences
+---------------------
+
+---
+
 ---------------------------------------
 Computer Vision and Image Understanding
 ---------------------------------------
@@ -86,9 +93,15 @@ Odyssee Merveille, Benoît Naegel, Hugues Talbot, Nicolas Passat
 nD variational restoration of curvilinear structures with prior-based directional regularization. 
 IEEE Trans. on Image Processing. Volume 28(8), 2018, 3848 - 3859
 
--------------------
+
+-----------------------------------------------------
+IEEE Transactions on Parallel and Distributed Systems
+-----------------------------------------------------
+---
+
+------------------------------------------
 Journal of Mathematical Imaging and Vision
--------------------
+------------------------------------------
 Artner, N.M., Janusch, I. & Coeurjolly, D. J Math Imaging Vis (2019) 61: 173. https://doi.org/10.1007/s10851-018-0855-4
 
 N Boutry, T Géraud, L Najman
@@ -112,17 +125,17 @@ Combinatorics of the Gauss digitization under translation in 2D.
 Journal of Mathematical Imaging and Vision. Volume 61(2), 2019, 224-236
 
 
--------------------
+----------------------------
 Theoretical Computer Science
--------------------
+----------------------------
 
 
 ---
 
 
--------------------
+-------------------------------------------------
 Mathematical Morphology - Theory and Applications
--------------------
+-------------------------------------------------
 
 Ronse Christian, Mazo Loic, Tajine Mohamed
 Correspondence between Topological and Discrete Connectivities in Hausdorff Discretization
@@ -137,4 +150,9 @@ Grossiord Éloïse, Naegel Benoît, Talbot Hugues, Najman Laurent, Passat Nicola
 Mathematical Morphology - Theory and Applications. Volume 3, Issue 1, page 45-70 (2019)
 
 
+-----------------------
+Medical Image Analysis
+-----------------------
+
+---
 
