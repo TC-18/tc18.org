@@ -18,6 +18,9 @@ Removing non-signicant regions in hierarchical clustering and segmentation
 Benjamin Perret, Jean Cousty, Silvio Jamil, Ferzoli Guimarães, Yukiko Kenmochi, Laurent Najman
 tern Recognition Letters. Volume 128, pages 433-439 (2019)
 
+Connected Filters on Generalized Shape-Spaces
+Lê Duy Huỳnh, Nicolas Boutry, Thierry Géraud
+Pattern Recognition Letters. Volume 128, pages 348-354 (2019)
 
 --------------------------
 Image Processing On Line
