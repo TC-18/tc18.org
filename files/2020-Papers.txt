@@ -24,7 +24,12 @@ Image Processing On Line
 --------------------------
 Image and Vision Computing
 --------------------------
+---
 
+
+--------------------
+Information Sciences
+---------------------
 ---
 
 ---------------------------------------
@@ -65,9 +70,16 @@ IEEE Trans. on Image Processing
 -------------------------------
 ---
 
--------------------
+
+-----------------------------------------------------
+IEEE Transactions on Parallel and Distributed Systems
+-----------------------------------------------------
+---
+
+
+------------------------------------------
 Journal of Mathematical Imaging and Vision
--------------------
+------------------------------------------
 Phuong Thanh Nguyen,Xuan Son Nguyen, Mohamed Anouar Borgi, Mohamed Anouar Borgi and M K Nguyen
 A Projection-Based Method for Shape Measurement
 Journal of Mathematical Imaging and Vision pp 1–16 January 2020
@@ -81,9 +93,19 @@ Theoretical Computer Science
 ---
 
 
--------------------
+-------------------------------------------------
 Mathematical Morphology - Theory and Applications
--------------------
+-------------------------------------------------
+---
+
+
+
+-----------------------
+Medical Image Analysis
+-----------------------
+---
+
+
 
 
 
