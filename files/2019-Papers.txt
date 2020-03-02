@@ -5,6 +5,15 @@ Computers & Graphics
 Johanna Delanoy, David Coeurjolly, Jacques-Olivier Lachaud, and Adrien Bousseau. Combining
 voxel and normal predictions for multi-view 3d sketching. Computers & Graphics, 82 :65–72, 2019.
 
+----------------------------
+Discrete Applied Mathematics
+----------------------------
+
+Paolo Dulio and Silvia M.C. Pagani
+A rounding theorem for unique binary tomographic reconstruction
+Discrete Applied Mathematics. 268: 54-69, 2019.
+
+
 ------------------------------------------------------------------
 ESAIM: Mathematical Modelling and Numerical Analysis (ESAIM: M2AN)
 ------------------------------------------------------------------
