@@ -1,3 +1,17 @@
+--------------------- 
+Computers & Graphics
+---------------------
+
+Johanna Delanoy, David Coeurjolly, Jacques-Olivier Lachaud, and Adrien Bousseau. Combining
+voxel and normal predictions for multi-view 3d sketching. Computers & Graphics, 82 :65–72, 2019.
+
+------------------------------------------------------------------
+ESAIM: Mathematical Modelling and Numerical Analysis (ESAIM: M2AN)
+------------------------------------------------------------------
+
+Élie Bretin, Roland Denis, Jacques-Olivier Lachaud, and Édouard Oudet. Phase-field modelling and
+computing for a large number of phases. ESAIM : M2AN, 53(3) :805–832, 2019.
+
 -------------------
 Pattern Recognition
 -------------------
@@ -102,7 +116,13 @@ IEEE Transactions on Parallel and Distributed Systems
 ------------------------------------------
 Journal of Mathematical Imaging and Vision
 ------------------------------------------
-Artner, N.M., Janusch, I. & Coeurjolly, D. J Math Imaging Vis (2019) 61: 173. https://doi.org/10.1007/s10851-018-0855-4
+Artner, N.M., Janusch, I. & Coeurjolly, D. 
+Special Issue on Discrete Geometry for Computer Imagery
+Journal of Mathematical Imaging and Vision, (2019) 61: 173. 
+
+Thomas Caissard, David Coeurjolly, Jacques-Olivier Lachaud, and Tristan Roussillon. 
+Laplace–Beltrami operator on digital surfaces.
+Journal of Mathematical Imaging and Vision, Volume 61, pages 359–379, (2019).
 
 N Boutry, T Géraud, L Najman
 How to Make n-D Plain Maps Defined on Discrete Surfaces Alexandrov-Well-Composed in a Self-Dual Way. 
@@ -131,12 +151,13 @@ Journal of Mathematical Imaging and Vision, Volume 61(6), pages 798-823, (2019)
 Sravan Danda, Aditya Challa, B. S. Daya Sagar, Laurent Najman:
 Some Theoretical Links Between Shortest Path Filters and Minimum Spanning Tree Filters.
 Journal of Mathematical Imaging and Vision 61(6): 745-762 (2019)
+
 ----------------------------
 Theoretical Computer Science
 ----------------------------
 
-
----
+Mouhammad Said and Jacques-Olivier Lachaud. Analytical description of digital intersections :
+Minimal parameters and multiscale representation. Theoretical Computer Science, 784 :99–112, 2019.
 
 
 -------------------------------------------------
