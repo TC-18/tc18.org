@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>@font-face {
+  font-family: octicons-link;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background-color: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body * {
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.markdown-body a {
+  color: #4078c0;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before {
+  display: table;
+  content: "";
+}
+
+.markdown-body hr:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+  font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.markdown-body .select::-ms-expand {
+  opacity: 0;
+}
+
+.markdown-body .octicon {
+  font: normal normal normal 16px/1 octicons-link;
+  display: inline-block;
+  text-decoration: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.markdown-body .octicon-link:before {
+  content: '\f05c';
+}
+
+.markdown-body:before {
+  display: table;
+  content: "";
+}
+
+.markdown-body:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+.markdown-body .anchor {
+  display: inline-block;
+  padding-right: 2px;
+  margin-left: -18px;
+}
+
+.markdown-body .anchor:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .octicon-link,
+.markdown-body h2 .octicon-link,
+.markdown-body h3 .octicon-link,
+.markdown-body h4 .octicon-link,
+.markdown-body h5 .octicon-link,
+.markdown-body h6 .octicon-link {
+  color: #000;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+.markdown-body h1:hover .anchor,
+.markdown-body h2:hover .anchor,
+.markdown-body h3:hover .anchor,
+.markdown-body h4:hover .anchor,
+.markdown-body h5:hover .anchor,
+.markdown-body h6:hover .anchor {
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .anchor .octicon-link,
+.markdown-body h2:hover .anchor .octicon-link,
+.markdown-body h3:hover .anchor .octicon-link,
+.markdown-body h4:hover .anchor .octicon-link,
+.markdown-body h5:hover .anchor .octicon-link,
+.markdown-body h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h1 .anchor {
+  line-height: 1;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 .anchor {
+  line-height: 1;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h3 .anchor {
+  line-height: 1.2;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h4 .anchor {
+  line-height: 1.2;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h5 .anchor {
+  line-height: 1.1;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body h6 .anchor {
+  line-height: 1.1;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  box-sizing: content-box;
+  background-color: #fff;
+}
+
+.markdown-body code {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .highlight pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+.markdown-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+.markdown-body .pl-c {
+  color: #969896;
+}
+
+.markdown-body .pl-c1,
+.markdown-body .pl-s .pl-v {
+  color: #0086b3;
+}
+
+.markdown-body .pl-e,
+.markdown-body .pl-en {
+  color: #795da3;
+}
+
+.markdown-body .pl-s .pl-s1,
+.markdown-body .pl-smi {
+  color: #333;
+}
+
+.markdown-body .pl-ent {
+  color: #63a35c;
+}
+
+.markdown-body .pl-k {
+  color: #a71d5d;
+}
+
+.markdown-body .pl-pds,
+.markdown-body .pl-s,
+.markdown-body .pl-s .pl-pse .pl-s1,
+.markdown-body .pl-sr,
+.markdown-body .pl-sr .pl-cce,
+.markdown-body .pl-sr .pl-sra,
+.markdown-body .pl-sr .pl-sre {
+  color: #183691;
+}
+
+.markdown-body .pl-v {
+  color: #ed6a43;
+}
+
+.markdown-body .pl-id {
+  color: #b52a1d;
+}
+
+.markdown-body .pl-ii {
+  background-color: #b52a1d;
+  color: #f8f8f8;
+}
+
+.markdown-body .pl-sr .pl-cce {
+  color: #63a35c;
+  font-weight: bold;
+}
+
+.markdown-body .pl-ml {
+  color: #693a17;
+}
+
+.markdown-body .pl-mh,
+.markdown-body .pl-mh .pl-en,
+.markdown-body .pl-ms {
+  color: #1d3e81;
+  font-weight: bold;
+}
+
+.markdown-body .pl-mq {
+  color: #008080;
+}
+
+.markdown-body .pl-mi {
+  color: #333;
+  font-style: italic;
+}
+
+.markdown-body .pl-mb {
+  color: #333;
+  font-weight: bold;
+}
+
+.markdown-body .pl-md {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.markdown-body .pl-mi1 {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.markdown-body .pl-mdr {
+  color: #795da3;
+  font-weight: bold;
+}
+
+.markdown-body .pl-mo {
+  color: #1d3e81;
+}
+
+.markdown-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 0.35em 0.25em -1.6em;
+  vertical-align: middle;
+}
+
+.markdown-body :checked+.radio-label {
+  z-index: 1;
+  position: relative;
+  border-color: #4078c0;
+}
+</style><style>/*
+
+github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #008080;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #d14;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+
+.hljs-subst {
+  font-weight: normal;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #009926;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #990073;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #0086b3;
+}
+
+.hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+</style><style>.markdown-body {
+    font-size: 11px;
+}
+
+img.emoji-img.emoji {
+  max-width: 11px;
+  max-height: 11px;
+  vertical-align: middle;
+}
+</style>
+
+        <script src="file:///Users/kerautre/NewsLettersPreparation/node_modules/mdpdf/src/assets/highlight/highlight.pack.js"></script>
+    </head>
+    <body class="markdown-body">
+        <h1 id="iapr-tc18-april-2021-newsletter">IAPR-TC18 April 2021 Newsletter</h1>
+<p><a href="https://twitter.com/IAPR_TC18?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @IAPR_TC18</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Dear TC18 members,</p>
+<p>Please find this TC18 newsletter of April including the following contents:</p>
+<ol>
+<li><p>DGMM News</p></li>
+<li><p>Short news of past events</p></li>
+<li><p>Others/MISC</p></li>
+</ol>
+<p>I am glad to let officially the Chair to Benjamin Perret and Sara Brunetti (Vice Chair). It was a pleasure for me to chair this TC during this two terms with the DG and MM community whose dynamism is attested by the increasingly larger <a href="https://tc18.org/files/reportTc18FinalPeriod18-20.pdf">final reports</a>.  This dynamic activity, including special issues, tutorials, workshops, code dissemination and website sharing, was really appreciated during the ExCo meeting and I am sure that it will continue with the new team. Thank you all for contributing to the visibility of this TC. I will obviously continue to contribute with the team.</p>
+<p>With kind regards,<br>
+Bertrand With Benjamin, Sara and Phuc</p>
+<hr>
+<h2 id="1-dgmm-news"><strong>1. DGMM News</strong></h2>
+<p>The selection of DGMM articles are now done. The event received 56 submissions and 36 contributions were accepted. The program is not yet finalized but you can have access to a list of accepted papers on  the following link: <a href="https://tc18.org/files/toc_DGMM2021.pdf">https://tc18.org/files/toc_DGMM2021.pdf</a><br>
+<img width="20%" align="right" src="file:///Users/kerautre/EnCours/NewsLettersPreparation/Images/dgmm.png">  <br>
+The Keynote speakers are the following:</p>
+<ul>
+<li><p><strong>Maria-Jose Jimenez</strong><br>
+    On topological analysis of cells organization in biological images</p></li>
+<li><p><strong>Jes&#xFA;s Angulo</strong><br>
+    Some open questions on morphological operators and representations in the deep learning era</p></li>
+<li><p><strong>Cecilia Holmgren</strong><br>
+    A unifying model for many important random trees of logarithmic height</p></li>
+</ul>
+<p>See keynote web page <a href="https://www.dgmm2021.se/keynote-speakers">here</a> for more details. Note that the event will unfortunately be online with exclusively oral presentations.</p>
+<h2 id="2-short-news-of-past-events"><strong>2. Short news of past events</strong></h2>
+<h3 id="rrpr-2021-news">RRPR 2021 news</h3>
+<p><img width="20%" align="right" src="file:///Users/kerautre/EnCours/NewsLettersPreparation/Images/previewLogoRRPR2016.png"></p>
+<p>This event was held online on January 11, 2021 as a satellite workshop of ICPR. Following the two previous editions, it continues to cover advances in platforms on reproducibility and new reproducible research results, which were covered by regular or companion short papers.</p>
+<p>The growing success of this event is evidenced by the larger number of authors registered for this workshop (60 authors from 10 different countries), corresponding to an increase of 57%. The total number of submitted papers was also increased, in this case by 28% (18 papers) compared to the previous edition. The online-only audience (due to the pandemic) ranged from 25 to 30 attendees in each session.</p>
+<p>The thirteen accepted papers were organized into three main categories. The first contributions focused on reproducible research frameworks. One paper introduced the <em>ReproducedPapers.org</em> platform which opens new ways to share and validate reproducible research. This was complemented by a second contribution focused on the evaluation of reproducibility, including a survey of recommendations. A final article in this category introduced the <em>torchdistill</em> framework about knowledge distillation in the context of reproducible deep learning research. The second category of contributions focused on reproducible research results and the last category included ICPR companion papers describing implementation and details that are an absolute requirement for reproducibility.</p>
+<p>Videos of the pre-recorded presentations remain available on the <a href="https://rrpr2020.sciencesconf.org">workshop&apos;s website</a></p>
+<p>In this third edition, we were glad to invite Roberto Di Cosmo to present the <em>Software Heritage</em> project, which aims to establish a perpetual universal archive of software source code.  Such an initiative is closely related to reproducibility, given that it ensures the availability of the source code in the long term and keeps important metadata. A second recent initiative in the Computer Graphics domain was presented by Nicolas Bonneel on <em>Code Replicability</em>. The evaluation of code replicability in computer graphics was presented along with <a href="http://replicability.graphics">http://replicability.graphics</a>, the new platform they propose that encourages code sharing in this domain.  We thank the two invited speakers for the high quality of their presentations and the meaningful discussions with the attendees.</p>
+<p>The proceedings are in press in LNCS Springer.</p>
+<h3 id="dgdvc-conference-on-digital-geometry-and-discrete-variational-calculus">DGDVC: Conference on Digital Geometry and Discrete Variational Calculus</h3>
+<p>29 Mar-2 Apr 2021 Marseille (France) <a href="https://dgdvc.sciencesconf.org">https://dgdvc.sciencesconf.org</a></p>
+<p><img width="15%" align="right" src="file:///Users/kerautre/EnCours/NewsLettersPreparation/Images/dgdvc.png"><br>
+The goal of the conference was to gather researchers in digital geometry and discrete variational calculus, theoretical mathematical experts from geometric measure theory and variational problems and applications oriented computer scientists from image analysis or geometry processing. It would bridge the gap between various approaches to discrete calculus, and go beyond the current state of the art. The aim of the organizers was to bring together these communities in order to promote calculus on digital spaces and structures, fostering new developments.</p>
+<p>The presentation supports and videos are available online: <a href="https://dgdvc.sciencesconf.org/page/presentations_page">https://dgdvc.sciencesconf.org/page/presentations_page</a></p>
+<h3 id="symposium-isgv-2021-in-commemoration-to-professor-reinhard-klette">Symposium ISGV 2021 in commemoration to Professor Reinhard Klette</h3>
+<p>This symposium included a geometry viewpoint with digital geometry and other application fields, the videos and the proceedings of the event are available online: <a href="https://cerv.aut.ac.nz/isgv2021">https://cerv.aut.ac.nz/isgv2021</a></p>
+<h2 id="3-othersmisc"><strong>3. Others/MISC</strong></h2>
+<h3 id="ipol-special-issue-on-reproducible-research-in-mathematical-morphology-and-discrete-geometry-tc18-special-issue">IPOL special Issue on Reproducible Research in Mathematical Morphology and Discrete Geometry (TC18 Special Issue)</h3>
+<p>In link to the main topics of the TC18 with Discrete Geometry and Mathematical Morphology, the aim of this special issue is to  encourage submissions of recent works presented during  different events from the previous years (like ISMM, DGCI, IWCIA, RRPR, DGMM and others).</p>
+<p>The tentative deadlines are the followings:</p>
+<ul>
+<li>Deadline for sending <strong>title</strong>, <strong>abstract</strong> and code: <strong>2021-05-15</strong></li>
+<li>Online demo construction from draft code: 2021-05-30</li>
+<li><strong>Manuscript submission: 2021-06-15</strong></li>
+<li>Reviews: 2021-07-30 </li>
+<li>Final publication: 2021-10-01<br>
+For more details and updates you can contact us at: <a href="mailto:si_tc18_ipol@inria.fr">si_tc18_ipol@inria.fr</a>  </li>
+</ul>
+<h3 id="news-of-journal-mmta">News of Journal MMTA</h3>
+<p>The journal &quot;Mathematical Morphology - Theory and Applications&quot; (<a href="https://www.degruyter.com/journal/key/MATHM/html)">https://www.degruyter.com/journal/key/MATHM/html)</a>, launched in 2016 and whose editors-in-chief are Nicolas Passat and Hugues Talbot, is now referenced on DBLP (<a href="https://dblp.uni-trier.de/db/journals/mathm/index.html)">https://dblp.uni-trier.de/db/journals/mathm/index.html)</a>. This news is a recognition of the efforts made by the Mathematical Morphology community to develop a new quality open source journal. This will significantly increase the visibility of the journal and of the articles published in it.</p>
+<h3 id="published-special-issues">Published special issues:</h3>
+<ul>
+<li>Special issue in Pattern Recognition Letters <a href="https://www.sciencedirect.com/journal/pattern-recognition-letters/special-issue/10ZCM30BRNN">&quot;Hierarchical Representations: New Results and Challenges for Image Analysis&quot;</a> edited by Edited by Nicolas Passat, Camille Kurtz, and Antoine Vacavant.   </li>
+<li>Special issue following DGCI 2019 in Journal of Mathematical Imaging and Vision, <a href="https://link.springer.com/journal/10851/volumes-and-issues/62-5">&quot;Special Issue on Discrete Geometry for Computer Imagery&quot;</a> edited by Michel Couprie,Jean Cousty, Yukiko Kenmochi, and David Coeurjolly.</li>
+<li>Special issued following ISMM 2019 in Mathematical Morphology-Theory &amp; Applications, <a href="https://www.degruyter.com/view/journals/mathm/4/1/article-p159.xml">&quot;Special Issue: ISMM 2019&quot;</a> edited by Bernhard Burgeth, Andreas Kleefeld, Beno&#xEE;t Naegel, and Benjamin Perret</li>
+</ul>
+<p><center>
+<tr>
+<td><img width="100" src="file:///Users/kerautre/EnCours/NewsLettersPreparation/Images/prl.png"></td>
+<td><img width="100" src="file:///Users/kerautre/EnCours/NewsLettersPreparation/Images/jmiv.png"></td>
+<td><img width="100" src="file:///Users/kerautre/EnCours/NewsLettersPreparation/Images/mmta.png"></td>
+</tr>
+</center></p>
+    </body>
+</html>
