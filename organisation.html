@@ -246,11 +246,12 @@
                                                 </ul>
                             <div class="form-group mx-auto col-md-6">
                                 <textarea class="form-control" id="exampleFormControlTextarea1" name ="@@comment" rows="5">I want to help .... </textarea>
-                                <button type="submit" class="btn btn-primary mt-2" value="Send">Send</button>
-                                <button type="reset" class="btn btn-secondary mt-2" value="Send">Reset</button>
+                                 <button onclick="sendMail(); return false">Send</button>
+                         
+				    <button type="reset" class="btn btn-secondary mt-2" value="Send">Reset</button>
 
                             </div>
-                          <button onclick="sendMail(); return false">Send</button>
+                         
                             </form>
                <script>
               function sendMail() {
