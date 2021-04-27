@@ -246,7 +246,7 @@
                                                 </ul>
                             <div class="form-group mx-auto col-md-6">
                                 <textarea class="form-control" id="exampleFormControlTextarea1" name ="@@comment" rows="5">I want to help .... </textarea>
-                                 <button onclick="sendMail(); return false">Send</button>
+                                 <button class="btn btn-secondary mt-2" onclick="sendMail(); return false">Send</button>
                          
 				    <button type="reset" class="btn btn-secondary mt-2" value="Send">Reset</button>
 
@@ -254,7 +254,7 @@
                          
                             </form>
                <script>
-              function sendMail() {
+		      function sendMail() {
 	          	$mail = $('#mail');
 		          $mail.prop ('action','mailto:inscriptions@tc18.org');
 	        	$mail.submit();
