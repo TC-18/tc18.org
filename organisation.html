@@ -2,6 +2,7 @@
 <html lang="en">
   <script src="include.js"></script>                                                                     
   <head>
+     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
       <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
                 <meta name="description" content="">
@@ -212,10 +213,8 @@
                     <h3>How to become a member ?</h3>
                     <a  class="shiftedAnchor" name="becomemember"></a>
                     <p>Fill and send the following form:
-                    
-                    <form name="mail" action="mailto:inscriptions@tc18.org?subject=TC18-member" method="POST" enctype="text/plain" target="_top" >
+                    <form id="mail" enctype="text/plain">
                         <div class="row">
-                            
                             <div class="form-group col-md-4">
                                 <label class= "mt-2" for="nameInput">Name :</label>
                                 <input type="text" class="form-control mb-2" id="nameInput" name="@@name" placeholder="Your name">
@@ -251,7 +250,15 @@
                                 <button type="reset" class="btn btn-secondary mt-2" value="Send">Reset</button>
 
                             </div>
+                          <button onclick="sendMail(); return false">Send</button>
                             </form>
+               <script>
+              function sendMail() {
+	          	$mail = $('#mail');
+		          $mail.prop ('action','mailto:inscriptions@tc18.org');
+	        	$mail.submit();
+	          }     
+          </script>     
                 </div>
                 <p>
                 In case you have problems with the web based form, or to modify
