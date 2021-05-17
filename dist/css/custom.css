@@ -80,6 +80,14 @@ h2 {
   color: #09BCE8;
 }
 
+dt {
+  padding-bottom: 5px;
+}
+
+dd {
+  padding-left: 10px;
+}
+
 .carousel-indicators .active{
     background-color: #09BCE8;
 }
