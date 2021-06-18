@@ -16,8 +16,8 @@ function readTextFile(file)
     rawFile.send(null);
 }
 
-readTextFile("https://tc18.org/membersList.html");
-
+//readTextFile("https://tc18.org/membersList.html");
+readTextFile("membersList.html");
 
 
 
