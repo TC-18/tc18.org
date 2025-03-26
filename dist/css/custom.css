@@ -213,3 +213,7 @@ tr {
   border: none;
 
 }
+
+dl{
+    margin-bottom: 6px;
+}
